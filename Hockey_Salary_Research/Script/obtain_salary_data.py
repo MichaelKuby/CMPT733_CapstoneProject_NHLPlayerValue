@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-from dataprep.eda import plot
 
 
 def download_web_page(url_string, file_path, file_name):
