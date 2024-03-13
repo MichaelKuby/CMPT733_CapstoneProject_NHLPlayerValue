@@ -1,0 +1,1484 @@
+PLAYER,TEAM,AGE,POS,HANDED,SIGNING TEAM,TYPE,SIGNING AGE,CLAUSE,LENGTH,EXPIRY,EXP. YEAR,CAP HIT,AAV,SALARY,BASE SALARY,S.BONUS,P.BONUS
+Jonathan Toews,-,28,C,Left,CHI,Standard (1-way),26,NMC,8,UFA,2023,"$10,500,000","$10,500,000","$13,800,000","$7,800,000","$6,000,000",$0
+Patrick Kane,DET,27,RW,Left,CHI,Standard (1-way),26,NMC,8,UFA,2023,"$10,500,000","$10,500,000","$13,800,000","$7,800,000","$6,000,000",$0
+Anze Kopitar,LAK,28,C,Left,LAK,Standard (1-way),28,NMC,8,UFA,2024,"$10,000,000","$10,000,000","$14,000,000","$5,000,000","$9,000,000",$0
+Alex Ovechkin,WSH,30,LW,Right,WSH,Standard (1-way),22,M-NTC,13,UFA,2021,"$9,538,462","$9,538,462","$10,000,000","$10,000,000",$0,$0
+Evgeni Malkin,PIT,29,C,Left,PIT,Standard (1-way),27,NMC,8,UFA,2022,"$9,500,000","$9,500,000","$9,500,000","$9,500,000",$0,$0
+P.K. Subban,-,27,RD,Right,MTL,Standard (1-way),25,,8,UFA,2022,"$9,000,000","$9,000,000","$11,000,000","$9,000,000","$2,000,000",$0
+Sidney Crosby,PIT,28,C,Left,PIT,Standard (1-way),25,NMC,12,UFA,2025,"$8,700,000","$8,700,000","$10,900,000","$10,900,000",$0,$0
+Corey Perry,EDM,31,RW,Right,ANA,Standard (1-way),28,NMC,8,UFA,2021,"$8,625,000","$8,625,000","$10,000,000","$6,000,000","$4,000,000",$0
+Steven Stamkos,TBL,26,"LW, C",Right,TBL,Standard (1-way),26,NMC,8,UFA,2024,"$8,500,000","$8,500,000","$9,500,000","$1,000,000","$8,500,000",$0
+Henrik Lundqvist,-,34,G,Left,NYR,Standard (1-way),32,NMC,7,UFA,2021,"$8,500,000","$8,500,000","$9,500,000","$8,500,000","$1,000,000",$0
+Claude Giroux,OTT,28,"RW, C",Right,PHI,Standard (1-way),26,NMC,8,UFA,2022,"$8,275,000","$8,275,000","$9,000,000","$9,000,000",$0,$0
+Jakub Voracek,ARI,26,"RW, LW",Left,PHI,Standard (1-way),25,,8,UFA,2024,"$8,250,000","$8,250,000","$10,000,000","$6,000,000","$4,000,000",$0
+Ryan Getzlaf,-,31,C,Right,ANA,Standard (1-way),27,NMC,8,UFA,2021,"$8,250,000","$8,250,000","$9,250,000","$9,250,000",$0,$0
+Phil Kessel,-,28,RW,Right,TOR,Standard (1-way),25,"M-NTC, NMC",8,UFA,2022,"$8,000,000","$8,000,000","$9,000,000","$7,000,000","$2,000,000",$0
+Shea Weber,ARI,30,RD,Right,NSH,Standard (1-way),26,,14,UFA,2026,"$7,857,143","$7,857,143","$12,000,000","$4,000,000","$8,000,000",$0
+Rick Nash,-,32,"LW, RW",Left,CBJ,Standard (1-way),26,"M-NTC, NMC",8,UFA,2018,"$7,800,000","$7,800,000","$8,000,000","$8,000,000",$0,$0
+Dustin Byfuglien,-,31,RD,Right,WPG,Standard (1-way),31,NMC,5,UFA,2021,"$7,600,000","$7,600,000","$8,000,000","$6,000,000","$2,000,000",$0
+Ryan Suter,DAL,31,LD,Left,MIN,Standard (1-way),27,NMC,13,UFA,2025,"$7,538,462","$7,538,462","$9,000,000","$9,000,000",$0,$0
+Zach Parise,COL,31,LW,Left,MIN,Standard (1-way),27,NMC,13,UFA,2025,"$7,538,462","$7,538,462","$9,000,000","$9,000,000",$0,$0
+Vladimir Tarasenko,FLA,24,RW,Left,STL,Standard (1-way),23,,8,UFA,2023,"$7,500,000","$7,500,000","$8,000,000","$8,000,000",$0,$0
+Ryan O'Reilly,NSH,25,C,Left,BUF,Standard (1-way),25,,7,UFA,2023,"$7,500,000","$7,500,000","$11,000,000","$1,000,000","$10,000,000",$0
+Pavel Datsyuk,-,37,"C, LW",Left,DET,35+ (1-way),34,NMC,3,UFA,2017,"$7,500,000","$7,500,000","$5,500,000","$5,500,000",$0,$0
+Jason Spezza,-,33,"C, RW",Right,DAL,Standard (1-way),32,"M-NTC, NMC",4,UFA,2019,"$7,500,000","$7,500,000","$7,500,000","$7,500,000",$0,$0
+Sergei Bobrovsky,FLA,27,G,Left,CBJ,Standard (1-way),26,NMC,4,UFA,2019,"$7,425,000","$7,425,000","$8,500,000","$8,500,000",$0,$0
+Bobby Ryan,-,29,"RW, LW",Right,OTT,Standard (1-way),28,"M-NTC, NMC",7,UFA,2022,"$7,250,000","$7,250,000","$7,000,000","$5,000,000","$2,000,000",$0
+David Krejci,-,30,C,Right,BOS,Standard (1-way),28,NMC,6,UFA,2021,"$7,250,000","$7,250,000","$7,250,000","$7,250,000",$0,$0
+Kris Letang,PIT,29,RD,Right,PIT,Standard (1-way),27,"M-NTC, NMC",8,UFA,2022,"$7,250,000","$7,250,000","$7,250,000","$7,250,000",$0,$0
+Tuukka Rask,-,29,G,Left,BOS,Standard (1-way),26,NMC,8,UFA,2021,"$7,000,000","$7,000,000","$7,500,000","$7,500,000",$0,$0
+Pekka Rinne,-,33,G,Left,NSH,Standard (1-way),29,"M-NTC, NMC",7,UFA,2019,"$7,000,000","$7,000,000","$7,000,000","$7,000,000",$0,$0
+Daniel Sedin,-,35,LW,Left,VAN,Standard (1-way),33,NMC,4,UFA,2018,"$7,000,000","$7,000,000","$7,000,000","$7,000,000",$0,$0
+Henrik Sedin,-,35,C,Left,VAN,Standard (1-way),33,NMC,4,UFA,2018,"$7,000,000","$7,000,000","$7,000,000","$7,000,000",$0,$0
+Paul Stastny,-,30,"C, LW",Left,STL,Standard (1-way),28,NTC,4,UFA,2018,"$7,000,000","$7,000,000","$7,000,000","$7,000,000",$0,$0
+Drew Doughty,LAK,26,RD,Right,LAK,Standard (1-way),21,,8,UFA,2019,"$7,000,000","$7,000,000","$7,450,000","$7,450,000",$0,$0
+Dion Phaneuf,-,31,LD,Left,TOR,Standard (1-way),29,"M-NTC, NMC",7,UFA,2021,"$7,000,000","$7,000,000","$7,500,000","$6,500,000","$1,000,000",$0
+Zdeno Chara,-,39,LD,Left,BOS,Standard (1-way),33,NMC,7,UFA,2018,"$6,916,667","$6,916,667","$5,000,000","$5,000,000",$0,$0
+Brent Seabrook,TBL,31,RD,Right,CHI,Standard (1-way),31,NMC,8,UFA,2024,"$6,875,000","$6,875,000","$9,000,000","$4,500,000","$4,500,000",$0
+Ryan Kesler,-,31,"C, RW",Right,ANA,Standard (1-way),31,NMC,6,UFA,2022,"$6,875,000","$6,875,000","$7,875,000","$7,875,000",$0,$0
+Patrice Bergeron,-,30,C,Right,BOS,Standard (1-way),28,NMC,8,UFA,2022,"$6,875,000","$6,875,000","$8,750,000","$8,750,000",$0,$0
+Johnny Gaudreau,CBJ,22,LW,Left,CGY,Standard (1-way),22,,6,UFA,2022,"$6,750,000","$6,750,000","$6,750,000","$3,750,000","$3,000,000",$0
+Mark Giordano,TOR,32,LD,Left,CGY,Standard (1-way),32,NTC,6,UFA,2022,"$6,750,000","$6,750,000","$6,750,000","$4,750,000","$2,000,000",$0
+Mikko Koivu,-,33,C,Left,MIN,Standard (1-way),27,NMC,7,UFA,2018,"$6,750,000","$6,750,000","$5,400,000","$5,400,000",$0,$0
+Joe Thornton,-,36,"C, LW",Left,SJS,Standard (1-way),34,NMC,3,UFA,2017,"$6,750,000","$6,750,000","$6,750,000","$6,750,000",$0,$0
+Nicklas Bäckström,WSH,28,C,Left,WSH,Standard (1-way),22,M-NTC,10,UFA,2020,"$6,700,000","$6,700,000","$7,000,000","$7,000,000",$0,$0
+Patrick Marleau,-,36,"LW, C",Left,SJS,Standard (1-way),34,NMC,3,UFA,2017,"$6,666,667","$6,666,667","$6,500,000","$6,500,000",$0,$0
+Derek Stepan,-,26,"C, RW",Right,NYR,Standard (1-way),25,,6,UFA,2021,"$6,500,000","$6,500,000","$8,000,000","$7,000,000","$1,000,000",$0
+Carey Price,MTL,28,G,Left,MTL,Standard (1-way),24,"M-NTC, NMC",6,UFA,2018,"$6,500,000","$6,500,000","$7,000,000","$7,000,000",$0,$0
+Alex Pietrangelo,VGK,26,RD,Right,STL,Standard (1-way),23,,7,UFA,2020,"$6,500,000","$6,500,000","$7,000,000","$7,000,000",$0,$0
+Erik Karlsson,PIT,26,RD,Right,OTT,Standard (1-way),22,,7,UFA,2019,"$6,500,000","$6,500,000","$7,000,000","$7,000,000",$0,$0
+Sean Monahan,WPG,21,"C, LW, RW",Left,CGY,Standard (1-way),21,,7,UFA,2023,"$6,375,000","$6,375,000","$6,500,000","$6,500,000",$0,$0
+Keith Yandle,-,29,LD,Left,FLA,Standard (1-way),29,NMC,7,UFA,2023,"$6,350,000","$6,350,000","$7,500,000","$3,500,000","$4,000,000",$0
+Nathan MacKinnon,COL,20,C,Right,COL,Standard (1-way),20,,7,UFA,2023,"$6,300,000","$6,300,000","$5,000,000","$5,000,000",$0,$0
+Mark Scheifele,WPG,23,C,Right,WPG,Standard (1-way),23,,8,UFA,2024,"$6,125,000","$6,125,000","$5,000,000","$5,000,000",$0,$0
+Braden Holtby,-,26,G,Left,WSH,Standard (1-way),25,,5,UFA,2020,"$6,100,000","$6,100,000","$7,000,000","$7,000,000",$0,$0
+Henrik Zetterberg,-,35,C,Left,DET,Standard (1-way),28,,12,UFA,2021,"$6,083,333","$6,083,333","$7,500,000","$7,500,000",$0,$0
+Kyle Okposo,FLA,28,RW,Right,BUF,Standard (1-way),28,NMC,7,UFA,2023,"$6,000,000","$6,000,000","$8,000,000","$1,000,000","$7,000,000",$0
+Loui Eriksson,-,30,"LW, RW",Left,VAN,Standard (1-way),30,NMC,6,UFA,2022,"$6,000,000","$6,000,000","$8,000,000","$1,000,000","$7,000,000",$0
+David Backes,-,32,"C, RW",Right,BOS,Standard (1-way),32,NMC,5,UFA,2021,"$6,000,000","$6,000,000","$8,000,000","$5,000,000","$3,000,000",$0
+Milan Lucic,BOS,28,"LW, RW",Left,EDM,Standard (1-way),28,NMC,7,UFA,2023,"$6,000,000","$6,000,000","$8,000,000","$4,000,000","$4,000,000",$0
+Filip Forsberg,NSH,21,LW,Right,NSH,Standard (1-way),21,,6,UFA,2022,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Tomas Plekanec,-,33,C,Left,MTL,Standard (1-way),32,,2,UFA,2018,"$6,000,000","$6,000,000","$7,000,000","$7,000,000",$0,$0
+Erik Johnson,PHI,28,RD,Right,COL,Standard (1-way),28,"M-NTC, NMC",7,UFA,2023,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Brandon Saad,STL,23,"LW, RW",Left,CBJ,Standard (1-way),22,,6,UFA,2021,"$6,000,000","$6,000,000","$5,750,000","$5,750,000",$0,$0
+Johnny Boychuk,-,32,RD,Right,NYI,Standard (1-way),31,NMC,7,UFA,2022,"$6,000,000","$6,000,000","$7,000,000","$7,000,000",$0,$0
+Mike Green,-,30,RD,Right,DET,Standard (1-way),29,NTC,3,UFA,2018,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Cory Schneider,-,30,G,Left,NJD,Standard (1-way),29,NTC,7,UFA,2022,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Jordan Staal,CAR,27,"C, LW",Left,CAR,Standard (1-way),23,NMC,10,UFA,2023,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Logan Couture,SJS,27,C,Left,SJS,Standard (1-way),25,M-NTC,5,UFA,2019,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Joe Pavelski,DAL,31,RW,Right,SJS,Standard (1-way),29,M-NTC,5,UFA,2019,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Matt Duchene,DAL,25,"RW, C",Left,COL,Standard (1-way),22,,5,UFA,2019,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Ryan Miller,-,35,G,Left,VAN,Standard (1-way),33,M-NTC,3,UFA,2017,"$6,000,000","$6,000,000","$6,000,000","$5,000,000","$1,000,000",$0
+Corey Crawford,-,31,G,Left,CHI,Standard (1-way),29,"M-NTC, NMC",6,UFA,2020,"$6,000,000","$6,000,000","$6,000,000","$5,000,000","$1,000,000",$0
+Ryan Nugent-Hopkins,EDM,23,"LW, C",Left,EDM,Standard (1-way),20,,7,UFA,2021,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Jordan Eberle,SEA,26,RW,Right,EDM,Standard (1-way),22,,6,UFA,2019,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Taylor Hall,CHI,24,LW,Left,EDM,Standard (1-way),20,,7,UFA,2020,"$6,000,000","$6,000,000","$6,000,000","$6,000,000",$0,$0
+Ben Bishop,-,29,G,Left,TBL,Standard (1-way),28,"M-NTC, NMC",2,UFA,2017,"$5,950,000","$5,950,000","$5,950,000","$5,950,000",$0,$0
+Aleksander Barkov,FLA,20,C,Left,FLA,Standard (1-way),20,,6,UFA,2022,"$5,900,000","$5,900,000","$4,500,000","$4,500,000",$0,$0
+Semyon Varlamov,NYI,28,G,Left,COL,Standard (1-way),25,,5,UFA,2019,"$5,900,000","$5,900,000","$6,000,000","$6,000,000",$0,$0
+Patrick Sharp,-,34,"LW, C",Right,CHI,Standard (1-way),29,"M-NTC, NMC",5,UFA,2017,"$5,900,000","$5,900,000","$5,000,000","$5,000,000",$0,$0
+Kari Lehtonen,-,32,G,Left,DAL,Standard (1-way),28,M-NTC,5,UFA,2018,"$5,900,000","$5,900,000","$6,000,000","$6,000,000",$0,$0
+Dustin Brown,-,31,"RW, LW",Right,LAK,Standard (1-way),29,M-NTC,8,UFA,2022,"$5,875,000","$5,875,000","$7,000,000","$7,000,000",$0,$0
+Brandon Dubinsky,-,30,"C, LW",Left,CBJ,Standard (1-way),29,NMC,6,UFA,2021,"$5,850,000","$5,850,000","$5,850,000","$5,850,000",$0,$0
+Alexander Steen,-,32,"LW, RW, C",Left,STL,Standard (1-way),29,NTC,3,UFA,2017,"$5,800,000","$5,800,000","$6,500,000","$6,500,000",$0,$0
+Jonathan Quick,NYR,30,G,Left,LAK,Standard (1-way),27,,10,UFA,2023,"$5,800,000","$5,800,000","$7,000,000","$7,000,000",$0,$0
+Ryan Callahan,-,31,RW,Right,TBL,Standard (1-way),29,NMC,6,UFA,2020,"$5,800,000","$5,800,000","$6,500,000","$6,500,000",$0,$0
+Brent Burns,CAR,31,RD,Right,SJS,Standard (1-way),27,M-NTC,5,UFA,2017,"$5,760,000","$5,760,000","$5,760,000","$5,760,000",$0,$0
+Alexander Radulov,-,29,RW,Left,MTL,Standard (1-way),29,,1,UFA,2017,"$5,750,000","$5,750,000","$5,750,000","$2,750,000","$3,000,000",$0
+Dougie Hamilton,NJD,23,RD,Right,CGY,Standard (1-way),22,,6,UFA,2021,"$5,750,000","$5,750,000","$5,500,000","$5,500,000",$0,$0
+Marc-André Fleury,MIN,31,G,Left,PIT,Standard (1-way),30,"M-NTC, NMC",4,UFA,2019,"$5,750,000","$5,750,000","$5,750,000","$5,750,000",$0,$0
+Travis Zajac,-,31,C,Right,NJD,Standard (1-way),27,NTC,8,UFA,2021,"$5,750,000","$5,750,000","$6,500,000","$6,500,000",$0,$0
+Andrei Markov,-,37,LD,Left,MTL,35+ (1-way),35,M-NTC,3,UFA,2017,"$5,750,000","$5,750,000","$4,250,000","$4,250,000",$0,$0
+Matt Niskanen,-,29,RD,Right,WSH,Standard (1-way),27,M-NTC,7,UFA,2021,"$5,750,000","$5,750,000","$5,750,000","$5,750,000",$0,$0
+Tyler Seguin,DAL,24,"C, RW",Right,BOS,Standard (1-way),21,,6,UFA,2019,"$5,750,000","$5,750,000","$6,000,000","$6,000,000",$0,$0
+Toby Enström,-,31,LD,Left,WPG,Standard (1-way),27,NMC,5,UFA,2018,"$5,750,000","$5,750,000","$5,750,000","$4,600,000","$1,150,000",$0
+Jeff Skinner,BUF,24,"LW, RW",Left,CAR,Standard (1-way),20,,6,UFA,2019,"$5,725,000","$5,725,000","$6,000,000","$6,000,000",$0,$0
+Hampus Lindholm,BOS,22,LD,Left,ANA,Standard (1-way),22,,6,UFA,2022,"$5,713,415","$5,713,415","$3,000,000","$3,000,000",$0,$0
+Marc Staal,PHI,29,LD,Left,NYR,Standard (1-way),28,NMC,6,UFA,2021,"$5,700,000","$5,700,000","$6,000,000","$5,000,000","$1,000,000",$0
+Mike Smith,-,34,G,Left,ARI,Standard (1-way),31,M-NTC,6,UFA,2019,"$5,666,667","$5,666,667","$6,500,000","$6,500,000",$0,$0
+Jason Pominville,-,33,RW,Right,MIN,Standard (1-way),30,"M-NTC, NMC",5,UFA,2019,"$5,600,000","$5,600,000","$6,250,000","$6,250,000",$0,$0
+Blake Wheeler,NYR,29,RW,Right,WPG,Standard (1-way),26,M-NTC,6,UFA,2019,"$5,600,000","$5,600,000","$5,800,000","$5,800,000",$0,$0
+Gabriel Landeskog,COL,23,"LW, C",Left,COL,Standard (1-way),20,,7,UFA,2021,"$5,571,429","$5,571,429","$5,500,000","$5,500,000",$0,$0
+Duncan Keith,-,32,LD,Left,CHI,Standard (1-way),26,NMC,13,UFA,2023,"$5,538,462","$5,538,462","$6,000,000","$6,000,000",$0,$0
+Tyson Barrie,NSH,24,RD,Right,COL,Standard (1-way),24,,4,UFA,2020,"$5,500,000","$5,500,000","$5,000,000","$5,000,000",$0,$0
+Andrew Ladd,-,30,LW,Left,NYI,Standard (1-way),30,NMC,7,UFA,2023,"$5,500,000","$5,500,000","$8,000,000","$1,000,000","$7,000,000",$0
+Nick Leddy,STL,25,LD,Left,NYI,Standard (1-way),23,,7,UFA,2022,"$5,500,000","$5,500,000","$4,500,000","$4,500,000",$0,$0
+Andrej Sekera,-,30,LD/RD,Left,EDM,Standard (1-way),29,NMC,6,UFA,2021,"$5,500,000","$5,500,000","$6,500,000","$6,500,000",$0,$0
+Jeff Petry,DET,28,RD,Right,MTL,Standard (1-way),27,NMC,6,UFA,2021,"$5,500,000","$5,500,000","$7,000,000","$6,000,000","$1,000,000",$0
+Nick Foligno,CHI,28,"LW, C, RW",Left,CBJ,Standard (1-way),27,NMC,6,UFA,2021,"$5,500,000","$5,500,000","$5,500,000","$5,500,000",$0,$0
+John Tavares,TOR,25,"C, LW",Left,NYI,Standard (1-way),20,"M-NTC, NMC",6,UFA,2018,"$5,500,000","$5,500,000","$6,000,000","$6,000,000",$0,$0
+Oliver Ekman-Larsson,FLA,24,LD,Left,ARI,Standard (1-way),21,,6,UFA,2019,"$5,500,000","$5,500,000","$6,000,000","$6,000,000",$0,$0
+Dave Bolland,-,30,C,Right,FLA,Standard (1-way),28,M-NTC,5,UFA,2019,"$5,500,000","$5,500,000","$5,500,000","$5,500,000",$0,$0
+Brooks Orpik,-,35,LD,Left,WSH,Standard (1-way),33,,5,UFA,2019,"$5,500,000","$5,500,000","$5,500,000","$4,500,000","$1,000,000",$0
+Dan Girardi,-,32,RD,Right,NYR,Standard (1-way),30,NMC,6,UFA,2020,"$5,500,000","$5,500,000","$6,000,000","$5,000,000","$1,000,000",$0
+Tyler Myers,VAN,26,RD,Right,BUF,Standard (1-way),22,,7,UFA,2019,"$5,500,000","$5,500,000","$4,000,000","$4,000,000",$0,$0
+Alex Goligoski,MIN,30,LD/RD,Left,ARI,Standard (1-way),30,NMC,5,UFA,2021,"$5,475,000","$5,475,000","$5,375,000","$5,375,000",$0,$0
+Rasmus Ristolainen,PHI,21,RD,Right,BUF,Standard (1-way),21,,6,UFA,2022,"$5,400,000","$5,400,000","$5,400,000","$5,400,000",$0,$0
+Seth Jones,CHI,21,RD,Right,CBJ,Standard (1-way),21,,6,UFA,2022,"$5,400,000","$5,400,000","$5,400,000","$5,400,000",$0,$0
+Jay Bouwmeester,-,32,LD,Left,STL,Standard (1-way),29,NTC,5,UFA,2019,"$5,400,000","$5,400,000","$5,600,000","$5,600,000",$0,$0
+Jaden Schwartz,SEA,24,LW,Left,STL,Standard (1-way),24,,5,UFA,2021,"$5,350,000","$5,350,000","$5,250,000","$5,250,000",$0,$0
+Jarome Iginla,-,39,RW,Right,COL,35+ (1-way),37,NMC,3,UFA,2017,"$5,333,333","$5,333,333","$5,000,000","$5,000,000",$0,$0
+Roberto Luongo,-,37,G,Left,VAN,Standard (1-way),31,M-NTC,12,UFA,2022,"$5,333,333","$5,333,333","$6,714,000","$6,714,000",$0,$0
+Nathan Horton,-,31,RW,Right,CBJ,Standard (1-way),28,NMC,7,UFA,2020,"$5,300,000","$5,300,000","$6,000,000","$6,000,000",$0,$0
+Jimmy Howard,-,32,G,Left,DET,Standard (1-way),29,M-NTC,6,UFA,2019,"$5,291,666","$5,291,666","$5,500,000","$5,500,000",$0,$0
+Marián Hossa,-,37,RW,Left,CHI,Standard (1-way),30,NMC,12,UFA,2021,"$5,275,000","$5,275,000","$4,000,000","$4,000,000",$0,$0
+Jeff Carter,PIT,31,"RW, C",Right,PHI,Standard (1-way),25,,11,UFA,2022,"$5,272,727","$5,272,727","$7,000,000","$7,000,000",$0,$0
+Frans Nielsen,-,32,"C, LW",Left,DET,Standard (1-way),32,NMC,6,UFA,2022,"$5,250,000","$5,250,000","$6,000,000","$4,000,000","$2,000,000",$0
+Torey Krug,STL,25,LD,Left,BOS,Standard (1-way),25,,4,UFA,2020,"$5,250,000","$5,250,000","$5,000,000","$4,000,000","$1,000,000",$0
+Evander Kane,EDM,24,"LW, RW",Left,WPG,Standard (1-way),21,,6,UFA,2018,"$5,250,000","$5,250,000","$6,000,000","$6,000,000",$0,$0
+Mark Streit,-,38,RD,Left,PHI,35+ (1-way),35,M-NTC,4,UFA,2017,"$5,250,000","$5,250,000","$4,000,000","$2,000,000","$2,000,000",$0
+Dennis Wideman,-,33,RD,Right,CGY,Standard (1-way),29,NMC,5,UFA,2017,"$5,250,000","$5,250,000","$6,000,000","$6,000,000",$0,$0
+Jamie Benn,DAL,26,"LW, C",Left,DAL,Standard (1-way),22,NMC,5,UFA,2017,"$5,250,000","$5,250,000","$5,750,000","$5,750,000",$0,$0
+Joffrey Lupul,-,32,"LW, RW",Right,TOR,Standard (1-way),29,M-NTC,5,UFA,2018,"$5,250,000","$5,250,000","$5,250,000","$5,250,000",$0,$0
+David Clarkson,-,32,RW,Right,TOR,Standard (1-way),29,"M-NTC, NMC",7,UFA,2020,"$5,250,000","$5,250,000","$7,000,000","$2,000,000","$5,000,000",$0
+Mike Hoffman,SJS,26,LW,Left,OTT,Standard (1-way),26,,4,UFA,2020,"$5,187,500","$5,187,500","$3,800,000","$3,800,000",$0,$0
+Jared Spurgeon,MIN,26,RD,Right,MIN,Standard (1-way),26,,4,UFA,2020,"$5,187,500","$5,187,500","$4,250,000","$4,250,000",$0,$0
+Zach Bogosian,MIN,25,RD,Right,WPG,Standard (1-way),22,,7,UFA,2020,"$5,142,857","$5,142,857","$5,250,000","$5,250,000",$0,$0
+Brayden Schenn,STL,24,"C, LW",Left,PHI,Standard (1-way),24,,4,UFA,2020,"$5,125,000","$5,125,000","$6,000,000","$3,000,000","$3,000,000",$0
+Danny DeKeyser,-,26,LD,Left,DET,Standard (1-way),26,,6,UFA,2022,"$5,000,000","$5,000,000","$4,000,000","$3,000,000","$1,000,000",$0
+Frederik Andersen,CAR,26,G,Left,TOR,Standard (1-way),26,,5,UFA,2021,"$5,000,000","$5,000,000","$5,000,000","$5,000,000",$0,$0
+Morgan Rielly,TOR,22,LD,Left,TOR,Standard (1-way),22,,6,UFA,2022,"$5,000,000","$5,000,000","$5,000,000","$3,000,000","$2,000,000",$0
+Mikhail Grabovski,-,32,"C, RW",Left,NYI,Standard (1-way),30,,4,UFA,2018,"$5,000,000","$5,000,000","$5,000,000","$5,000,000",$0,$0
+Andy Greene,-,33,LD/RD,Left,NJD,Standard (1-way),31,NTC,5,UFA,2020,"$5,000,000","$5,000,000","$5,000,000","$5,000,000",$0,$0
+Mike Cammalleri,-,34,"LW, C",Left,NJD,Standard (1-way),32,NTC,5,UFA,2019,"$5,000,000","$5,000,000","$5,000,000","$5,000,000",$0,$0
+Matt Moulson,-,32,LW,Left,BUF,Standard (1-way),30,M-NTC,5,UFA,2019,"$5,000,000","$5,000,000","$5,000,000","$3,000,000","$2,000,000",$0
+James Neal,-,28,"RW, LW",Left,PIT,Standard (1-way),24,M-NTC,6,UFA,2018,"$5,000,000","$5,000,000","$5,000,000","$5,000,000",$0,$0
+Andrew MacDonald,-,29,RD,Left,PHI,Standard (1-way),27,,6,UFA,2020,"$5,000,000","$5,000,000","$4,750,000","$4,750,000",$0,$0
+Alexander Edler,-,30,LD,Left,VAN,Standard (1-way),26,NTC,6,UFA,2019,"$5,000,000","$5,000,000","$6,000,000","$3,000,000","$3,000,000",$0
+Derick Brassard,-,28,"C, LW",Left,NYR,Standard (1-way),26,M-NTC,5,UFA,2019,"$5,000,000","$5,000,000","$5,000,000","$3,000,000","$2,000,000",$0
+Valtteri Filppula,-,32,"C, LW",Left,TBL,Standard (1-way),29,"M-NTC, NMC",5,UFA,2018,"$5,000,000","$5,000,000","$5,000,000","$5,000,000",$0,$0
+Chris Pronger,-,41,D,Left,PHI,35+ (1-way),34,NMC,7,UFA,2017,"$4,935,714","$4,935,714","$575,000","$575,000",$0,$0
+Marc Methot,-,31,LD,Left,OTT,Standard (1-way),30,M-NTC,4,UFA,2019,"$4,900,000","$4,900,000","$4,900,000","$4,900,000",$0,$0
+Sami Vatanen,-,25,LD/RD,Right,ANA,Standard (1-way),25,,4,UFA,2020,"$4,875,000","$4,875,000","$5,000,000","$5,000,000",$0,$0
+Marián Gáborík,-,34,RW,Left,LAK,Standard (1-way),32,,7,UFA,2021,"$4,875,000","$4,875,000","$6,075,000","$6,075,000",$0,$0
+Paul Martin,-,35,LD,Left,SJS,Standard (1-way),34,M-NTC,4,UFA,2019,"$4,850,000","$4,850,000","$5,000,000","$5,000,000",$0,$0
+Ryane Clowe,-,33,"LW, RW",Left,NJD,Standard (1-way),30,NMC,5,UFA,2018,"$4,850,000","$4,850,000","$4,850,000","$4,850,000",$0,$0
+Justin Faulk,STL,24,RD,Right,CAR,Standard (1-way),22,,6,UFA,2020,"$4,833,333","$4,833,333","$5,500,000","$5,500,000",$0,$0
+Nikita Kucherov,TBL,23,RW,Left,TBL,Standard (1-way),23,,3,RFA,2019,"$4,766,667","$4,766,667","$4,250,000","$4,250,000",$0,$0
+Vincent Trocheck,NYR,22,"C, RW",Right,FLA,Standard (1-way),22,,6,UFA,2022,"$4,750,000","$4,750,000","$3,750,000","$3,750,000",$0,$0
+Gustav Nyquist,NSH,26,"LW, RW",Left,DET,Standard (1-way),25,,4,UFA,2019,"$4,750,000","$4,750,000","$4,250,000","$4,250,000",$0,$0
+Carl Söderberg,-,30,"C, LW",Left,COL,Standard (1-way),29,NTC,5,UFA,2020,"$4,750,000","$4,750,000","$4,750,000","$4,750,000",$0,$0
+Niklas Kronwall,-,35,LD,Left,DET,Standard (1-way),31,NTC,7,UFA,2019,"$4,750,000","$4,750,000","$5,500,000","$5,500,000",$0,$0
+Scott Hartnell,-,34,LW,Left,PHI,Standard (1-way),31,NMC,6,UFA,2019,"$4,750,000","$4,750,000","$5,000,000","$5,000,000",$0,$0
+Jori Lehterä,-,28,"LW, C",Left,STL,Standard (1-way),27,,3,UFA,2019,"$4,700,000","$4,700,000","$4,400,000","$4,400,000",$0,$0
+Ryan McDonagh,NSH,27,LD,Left,NYR,Standard (1-way),24,M-NTC,6,UFA,2019,"$4,700,000","$4,700,000","$5,000,000","$5,000,000",$0,$0
+Bryan Little,ARI,28,"C, RW",Right,WPG,Standard (1-way),25,M-NTC,5,UFA,2018,"$4,700,000","$4,700,000","$5,000,000","$5,000,000",$0,$0
+TJ Brodie,TOR,26,LD/RD,Left,CGY,Standard (1-way),25,,5,UFA,2020,"$4,650,400","$4,650,400","$4,838,000","$4,838,000",$0,$0
+Kyle Palmieri,NYI,25,"RW, LW",Right,NJD,Standard (1-way),25,,5,UFA,2021,"$4,650,000","$4,650,000","$4,500,000","$4,500,000",$0,$0
+Clarke MacArthur,-,31,LW,Left,OTT,Standard (1-way),30,M-NTC,5,UFA,2020,"$4,650,000","$4,650,000","$4,500,000","$4,500,000",$0,$0
+Chris Kreider,NYR,25,LW,Left,NYR,Standard (1-way),25,,4,UFA,2020,"$4,625,000","$4,625,000","$5,000,000","$4,000,000","$1,000,000",$0
+Tyler Ennis,-,26,"LW, RW",Left,BUF,Standard (1-way),24,,5,UFA,2019,"$4,600,000","$4,600,000","$3,650,000","$2,650,000","$1,000,000",$0
+Jason Garrison,-,31,LD,Left,VAN,Standard (1-way),27,NTC,6,UFA,2018,"$4,600,000","$4,600,000","$3,600,000","$3,600,000",$0,$0
+Marcus Johansson,MIN,25,"LW, RW",Left,WSH,Standard (1-way),25,,3,UFA,2019,"$4,583,333","$4,583,333","$4,250,000","$4,250,000",$0,$0
+Artem Anisimov,-,28,"C, LW",Left,CHI,Standard (1-way),27,NMC,5,UFA,2021,"$4,550,000","$4,550,000","$5,750,000","$4,750,000","$1,000,000",$0
+Jason Demers,-,28,RD,Right,FLA,Standard (1-way),28,M-NTC,5,UFA,2021,"$4,500,000","$4,500,000","$5,500,000","$4,500,000","$1,000,000",$0
+Troy Brouwer,-,30,"LW, RW",Right,CGY,Standard (1-way),30,NTC,4,UFA,2020,"$4,500,000","$4,500,000","$4,500,000","$3,500,000","$1,000,000",$0
+Nazem Kadri,CGY,25,C,Left,TOR,Standard (1-way),25,,6,UFA,2022,"$4,500,000","$4,500,000","$5,000,000","$3,000,000","$2,000,000",$0
+Francois Beauchemin,-,36,LD,Left,COL,35+ (1-way),35,NMC,3,UFA,2018,"$4,500,000","$4,500,000","$4,500,000","$4,500,000",$0,$0
+Antti Niemi,-,32,G,Left,DAL,Standard (1-way),31,NTC,3,UFA,2018,"$4,500,000","$4,500,000","$4,500,000","$4,500,000",$0,$0
+Mats Zuccarello,MIN,28,"RW, LW",Left,NYR,Standard (1-way),27,,4,UFA,2019,"$4,500,000","$4,500,000","$4,500,000","$4,500,000",$0,$0
+Jaroslav Halák,-,31,G,Left,NYI,Standard (1-way),29,,4,UFA,2018,"$4,500,000","$4,500,000","$4,750,000","$4,750,000",$0,$0
+Brad Marchand,BOS,28,LW,Left,BOS,Standard (1-way),25,M-NTC,4,UFA,2017,"$4,500,000","$4,500,000","$5,000,000","$5,000,000",$0,$0
+Max Pacioretty,WSH,27,LW,Left,MTL,Standard (1-way),23,,6,UFA,2019,"$4,500,000","$4,500,000","$5,000,000","$5,000,000",$0,$0
+Alexandre Burrows,-,35,"RW, LW",Left,VAN,Standard (1-way),31,NTC,4,UFA,2017,"$4,500,000","$4,500,000","$3,000,000","$3,000,000",$0,$0
+Brooks Laich,-,33,"C, LW",Left,WSH,Standard (1-way),28,,6,UFA,2017,"$4,500,000","$4,500,000","$4,000,000","$4,000,000",$0,$0
+Anton Strålman,-,29,RD,Right,TBL,Standard (1-way),27,NTC,5,UFA,2019,"$4,500,000","$4,500,000","$4,500,000","$4,500,000",$0,$0
+Alex Killorn,ANA,26,"RW, LW",Left,TBL,Standard (1-way),26,,7,UFA,2023,"$4,450,000","$4,450,000","$4,450,000","$4,450,000",$0,$0
+Christopher Tanev,DAL,26,RD,Right,VAN,Standard (1-way),25,,5,UFA,2020,"$4,450,000","$4,450,000","$3,500,000","$3,500,000",$0,$0
+Mike Fisher,-,36,C,Right,NSH,35+ (1-way),35,NMC,2,UFA,2017,"$4,400,000","$4,400,000","$4,000,000","$4,000,000",$0,$0
+Brandon Sutter,-,27,"RW, C",Right,VAN,Standard (1-way),26,NTC,5,UFA,2021,"$4,375,000","$4,375,000","$4,250,000","$3,250,000","$1,000,000",$0
+Jack Johnson,COL,29,LD,Left,LAK,Standard (1-way),22,,7,UFA,2018,"$4,357,143","$4,357,143","$5,000,000","$5,000,000",$0,$0
+Drew Stafford,-,30,"RW, LW",Right,WPG,Standard (1-way),29,,2,UFA,2017,"$4,350,000","$4,350,000","$4,350,000","$4,350,000",$0,$0
+Sean Couturier,PHI,23,C,Left,PHI,Standard (1-way),23,,6,UFA,2022,"$4,333,333","$4,333,333","$3,750,000","$3,750,000",$0,$0
+Devan Dubnyk,-,30,G,Left,MIN,Standard (1-way),29,M-NTC,6,UFA,2021,"$4,333,333","$4,333,333","$5,000,000","$4,000,000","$1,000,000",$0
+Dmitry Kulikov,FLA,25,LD/RD,Left,FLA,Standard (1-way),23,,3,UFA,2017,"$4,333,333","$4,333,333","$4,500,000","$4,500,000",$0,$0
+Michael Frolík,-,28,"LW, RW",Left,CGY,Standard (1-way),27,M-NTC,5,UFA,2020,"$4,300,000","$4,300,000","$5,000,000","$5,000,000",$0,$0
+Justin Abdelkader,-,29,"LW, RW",Left,DET,Standard (1-way),29,NTC,7,UFA,2023,"$4,250,000","$4,250,000","$5,500,000","$5,000,000","$500,000",$0
+David Savard,MTL,25,RD,Right,CBJ,Standard (1-way),24,,5,UFA,2021,"$4,250,000","$4,250,000","$3,500,000","$3,500,000",$0,$0
+John Klingberg,TOR,23,RD,Right,DAL,Standard (1-way),22,,7,UFA,2022,"$4,250,000","$4,250,000","$2,750,000","$2,750,000",$0,$0
+Craig Smith,DAL,26,RW,Right,NSH,Standard (1-way),25,,5,UFA,2020,"$4,250,000","$4,250,000","$4,000,000","$4,000,000",$0,$0
+Jonathan Ericsson,-,32,LD,Left,DET,Standard (1-way),30,NTC,6,UFA,2020,"$4,250,000","$4,250,000","$4,250,000","$4,000,000","$250,000",$0
+Brian Gionta,-,37,RW,Right,BUF,35+ (1-way),35,M-NTC,3,UFA,2017,"$4,250,000","$4,250,000","$3,250,000","$2,000,000","$1,250,000",$0
+Marc-Édouard Vlasic,SJS,29,LD/RD,Left,SJS,Standard (1-way),25,NTC,5,UFA,2018,"$4,250,000","$4,250,000","$4,250,000","$4,250,000",$0,$0
+Kevin Shattenkirk,BOS,27,RD,Right,STL,Standard (1-way),24,,4,UFA,2017,"$4,250,000","$4,250,000","$5,200,000","$5,200,000",$0,$0
+Patric Hörnqvist,-,29,RW,Right,NSH,Standard (1-way),26,M-NTC,5,UFA,2018,"$4,250,000","$4,250,000","$4,750,000","$4,750,000",$0,$0
+James van Riemsdyk,BOS,27,"LW, RW",Left,PHI,Standard (1-way),23,M-NTC,6,UFA,2018,"$4,250,000","$4,250,000","$5,000,000","$5,000,000",$0,$0
+Tyler Bozak,-,30,"C, RW",Right,TOR,Standard (1-way),27,M-NTC,5,UFA,2018,"$4,200,000","$4,200,000","$4,500,000","$2,500,000","$2,000,000",$0
+Craig Anderson,-,35,G,Left,OTT,Standard (1-way),33,,3,UFA,2018,"$4,200,000","$4,200,000","$4,750,000","$4,750,000",$0,$0
+Nikolai Kulemin,-,29,"LW, RW",Left,NYI,Standard (1-way),27,,4,UFA,2018,"$4,187,500","$4,187,500","$4,250,000","$4,250,000",$0,$0
+T.J. Oshie,WSH,29,RW,Right,STL,Standard (1-way),25,,5,UFA,2017,"$4,175,000","$4,175,000","$4,500,000","$4,500,000",$0,$0
+Oscar Klefbom,-,22,LD,Left,EDM,Standard (1-way),22,,7,UFA,2023,"$4,167,000","$4,167,000","$3,000,000","$3,000,000",$0,$0
+Jonas Brodin,MIN,22,LD,Left,MIN,Standard (1-way),21,,6,UFA,2021,"$4,166,667","$4,166,667","$4,000,000","$4,000,000",$0,$0
+Cam Talbot,LAK,28,G,Left,EDM,Standard (1-way),28,NMC,3,UFA,2019,"$4,166,666","$4,166,666","$4,150,000","$3,150,000","$1,000,000",$0
+Adam Larsson,SEA,23,RD,Right,NJD,Standard (1-way),22,,6,UFA,2021,"$4,166,666","$4,166,666","$3,000,000","$3,000,000",$0,$0
+Jonathan Bernier,-,27,G,Left,TOR,Standard (1-way),26,,2,UFA,2017,"$4,150,000","$4,150,000","$4,150,000","$2,150,000","$2,000,000",$0
+Nick Bjugstad,ARI,23,"C, RW",Right,FLA,Standard (1-way),22,,6,UFA,2021,"$4,100,000","$4,100,000","$3,350,000","$3,350,000",$0,$0
+Alexei Emelin,-,30,LD,Left,MTL,Standard (1-way),27,M-NTC,4,UFA,2018,"$4,100,000","$4,100,000","$4,200,000","$4,200,000",$0,$0
+Steve Mason,-,28,G,Right,PHI,Standard (1-way),25,,3,UFA,2017,"$4,100,000","$4,100,000","$4,100,000","$4,100,000",$0,$0
+Niklas Hjalmarsson,-,29,LD/RD,Left,CHI,Standard (1-way),27,"M-NTC, NMC",5,UFA,2019,"$4,100,000","$4,100,000","$4,100,000","$3,600,000","$500,000",$0
+Olli Määttä,DET,21,LD,Left,PIT,Standard (1-way),21,,6,UFA,2022,"$4,083,333","$4,083,333","$4,083,300","$4,083,300",$0,$0
+Jake Gardiner,-,25,LD,Left,TOR,Standard (1-way),24,,5,UFA,2019,"$4,050,000","$4,050,000","$4,050,000","$4,050,000",$0,$0
+Marc Savard,-,38,C,Left,BOS,Standard (1-way),32,,7,UFA,2017,"$4,021,428","$4,021,428","$575,000","$575,000",$0,$0
+Michael Stone,-,26,RD,Right,ARI,Standard (1-way),26,,1,UFA,2017,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Petr Mrázek,CHI,24,G,Left,DET,Standard (1-way),24,,2,UFANo QO,2018,"$4,000,000","$4,000,000","$3,850,000","$3,850,000",$0,$0
+Victor Rask,-,23,C,Left,CAR,Standard (1-way),23,,6,UFA,2022,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Mikkel Boedker,-,26,"LW, RW",Left,SJS,Standard (1-way),26,,4,UFA,2020,"$4,000,000","$4,000,000","$5,200,000","$4,200,000","$1,000,000",$0
+Jaromír Jágr,-,44,RW,Left,FLA,35+ (1-way),44,,1,UFA,2017,"$4,000,000","$5,515,000","$4,000,000","$4,000,000",$0,"$1,515,000"
+Carl Hagelin,-,27,LW,Left,ANA,Standard (1-way),26,,4,UFA,2019,"$4,000,000","$4,000,000","$3,667,000","$3,667,000",$0,$0
+Kevin Bieksa,-,35,RD,Right,ANA,35+ (1-way),34,NMC,2,UFA,2018,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Alec Martinez,VGK,28,LD,Left,LAK,Standard (1-way),27,,6,UFA,2021,"$4,000,000","$4,000,000","$3,900,000","$3,900,000",$0,$0
+Adam Henrique,EDM,26,"LW, C",Left,NJD,Standard (1-way),23,,6,UFA,2019,"$4,000,000","$4,000,000","$4,500,000","$4,500,000",$0,$0
+Marco Scandella,STL,26,LD,Left,MIN,Standard (1-way),24,,5,UFA,2020,"$4,000,000","$4,000,000","$3,750,000","$3,750,000",$0,$0
+Roman Josi,NSH,26,LD,Left,NSH,Standard (1-way),23,,7,UFA,2020,"$4,000,000","$4,000,000","$4,250,000","$4,250,000",$0,$0
+Jussi Jokinen,-,33,"LW, RW",Left,FLA,Standard (1-way),31,M-NTC,4,UFA,2018,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Ryan Johansen,PHI,23,"C, RW",Right,CBJ,Standard (1-way),22,,3,RFA,2017,"$4,000,000","$4,000,000","$6,000,000","$6,000,000",$0,$0
+Bryan Bickell,-,30,LW,Left,CHI,Standard (1-way),27,M-NTC,4,UFA,2017,"$4,000,000","$4,000,000","$4,500,000","$4,500,000",$0,$0
+Jake Muzzin,TOR,27,LD,Left,LAK,Standard (1-way),25,,5,UFA,2020,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Benoit Pouliot,-,29,LW,Left,EDM,Standard (1-way),27,,5,UFA,2019,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Ales Hemsky,-,32,RW,Right,DAL,Standard (1-way),30,,3,UFA,2017,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Victor Hedman,TBL,25,LD,Left,TBL,Standard (1-way),20,NMC,5,UFA,2017,"$4,000,000","$4,000,000","$4,250,000","$4,250,000",$0,$0
+Milan Michalek,-,31,"LW, RW",Left,OTT,Standard (1-way),29,M-NTC,3,UFA,2017,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Cam Fowler,ANA,24,LD/RD,Left,ANA,Standard (1-way),20,,5,UFA,2018,"$4,000,000","$4,000,000","$4,000,000","$4,000,000",$0,$0
+Wayne Simmonds,-,27,"RW, LW",Right,PHI,Standard (1-way),24,M-NTC,6,UFA,2019,"$3,975,000","$3,975,000","$4,300,000","$4,300,000",$0,$0
+John Carlson,WSH,26,RD,Right,WSH,Standard (1-way),22,,6,UFA,2018,"$3,966,667","$3,966,667","$4,000,000","$4,000,000",$0,$0
+Johan Franzen,-,36,"RW, LW",Left,DET,Standard (1-way),29,,11,UFA,2020,"$3,954,545","$3,954,545","$3,500,000","$3,500,000",$0,$0
+Colin Wilson,-,26,"C, LW",Left,NSH,Standard (1-way),25,,4,UFA,2019,"$3,937,500","$3,937,500","$4,000,000","$4,000,000",$0,$0
+Andrew Shaw,-,24,"C, RW",Right,MTL,Standard (1-way),24,,6,UFA,2022,"$3,900,000","$3,900,000","$5,500,000","$3,000,000","$2,500,000",$0
+Josh Gorges,-,31,LD,Left,MTL,Standard (1-way),27,M-NTC,6,UFA,2018,"$3,900,000","$3,900,000","$3,900,000","$3,900,000",$0,$0
+Ondrej Pavelec,-,28,G,Left,WPG,Standard (1-way),24,,5,UFA,2017,"$3,900,000","$3,900,000","$4,750,000","$4,750,000",$0,$0
+Shane Doan,-,39,"RW, LW",Right,ARI,35+ (1-way),39,NMC,1,UFA,2017,"$3,876,134","$4,839,572","$3,876,134","$2,500,000","$1,376,134","$963,438"
+Michael Del Zotto,-,26,LD,Left,PHI,Standard (1-way),25,,2,UFA,2017,"$3,875,000","$3,875,000","$4,000,000","$4,000,000",$0,$0
+Travis Hamonic,OTT,25,RD,Right,NYI,Standard (1-way),22,,7,UFA,2020,"$3,857,143","$3,857,143","$4,875,000","$4,875,000",$0,$0
+Rickard Rakell,PIT,23,"RW, LW",Right,ANA,Standard (1-way),23,,6,UFA,2022,"$3,853,672","$3,853,672","$3,800,000","$3,800,000",$0,$0
+Connor Murphy,CHI,23,RD,Right,ARI,Standard (1-way),23,,6,UFA,2022,"$3,850,000","$3,850,000","$2,400,000","$2,400,000",$0,$0
+Darren Helm,-,29,"C, LW, RW",Left,DET,Standard (1-way),29,NTC,5,UFA,2021,"$3,850,000","$3,850,000","$5,000,000","$4,000,000","$1,000,000",$0
+Cody Eakin,-,25,C,Left,DAL,Standard (1-way),24,,4,UFA,2020,"$3,850,000","$3,850,000","$3,850,000","$3,650,000","$200,000",$0
+Chris Kunitz,-,36,"RW, LW",Left,PIT,Standard (1-way),33,M-NTC,3,UFA,2017,"$3,850,000","$3,850,000","$3,550,000","$3,550,000",$0,$0
+Matt Beleskey,-,28,LW,Left,BOS,Standard (1-way),27,M-NTC,5,UFA,2020,"$3,800,000","$3,800,000","$4,000,000","$4,000,000",$0,$0
+Justin Braun,-,29,RD,Right,SJS,Standard (1-way),27,,5,UFA,2020,"$3,800,000","$3,800,000","$3,800,000","$3,800,000",$0,$0
+Dan Hamhuis,-,33,LD,Left,DAL,Standard (1-way),33,M-NTC,2,UFA,2018,"$3,750,000","$3,750,000","$4,500,000","$3,500,000","$1,000,000",$0
+David Perron,DET,28,"RW, LW",Right,STL,Standard (1-way),28,M-NTC,2,UFA,2018,"$3,750,000","$3,750,000","$3,750,000","$3,750,000",$0,$0
+Mattias Ekholm,EDM,26,LD/RD,Left,NSH,Standard (1-way),25,,6,UFA,2022,"$3,750,000","$3,750,000","$3,000,000","$3,000,000",$0,$0
+Jakob Silfverberg,ANA,25,"RW, LW",Right,ANA,Standard (1-way),24,,4,UFA,2019,"$3,750,000","$3,750,000","$3,000,000","$3,000,000",$0,$0
+Johnny Oduya,-,34,LD,Left,DAL,Standard (1-way),33,M-NTC,2,UFA,2017,"$3,750,000","$3,750,000","$3,750,000","$3,750,000",$0,$0
+Anders Lee,NYI,25,LW,Left,NYI,Standard (1-way),24,,4,UFA,2019,"$3,750,000","$3,750,000","$3,500,000","$3,500,000",$0,$0
+Brendan Gallagher,MTL,24,"RW, LW",Right,MTL,Standard (1-way),23,,6,UFA,2021,"$3,750,000","$3,750,000","$4,500,000","$4,500,000",$0,$0
+Pascal Dupuis,-,37,"RW, LW",Left,PIT,Standard (1-way),34,M-NTC,4,UFA,2017,"$3,750,000","$3,750,000","$3,000,000","$3,000,000",$0,$0
+Braydon Coburn,-,31,LD,Left,TBL,Standard (1-way),30,NTC,3,UFA,2019,"$3,700,000","$3,700,000","$3,700,000","$3,700,000",$0,$0
+Simon Despres,-,24,RD,Left,ANA,Standard (1-way),24,,5,UFA,2021,"$3,700,000","$3,700,000","$2,600,000","$2,600,000",$0,$0
+Patrik Berglund,-,28,"C, LW",Left,STL,Standard (1-way),26,M-NTC,3,UFA,2017,"$3,700,000","$3,700,000","$3,700,000","$3,700,000",$0,$0
+Matt Read,-,30,"RW, LW",Right,PHI,Standard (1-way),27,,4,UFA,2018,"$3,625,000","$3,625,000","$4,000,000","$4,000,000",$0,$0
+Mark Fayne,-,29,RD,Right,EDM,Standard (1-way),27,,4,UFA,2018,"$3,625,000","$3,625,000","$3,500,000","$3,500,000",$0,$0
+Luca Sbisa,-,26,LD,Left,VAN,Standard (1-way),25,,3,UFA,2018,"$3,600,000","$3,600,000","$3,600,000","$3,100,000","$500,000",$0
+Mikael Backlund,CGY,27,C,Left,CGY,Standard (1-way),26,,3,UFA,2018,"$3,575,000","$3,575,000","$3,575,000","$3,575,000",$0,$0
+Eric Staal,-,31,C,Left,MIN,Standard (1-way),31,M-NTC,3,UFA,2019,"$3,500,000","$3,500,000","$3,500,000","$3,500,000",$0,$0
+Erik Gudbranson,CBJ,24,RD,Right,FLA,Standard (1-way),24,,1,RFA,2017,"$3,500,000","$3,500,000","$3,500,000","$3,500,000",$0,$0
+Mike Ribeiro,-,36,C,Left,NSH,35+ (1-way),35,,2,UFA,2017,"$3,500,000","$3,500,000","$3,500,000","$3,500,000",$0,$0
+Mark Stone,VGK,24,RW,Right,OTT,Standard (1-way),23,,3,RFA,2018,"$3,500,000","$3,500,000","$3,750,000","$3,750,000",$0,$0
+Cam Atkinson,PHI,27,"RW, LW",Right,CBJ,Standard (1-way),26,,3,UFA,2018,"$3,500,000","$3,500,000","$3,500,000","$3,500,000",$0,$0
+David Desharnais,-,29,C,Left,MTL,Standard (1-way),26,,4,UFA,2017,"$3,500,000","$3,500,000","$3,500,000","$3,500,000",$0,$0
+Lars Eller,PIT,27,C,Left,MTL,Standard (1-way),25,,4,UFA,2018,"$3,500,000","$3,500,000","$4,250,000","$4,250,000",$0,$0
+Ladislav Smid,-,30,LD,Left,EDM,Standard (1-way),27,,4,UFA,2017,"$3,500,000","$3,500,000","$4,000,000","$4,000,000",$0,$0
+Kyle Turris,-,26,"C, RW",Right,OTT,Standard (1-way),23,,5,UFA,2018,"$3,500,000","$3,500,000","$4,000,000","$4,000,000",$0,$0
+Reilly Smith,PIT,25,"LW, RW",Left,BOS,Standard (1-way),23,,2,RFA,2017,"$3,425,000","$3,425,000","$3,500,000","$3,500,000",$0,$0
+James Reimer,DET,28,G,Left,FLA,Standard (1-way),28,,5,UFA,2021,"$3,400,000","$3,400,000","$4,500,000","$3,250,000","$1,250,000",$0
+Rob Scuderi,-,37,LD,Left,PIT,Standard (1-way),34,M-NTC,4,UFA,2017,"$3,375,000","$3,375,000","$2,500,000","$2,500,000",$0,$0
+Radko Gudas,ANA,26,RD,Right,PHI,Standard (1-way),26,,4,UFA,2020,"$3,350,000","$3,350,000","$4,000,000","$2,500,000","$1,500,000",$0
+Casey Cizikas,NYI,25,C,Left,NYI,Standard (1-way),25,,5,UFA,2021,"$3,350,000","$3,350,000","$2,500,000","$2,500,000",$0,$0
+Jamie McGinn,-,27,"LW, RW",Left,ARI,Standard (1-way),27,,3,UFA,2019,"$3,333,333","$3,333,333","$3,000,000","$3,000,000",$0,$0
+Tyler Johnson,CHI,25,"RW, C, LW",Right,TBL,Standard (1-way),23,,3,RFA,2017,"$3,333,333","$3,333,333","$4,000,000","$4,000,000",$0,$0
+Ondrej Palat,NJD,25,"LW, RW",Left,TBL,Standard (1-way),23,,3,RFA,2017,"$3,333,333","$3,333,333","$4,000,000","$4,000,000",$0,$0
+Cody Franson,-,28,RD,Right,BUF,Standard (1-way),27,,2,UFA,2017,"$3,325,000","$3,325,000","$2,650,000","$2,000,000","$650,000",$0
+Jacob Trouba,NYR,22,RD,Right,WPG,Standard (1-way),22,,2,RFA,2018,"$3,308,824","$3,308,824","$2,500,000","$2,500,000",$0,$0
+Cam Ward,-,32,G,Left,CAR,Standard (1-way),32,M-NTC,2,UFA,2018,"$3,300,000","$3,300,000","$3,500,000","$3,500,000",$0,$0
+Josh Bailey,-,26,"RW, LW, C",Left,NYI,Standard (1-way),23,,5,UFA,2018,"$3,300,000","$3,300,000","$3,700,000","$3,700,000",$0,$0
+Trevor Daley,-,32,RD,Left,DAL,Standard (1-way),27,,6,UFA,2017,"$3,300,000","$3,300,000","$2,700,000","$2,700,000",$0,$0
+Joel Ward,-,35,RW,Right,SJS,Standard (1-way),34,M-NTC,3,UFA,2018,"$3,275,000","$3,275,000","$3,275,000","$3,000,000","$275,000",$0
+Brenden Dillon,WPG,25,LD,Left,SJS,Standard (1-way),24,,5,UFA,2020,"$3,270,000","$3,270,000","$2,750,000","$2,750,000",$0,$0
+Jonathan Huberdeau,CGY,23,"LW, RW",Left,FLA,Standard (1-way),22,,2,RFA,2017,"$3,250,000","$3,250,000","$4,000,000","$4,000,000",$0,$0
+Justin Williams,-,34,RW,Right,WSH,Standard (1-way),33,,2,UFA,2017,"$3,250,000","$3,250,000","$3,250,000","$3,250,000",$0,$0
+Tyler Toffoli,WPG,24,"RW, LW",Right,LAK,Standard (1-way),23,,2,RFA,2017,"$3,250,000","$3,250,000","$3,900,000","$3,900,000",$0,$0
+Andrew Ference,-,37,RD,Left,EDM,Standard (1-way),34,NMC,4,UFA,2017,"$3,250,000","$3,250,000","$3,250,000","$3,250,000",$0,$0
+Clayton Stoner,-,31,LD,Left,ANA,Standard (1-way),29,,4,UFA,2018,"$3,250,000","$3,250,000","$3,250,000","$3,250,000",$0,$0
+Zbynek Michalek,-,33,RD,Right,ARI,Standard (1-way),32,,2,UFA,2017,"$3,200,000","$3,200,000","$3,200,000","$3,200,000",$0,$0
+Charlie Coyle,BOS,24,"C, RW",Right,MIN,Standard (1-way),23,,5,UFA,2020,"$3,200,000","$3,200,000","$2,600,000","$2,600,000",$0,$0
+Matt Stajan,-,32,C,Left,CGY,Standard (1-way),30,M-NTC,4,UFA,2018,"$3,125,000","$3,125,000","$3,000,000","$3,000,000",$0,$0
+Kris Russell,-,29,LD/RD,Left,EDM,Standard (1-way),29,,1,UFA,2017,"$3,100,000","$3,100,000","$3,100,000","$3,100,000",$0,$0
+Martin Hanzal,-,29,C,Left,ARI,Standard (1-way),25,M-NTC,5,UFA,2017,"$3,100,000","$3,100,000","$3,500,000","$3,500,000",$0,$0
+Marcus Krüger,-,26,C,Left,CHI,Standard (1-way),26,,3,UFA,2019,"$3,083,333","$3,083,333","$3,475,000","$2,000,000","$1,475,000",$0
+Tomas Hertl,VGK,22,C,Left,SJS,Standard (1-way),22,,2,RFA,2018,"$3,000,000","$3,000,000","$2,800,000","$2,800,000",$0,$0
+Evgeny Kuznetsov,CAR,24,C,Left,WSH,Standard (1-way),23,,2,RFA,2017,"$3,000,000","$3,000,000","$3,400,000","$3,400,000",$0,$0
+Martin Jones,TOR,26,G,Left,SJS,Standard (1-way),25,,3,UFA,2018,"$3,000,000","$3,000,000","$3,000,000","$3,000,000",$0,$0
+Andrew Cogliano,COL,29,LW,Left,ANA,Standard (1-way),27,M-NTC,4,UFA,2018,"$3,000,000","$3,000,000","$3,100,000","$3,100,000",$0,$0
+Mikael Granlund,SJS,24,"C, RW",Left,MIN,Standard (1-way),23,,2,RFA,2017,"$3,000,000","$3,000,000","$3,200,000","$3,200,000",$0,$0
+Mathieu Perreault,-,28,"LW, RW, C",Left,WPG,Standard (1-way),26,,3,UFA,2017,"$3,000,000","$3,000,000","$3,000,000","$3,000,000",$0,$0
+Stephane Robidas,-,39,RD,Right,TOR,35+ (1-way),37,M-NTC,3,UFA,2017,"$3,000,000","$3,000,000","$2,000,000","$1,000,000","$1,000,000",$0
+Leo Komarov,-,29,"RW, LW, C",Left,TOR,Standard (1-way),27,,4,UFA,2018,"$2,950,000","$2,950,000","$2,950,000","$2,950,000",$0,$0
+Deryk Engelland,-,34,RD,Right,CGY,Standard (1-way),32,,3,UFA,2017,"$2,916,667","$2,916,667","$2,750,000","$2,750,000",$0,$0
+Carl Gunnarsson,-,29,LD,Left,STL,Standard (1-way),29,,3,UFA,2019,"$2,900,000","$2,900,000","$2,900,000","$2,900,000",$0,$0
+Boone Jenner,CBJ,23,"C, LW",Left,CBJ,Standard (1-way),22,,2,RFA,2018,"$2,900,000","$2,900,000","$2,900,000","$2,900,000",$0,$0
+Kevin Klein,-,31,RD,Right,NSH,Standard (1-way),27,,5,UFA,2018,"$2,900,000","$2,900,000","$2,750,000","$2,750,000",$0,$0
+Ron Hainsey,-,35,RD,Left,CAR,Standard (1-way),33,M-NTC,3,UFA,2017,"$2,833,333","$2,833,333","$2,500,000","$2,500,000",$0,$0
+Ryan Murray,-,22,LD,Left,CBJ,Standard (1-way),22,,2,RFA,2018,"$2,825,000","$2,825,000","$2,825,000","$2,825,000",$0,$0
+Cody Ceci,EDM,22,RD,Right,OTT,Standard (1-way),22,,2,RFA,2018,"$2,800,000","$2,800,000","$2,250,000","$2,250,000",$0,$0
+Alex Galchenyuk,-,22,"LW, C, RW",Left,MTL,Standard (1-way),21,,2,RFA,2017,"$2,800,000","$2,800,000","$3,100,000","$3,100,000",$0,$0
+Karl Alzner,-,27,LD,Left,WSH,Standard (1-way),24,M-NTC,4,UFA,2017,"$2,800,000","$2,800,000","$2,800,000","$2,800,000",$0,$0
+J.T. Miller,VAN,23,"C, LW, RW",Left,NYR,Standard (1-way),23,,2,RFA,2018,"$2,750,000","$2,750,000","$2,750,000","$2,500,000","$250,000",$0
+Eddie Läck,-,28,G,Left,CAR,Standard (1-way),28,,2,UFA,2018,"$2,750,000","$2,750,000","$2,500,000","$2,500,000",$0,$0
+Brendan Smith,NJD,27,"LD/RD, LW",Left,DET,Standard (1-way),26,,2,UFA,2017,"$2,750,000","$2,750,000","$3,250,000","$3,250,000",$0,$0
+Adam McQuaid,-,29,RD,Right,BOS,Standard (1-way),28,,4,UFA,2019,"$2,750,000","$2,750,000","$3,000,000","$3,000,000",$0,$0
+Tomas Tatar,SEA,25,"LW, RW",Left,DET,Standard (1-way),23,,3,RFA,2017,"$2,750,000","$2,750,000","$2,750,000","$2,750,000",$0,$0
+Cal Clutterbuck,NYI,28,RW,Right,NYI,Standard (1-way),25,,4,UFA,2017,"$2,750,000","$2,750,000","$3,500,000","$3,500,000",$0,$0
+Vladimír Sobotka,-,28,"LW, C",Left,STL,Standard (1-way),28,,1,UFA,2017,"$2,725,000","$2,725,000","$2,725,000","$2,725,000",$0,$0
+Elias Lindholm,VAN,21,"C, RW",Right,CAR,Standard (1-way),20,,2,RFA,2018,"$2,700,000","$2,700,000","$2,500,000","$2,500,000",$0,$0
+Ben Lovejoy,-,32,RD,Right,NJD,Standard (1-way),32,,3,UFA,2019,"$2,666,667","$2,666,667","$2,500,000","$2,500,000",$0,$0
+Nino Niederreiter,WPG,23,"LW, RW",Left,MIN,Standard (1-way),22,,3,RFA,2017,"$2,666,667","$2,666,667","$3,500,000","$3,500,000",$0,$0
+Derek Dorsett,-,29,RW,Right,VAN,Standard (1-way),28,,4,UFA,2019,"$2,650,000","$2,650,000","$2,500,000","$2,500,000",$0,$0
+Colin Greening,-,30,LW,Left,OTT,Standard (1-way),28,M-NTC,3,UFA,2017,"$2,650,000","$2,650,000","$3,200,000","$3,200,000",$0,$0
+Mika Zibanejad,NYR,23,C,Right,OTT,Standard (1-way),22,,2,RFA,2017,"$2,625,000","$2,625,000","$3,250,000","$3,250,000",$0,$0
+Mark Stuart,-,32,LD,Left,WPG,Standard (1-way),30,M-NTC,4,UFA,2018,"$2,625,000","$2,625,000","$2,700,000","$2,700,000",$0,$0
+Kevin Hayes,STL,24,C,Left,NYR,Standard (1-way),24,,2,RFA,2018,"$2,600,000","$2,600,000","$2,600,000","$2,100,000","$500,000",$0
+Thomas Vanek,-,32,"LW, RW",Right,DET,Standard (1-way),32,,1,UFA,2017,"$2,600,000","$2,600,000","$2,600,000","$2,600,000",$0,$0
+Dmitry Orlov,CAR,24,LD,Left,WSH,Standard (1-way),25,,1,RFA,2017,"$2,570,000","$2,570,000","$2,570,000","$2,570,000",$0,$0
+Michael Vecchione,-,23,"C, RW",Right,PHI,Entry-Level,23,,1,10.2(c),2017,"$2,553,000","$2,553,000","$925,000","$832,500","$92,500",$0
+Matt Dumba,TBL,21,RD,Right,MIN,Standard (1-way),22,,2,RFA,2018,"$2,550,000","$2,550,000","$2,350,000","$2,350,000",$0,$0
+Ryan Strome,ANA,22,"RW, C",Right,NYI,Standard (1-way),23,,2,RFA,2018,"$2,500,000","$2,500,000","$2,000,000","$2,000,000",$0,$0
+Matt Martin,NYI,27,"LW, RW",Left,TOR,Standard (1-way),27,,4,UFA,2020,"$2,500,000","$2,500,000","$3,500,000","$1,000,000","$2,500,000",$0
+Joe Colborne,-,26,"C, LW, RW",Left,COL,Standard (1-way),26,,2,UFA,2018,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Lee Stempniak,-,33,RW,Right,CAR,Standard (1-way),33,,2,UFA,2018,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Matt Greene,-,33,RD,Right,LAK,Standard (1-way),31,,4,UFA,2018,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Kevan Miller,-,28,RD,Right,BOS,Standard (1-way),28,,4,UFA,2020,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Brock Nelson,NYI,24,"C, LW",Left,NYI,Standard (1-way),23,,3,RFA,2018,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Nail Yakupov,-,22,"RW, LW",Left,EDM,Standard (1-way),21,,2,UFANo QO,2017,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Ryan Ellis,PHI,25,RD,Right,NSH,Standard (1-way),23,,5,UFA,2019,"$2,500,000","$2,500,000","$2,500,000","$2,500,000",$0,$0
+Jannik Hansen,-,30,RW,Right,VAN,Standard (1-way),27,M-NTC,4,UFA,2018,"$2,500,000","$2,500,000","$3,000,000","$2,500,000","$500,000",$0
+Brian Elliott,-,31,G,Left,STL,Standard (1-way),29,,3,UFA,2017,"$2,500,000","$2,500,000","$2,700,000","$2,700,000",$0,$0
+Tommy Wingels,-,28,"RW, LW",Right,SJS,Standard (1-way),26,,3,UFA,2017,"$2,475,000","$2,475,000","$2,600,000","$2,600,000",$0,$0
+Blake Comeau,-,30,"RW, LW",Right,COL,Standard (1-way),29,,3,UFA,2018,"$2,400,000","$2,400,000","$2,400,000","$2,400,000",$0,$0
+Jakub Kindl,-,29,LD,Left,DET,Standard (1-way),26,,4,UFA,2017,"$2,400,000","$2,400,000","$3,000,000","$3,000,000",$0,$0
+Dale Weise,-,27,"RW, LW",Right,PHI,Standard (1-way),27,,4,UFA,2020,"$2,350,000","$2,350,000","$2,750,000","$2,250,000","$500,000",$0
+Michael Raffl,-,27,"LW, RW",Left,PHI,Standard (1-way),27,,3,UFA,2019,"$2,350,000","$2,350,000","$2,350,000","$2,350,000",$0,$0
+Jake Allen,NJD,25,G,Left,STL,Standard (1-way),24,,2,RFA,2017,"$2,350,000","$2,350,000","$2,500,000","$2,500,000",$0,$0
+John Gibson,ANA,22,G,Left,ANA,Standard (1-way),22,,3,RFA,2019,"$2,300,000","$2,300,000","$1,500,000","$1,500,000",$0,$0
+Jimmy Hayes,-,Deceased (31),RW,Right,BOS,Standard (1-way),25,,3,UFA,2018,"$2,300,000","$2,300,000","$2,300,000","$2,300,000",$0,$0
+Marcus Foligno,MIN,24,"RW, LW",Left,BUF,Standard (1-way),24,,1,RFA,2017,"$2,250,000","$2,250,000","$2,250,000","$2,250,000",$0,$0
+Roman Polák,-,30,RD,Right,TOR,Standard (1-way),30,,1,UFA,2017,"$2,250,000","$2,250,000","$2,250,000","$2,250,000",$0,$0
+Jason Chimera,-,37,"LW, RW",Left,NYI,35+ (1-way),37,,2,UFA,2018,"$2,250,000","$2,250,000","$2,000,000","$2,000,000",$0,$0
+Daniel Winnik,-,31,C,Left,TOR,Standard (1-way),30,,2,UFA,2017,"$2,250,000","$2,250,000","$1,800,000","$575,000","$1,225,000",$0
+Nick Schultz,-,33,LD,Left,PHI,Standard (1-way),32,,2,UFA,2017,"$2,250,000","$2,250,000","$2,250,000","$2,250,000",$0,$0
+Tobias Rieder,-,23,"RW, LW",Left,ARI,Standard (1-way),23,,2,UFANo QO,2018,"$2,225,000","$2,225,000","$2,000,000","$2,000,000",$0,$0
+Robin Lehner,VGK,24,G,Left,OTT,Standard (1-way),23,,3,RFA,2017,"$2,225,000","$2,225,000","$3,150,000","$3,150,000",$0,$0
+Lance Bouma,-,26,"C, LW, RW",Left,CGY,Standard (1-way),25,,3,UFA,2018,"$2,200,000","$2,200,000","$2,200,000","$2,200,000",$0,$0
+Matt Calvert,-,26,"LW, RW",Left,CBJ,Standard (1-way),25,,3,UFA,2018,"$2,200,000","$2,200,000","$2,200,000","$2,200,000",$0,$0
+Thomas Hickey,-,27,LD,Left,NYI,Standard (1-way),26,,3,UFA,2018,"$2,200,000","$2,200,000","$2,250,000","$2,250,000",$0,$0
+Shawn Matthias,-,28,"C, LW",Left,WPG,Standard (1-way),28,,2,UFA,2018,"$2,125,000","$2,125,000","$2,125,000","$2,125,000",$0,$0
+David Schlemko,-,29,LD,Left,SJS,Standard (1-way),29,,4,UFA,2020,"$2,100,000","$2,100,000","$2,500,000","$2,250,000","$250,000",$0
+Ian Cole,VAN,27,LD/RD,Left,PIT,Standard (1-way),26,,3,UFA,2018,"$2,100,000","$2,100,000","$2,300,000","$2,300,000",$0,$0
+Brad Richardson,-,31,C,Left,ARI,Standard (1-way),30,,3,UFA,2018,"$2,083,333","$2,083,333","$2,250,000","$2,250,000",$0,$0
+Riley Sheahan,-,24,"LW, C",Left,DET,Standard (1-way),24,,2,UFANo QO,2018,"$2,075,000","$2,075,000","$2,075,000","$1,875,000","$200,000",$0
+Jiri Hudler,-,32,"LW, RW",Left,DAL,Standard (1-way),32,,1,UFA,2017,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+Calle Järnkrok,TOR,24,"RW, C, LW",Right,NSH,Standard (1-way),24,,6,UFA,2022,"$2,000,000","$2,000,000","$1,700,000","$1,700,000",$0,$0
+Fedor Tyutin,-,32,LD,Left,COL,Standard (1-way),32,,1,UFA,2017,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+John-Michael Liles,-,35,LD,Left,BOS,35+ (1-way),35,,1,UFA,2017,"$2,000,000","$2,250,000","$2,000,000","$2,000,000",$0,"$250,000"
+Tom Wilson,WSH,22,RW,Right,WSH,Standard (1-way),22,,2,RFA,2018,"$2,000,000","$2,000,000","$1,750,000","$1,750,000",$0,$0
+Jason Zucker,NSH,24,"LW, RW",Left,MIN,Standard (1-way),24,,2,RFA,2018,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+Trevor Lewis,LAK,29,"RW, C",Right,LAK,Standard (1-way),29,,4,UFA,2020,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+Eric Fehr,-,30,"C, RW",Right,PIT,Standard (1-way),29,,3,UFA,2018,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+Patrick Maroon,BOS,28,"LW, RW",Left,ANA,Standard (1-way),26,,3,UFA,2018,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+Antoine Roussel,-,26,LW,Left,DAL,Standard (1-way),24,,4,UFA,2018,"$2,000,000","$2,000,000","$2,200,000","$2,200,000",$0,$0
+Brian Boyle,-,31,"LW, C",Left,TBL,Standard (1-way),29,,3,UFA,2017,"$2,000,000","$2,000,000","$2,000,000","$2,000,000",$0,$0
+Calvin De Haan,TBL,25,LD/RD,Left,NYI,Standard (1-way),23,,3,RFA,2017,"$1,966,667","$1,966,667","$2,900,000","$2,500,000","$400,000",$0
+Dwight King,-,26,"LW, RW",Left,LAK,Standard (1-way),25,,3,UFA,2017,"$1,950,000","$1,950,000","$2,100,000","$2,100,000",$0,$0
+Vladislav Namestnikov,WPG,23,"LW, RW, C",Left,TBL,Standard (1-way),23,,2,RFA,2018,"$1,937,500","$1,937,500","$1,900,000","$1,900,000",$0,$0
+Nick Bonino,-,28,"C, LW",Left,ANA,Standard (1-way),25,,3,UFA,2017,"$1,900,000","$1,900,000","$2,100,000","$2,100,000",$0,$0
+Zack Smith,-,28,"LW, C",Left,OTT,Standard (1-way),24,,4,UFA,2017,"$1,887,500","$1,887,500","$2,350,000","$2,350,000",$0,$0
+Sven Baertschi,-,23,LW,Left,VAN,Standard (1-way),23,,2,RFA,2018,"$1,850,000","$1,850,000","$1,700,000","$1,500,000","$200,000",$0
+Matt Hendricks,-,35,"RW, C, LW",Left,NSH,Standard (1-way),32,,4,UFA,2017,"$1,850,000","$1,850,000","$1,850,000","$1,850,000",$0,$0
+Mark Letestu,-,31,"C, RW",Right,EDM,Standard (1-way),30,,3,UFA,2018,"$1,800,000","$1,800,000","$1,800,000","$1,800,000",$0,$0
+John Mitchell,-,31,C,Left,COL,Standard (1-way),29,,3,UFA,2017,"$1,800,000","$1,800,000","$1,900,000","$1,900,000",$0,$0
+Ryan Garbutt,-,30,LW,Left,DAL,Standard (1-way),28,,3,UFA,2017,"$1,800,000","$1,800,000","$2,000,000","$2,000,000",$0,$0
+Antoine Vermette,-,33,"C, LW",Left,ANA,Standard (1-way),33,NMC,2,UFA,2018,"$1,750,000","$1,750,000","$1,750,000","$1,750,000",$0,$0
+Jay Beagle,-,30,C,Right,WSH,Standard (1-way),29,,3,UFA,2018,"$1,750,000","$1,750,000","$1,750,000","$1,750,000",$0,$0
+Chad Johnson,-,30,G,Left,CGY,Standard (1-way),30,,1,UFA,2017,"$1,700,000","$1,700,000","$1,700,000","$1,700,000",$0,$0
+Brayden McNabb,VGK,25,LD,Left,LAK,Standard (1-way),25,,2,UFA,2018,"$1,700,000","$1,700,000","$1,600,000","$1,550,000","$50,000",$0
+John Moore,-,25,LD,Left,NJD,Standard (1-way),24,,3,UFA,2018,"$1,666,667","$1,666,667","$1,750,000","$1,750,000",$0,$0
+Michael Grabner,-,28,"LW, RW",Left,NYR,Standard (1-way),28,,2,UFA,2018,"$1,650,000","$1,650,000","$1,650,000","$1,650,000",$0,$0
+Melker Karlsson,-,25,"RW, C",Right,SJS,Standard (1-way),24,,2,RFA,2017,"$1,650,000","$1,650,000","$1,850,000","$1,850,000",$0,$0
+Nick Holden,-,29,LD,Left,COL,Standard (1-way),27,,3,UFA,2018,"$1,650,000","$1,650,000","$1,650,000","$1,650,000",$0,$0
+Michal Neuvirth,-,28,G,Left,PHI,Standard (1-way),27,,2,UFA,2017,"$1,625,000","$1,625,000","$1,750,000","$1,750,000",$0,$0
+Teddy Purcell,-,30,"RW, LW",Right,LAK,Standard (1-way),30,,1,UFA,2017,"$1,600,000","$1,600,000","$1,600,000","$1,600,000",$0,$0
+Jake McCabe,TOR,22,LD/RD,Left,BUF,Standard (1-way),22,,3,RFA,2019,"$1,600,000","$1,600,000","$1,250,000","$1,250,000",$0,$0
+Kyle Clifford,TOR,25,LW,Left,LAK,Standard (1-way),24,,5,UFA,2020,"$1,600,000","$1,600,000","$1,250,000","$1,250,000",$0,$0
+Nate Thompson,-,31,C,Left,TBL,Standard (1-way),28,,4,UFA,2017,"$1,600,000","$1,600,000","$1,700,000","$1,700,000",$0,$0
+Dalton Prout,-,26,RD,Right,CBJ,Standard (1-way),26,,2,UFA,2018,"$1,575,000","$1,575,000","$1,250,000","$1,250,000",$0,$0
+Eric Gelinas,-,25,LD,Left,NJD,Standard (1-way),24,,2,UFANo QO,2017,"$1,575,000","$1,575,000","$1,650,000","$1,650,000",$0,$0
+Darcy Kuemper,WSH,26,G,Left,MIN,Standard (1-way),26,,1,UFA,2017,"$1,550,000","$1,550,000","$1,550,000","$1,550,000",$0,$0
+Alexander Burmistrov,-,24,"C, RW",Left,WPG,Standard (1-way),23,,2,UFANo QO,2017,"$1,550,000","$1,550,000","$1,600,000","$1,600,000",$0,$0
+Jacob Markström,CGY,26,G,Left,VAN,Standard (1-way),25,,2,UFA,2017,"$1,550,000","$1,550,000","$1,600,000","$1,600,000",$0,$0
+Brian Campbell,-,37,LD,Left,CHI,35+ (1-way),37,NMC,1,UFA,2017,"$1,500,000","$2,250,000","$1,500,000","$1,500,000",$0,"$750,000"
+Viktor Stalberg,-,30,"LW, RW",Left,CAR,Standard (1-way),30,,1,UFA,2017,"$1,500,000","$1,500,000","$1,500,000","$1,500,000",$0,$0
+Zack Kassian,-,25,RW,Right,EDM,Standard (1-way),25,,1,RFA,2017,"$1,500,000","$1,500,000","$1,500,000","$1,500,000",$0,$0
+Chris Neil,-,37,RW,Right,OTT,35+ (1-way),36,NMC,1,UFA,2017,"$1,500,000","$1,500,000","$1,500,000","$1,500,000",$0,$0
+Gregory Campbell,-,32,"C, LW",Left,CBJ,Standard (1-way),31,,2,UFA,2017,"$1,500,000","$1,500,000","$1,300,000","$1,300,000",$0,$0
+Thomas Greiss,-,30,G,Left,NYI,Standard (1-way),29,,2,UFA,2017,"$1,500,000","$1,500,000","$2,000,000","$2,000,000",$0,$0
+Cody McCormick,-,33,"C, RW, LW",Right,BUF,Standard (1-way),31,,3,UFA,2017,"$1,500,000","$1,500,000","$1,000,000","$1,000,000",$0,$0
+Alexey Marchenko,-,24,RD,Right,DET,Standard (1-way),24,,2,RFA,2018,"$1,450,000","$1,450,000","$1,300,000","$1,100,000","$200,000",$0
+Andrej Sustr,-,25,RD,Right,TBL,Standard (1-way),24,,2,RFA,2017,"$1,450,000","$1,450,000","$1,600,000","$1,600,000",$0,$0
+Reto Berra,-,29,G,Left,COL,Standard (1-way),27,,3,UFA,2017,"$1,450,000","$1,450,000","$1,500,000","$1,500,000",$0,$0
+Tanner Glass,-,32,LW,Left,NYR,Standard (1-way),30,,3,UFA,2017,"$1,450,000","$1,450,000","$1,000,000","$1,000,000",$0,$0
+Brandon Davidson,-,24,LD,Left,EDM,Standard (1-way),24,,2,UFANo QO,2018,"$1,425,000","$1,425,000","$1,300,000","$1,300,000",$0,$0
+Justin Schultz,SEA,25,RD,Right,PIT,Standard (1-way),26,,1,RFA,2017,"$1,400,000","$1,400,000","$1,400,000","$1,400,000",$0,$0
+Tom Gilbert,-,33,RD,Right,LAK,Standard (1-way),33,,1,UFA,2017,"$1,400,000","$1,400,000","$1,400,000","$1,400,000",$0,$0
+Tanner Pearson,MTL,23,LW,Left,LAK,Standard (1-way),22,,2,RFA,2017,"$1,400,000","$1,400,000","$1,550,000","$1,550,000",$0,$0
+Andrew Hammond,-,28,G,Left,OTT,Standard (1-way),27,,3,UFA,2018,"$1,350,000","$1,350,000","$1,350,000","$1,350,000",$0,$0
+Cody McLeod,-,32,"LW, RW",Left,COL,Standard (1-way),30,,3,UFA,2018,"$1,333,333","$1,333,333","$1,250,000","$1,250,000",$0,$0
+Peter Holland,-,25,C,Left,TOR,Standard (1-way),25,,1,UFANo QO,2017,"$1,300,000","$1,300,000","$1,300,000","$1,300,000",$0,$0
+Mikhail Grigorenko,-,22,"C, LW",Left,COL,Standard (1-way),22,,1,UFANo QO,2017,"$1,300,000","$1,300,000","$1,300,000","$1,300,000",$0,$0
+Devante Smith-Pelly,-,24,"RW, LW",Right,NJD,Standard (1-way),24,,2,RFA,2018,"$1,300,000","$1,300,000","$1,250,000","$1,250,000",$0,$0
+Derek MacKenzie,-,35,"C, LW",Left,FLA,Standard (1-way),33,,3,UFA,2017,"$1,300,000","$1,300,000","$1,300,000","$1,300,000",$0,$0
+Joakim Nordström,-,24,"LW, RW",Left,CAR,Standard (1-way),24,,2,UFANo QO,2018,"$1,275,000","$1,275,000","$1,250,000","$1,250,000",$0,$0
+Kyle Quincey,-,30,RD,Left,NJD,Standard (1-way),31,,1,UFA,2017,"$1,250,000","$1,250,000","$1,250,000","$1,250,000",$0,$0
+Martin Marincin,-,24,LD,Left,TOR,Standard (1-way),24,,2,RFA,2018,"$1,250,000","$1,250,000","$1,200,000","$1,200,000",$0,$0
+Luke Schenn,NSH,26,RD,Right,ARI,Standard (1-way),26,,2,UFA,2018,"$1,250,000","$1,250,000","$1,000,000","$1,000,000",$0,$0
+Pierre-Alexandre Parenteau,-,33,RW,Right,NYI,Standard (1-way),33,,1,UFA,2017,"$1,250,000","$1,250,000","$1,250,000","$1,250,000",$0,$0
+Vernon Fiddler,-,36,"C, LW",Left,NJD,35+ (1-way),36,,1,UFA,2017,"$1,250,000","$1,250,000","$1,250,000","$1,250,000",$0,$0
+J.T. Brown,-,25,RW,Right,TBL,Standard (1-way),25,,2,UFA,2018,"$1,250,000","$1,250,000","$1,250,000","$1,250,000",$0,$0
+Erik Condra,-,29,RW,Right,TBL,Standard (1-way),28,,3,UFA,2018,"$1,250,000","$1,250,000","$1,250,000","$1,250,000",$0,$0
+Brandon Bollig,-,29,LW,Left,CHI,Standard (1-way),27,,3,UFA,2017,"$1,250,000","$1,250,000","$1,300,000","$1,300,000",$0,$0
+Anton Khudobin,-,30,G,Left,BOS,Standard (1-way),30,,2,UFA,2018,"$1,200,000","$1,200,000","$1,200,000","$1,200,000",$0,$0
+Matt Hunwick,-,31,LD,Left,TOR,Standard (1-way),30,,2,UFA,2017,"$1,200,000","$1,200,000","$1,200,000","$1,200,000",$0,$0
+Torrey Mitchell,-,31,"C, RW",Right,MTL,Standard (1-way),30,,3,UFA,2018,"$1,200,000","$1,200,000","$1,300,000","$1,300,000",$0,$0
+Jay McClement,-,33,C,Left,CAR,Standard (1-way),31,,2,UFA,2017,"$1,200,000","$1,200,000","$1,100,000","$1,100,000",$0,$0
+Chris Thorburn,-,33,"RW, LW",Right,WPG,Standard (1-way),31,,3,UFA,2017,"$1,200,000","$1,200,000","$1,200,000","$1,200,000",$0,$0
+Paul Byron,-,27,"LW, RW",Left,MTL,Standard (1-way),26,,3,UFA,2019,"$1,166,667","$1,166,667","$1,300,000","$1,000,000","$300,000",$0
+Zemgus Girgensons,BUF,22,"LW, C",Left,BUF,Standard (1-way),22,,1,RFA,2017,"$1,150,000","$1,150,000","$1,150,000","$1,150,000",$0,$0
+Chris Stewart,-,28,"RW, LW",Right,MIN,Standard (1-way),28,,2,UFA,2018,"$1,150,000","$1,150,000","$1,200,000","$1,200,000",$0,$0
+Michael Hutchinson,DET,26,G,Right,WPG,Standard (1-way),26,,2,UFA,2018,"$1,150,000","$1,150,000","$1,000,000","$1,000,000",$0,$0
+Jon Merrill,MIN,24,LD,Left,NJD,Standard (1-way),24,,2,RFA,2018,"$1,137,500","$1,137,500","$1,000,000","$1,000,000",$0,$0
+Adam Lowry,WPG,23,C,Left,WPG,Standard (1-way),23,,2,RFA,2018,"$1,125,000","$1,125,000","$1,000,000","$1,000,000",$0,$0
+Carter Hutton,-,30,G,Left,STL,Standard (1-way),30,,2,UFA,2018,"$1,125,000","$1,125,000","$1,250,000","$1,250,000",$0,$0
+Mark Pysyk,CGY,24,RD,Right,BUF,Standard (1-way),23,,2,RFA,2017,"$1,125,000","$1,125,000","$1,250,000","$1,250,000",$0,$0
+Ryan Reaves,TOR,29,RW,Right,STL,Standard (1-way),26,,4,UFA,2018,"$1,125,000","$1,125,000","$1,125,000","$1,125,000",$0,$0
+Joe Vitale,-,30,"C, RW",Right,ARI,Standard (1-way),28,,3,UFA,2017,"$1,116,667","$1,116,667","$1,300,000","$1,300,000",$0,$0
+Brandon Pirri,-,25,"RW, LW",Left,NYR,Standard (1-way),25,,1,UFANo QO,2017,"$1,100,000","$1,100,000","$1,100,000","$1,100,000",$0,$0
+Jacob Josefson,-,25,"C, LW",Left,NJD,Standard (1-way),25,,1,UFANo QO,2017,"$1,100,000","$1,100,000","$1,100,000","$1,100,000",$0,$0
+Jordie Benn,-,28,LD/RD,Left,DAL,Standard (1-way),28,,3,UFA,2019,"$1,100,000","$1,100,000","$1,100,000","$1,100,000",$0,$0
+Mark Borowiecki,-,26,LD,Left,OTT,Standard (1-way),25,,3,UFA,2018,"$1,100,000","$1,100,000","$1,100,000","$1,100,000",$0,$0
+Louis Domingue,NYR,24,G,Right,ARI,Standard (1-way),24,,2,RFA,2018,"$1,050,000","$1,050,000","$1,000,000","$1,000,000",$0,$0
+Joel Edmundson,TOR,23,LD/RD,Left,STL,Standard (1-way),22,,2,RFA,2018,"$1,050,000","$1,050,000","$900,000","$900,000",$0,$0
+Alex Petrovic,DAL,24,RD,Right,FLA,Standard (1-way),23,,2,RFA,2017,"$1,050,000","$1,050,000","$1,200,000","$1,200,000",$0,$0
+Robert Bortuzzo,NYI,27,RD,Right,STL,Standard (1-way),26,,2,UFA,2017,"$1,050,000","$1,050,000","$1,050,000","$1,050,000",$0,$0
+Philip Larsen,-,26,D,Right,VAN,Standard (1-way),26,,1,UFA,2017,"$1,025,000","$1,025,000","$1,025,000","$900,000","$125,000",$0
+Drew Miller,-,32,"LW, RW",Left,DET,Standard (1-way),32,,1,UFA,2017,"$1,025,000","$1,375,000","$1,025,000","$1,025,000",$0,"$350,000"
+Mike Weber,-,28,LD,Left,MIN,Standard (2-way),29,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Lauri Korpikoski,-,29,"LW, RW",Left,DAL,Standard (1-way),29,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Dennis Seidenberg,-,34,RD,Left,NYI,Standard (1-way),34,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Matt Cullen,-,39,"C, LW",Left,PIT,35+ (1-way),39,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Radim Vrbata,-,35,RW,Right,ARI,35+ (1-way),35,,1,UFA,2017,"$1,000,000","$3,250,000","$1,000,000","$1,000,000",$0,"$2,250,000"
+Colin Miller,WPG,23,RD,Right,BOS,Standard (1-way),23,,2,RFA,2018,"$1,000,000","$1,000,000","$900,000","$900,000",$0,$0
+Calvin Pickard,EDM,24,G,Left,COL,Standard (1-way),24,,2,RFA,2018,"$1,000,000","$1,000,000","$925,000","$925,000",$0,$0
+Anders Nilsson,-,26,G,Left,BUF,Standard (1-way),26,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Ryan White,-,28,C,Right,ARI,Standard (1-way),28,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Kevin Connauton,LAK,26,LD/RD,Left,ARI,Standard (1-way),26,,2,UFA,2018,"$1,000,000","$1,000,000","$950,000","$950,000",$0,$0
+Patrick Eaves,-,32,"RW, LW",Right,DAL,Standard (1-way),32,,1,UFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+William Karlsson,VGK,23,C,Left,CBJ,Standard (1-way),23,,2,RFA,2018,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Dmitrij Jaskin,-,23,"RW, LW",Left,STL,Standard (1-way),23,,2,RFA,2018,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Antti Raanta,CAR,27,G,Left,NYR,Standard (1-way),26,,2,UFA,2018,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Erik Haula,NJD,25,"C, LW",Left,MIN,Standard (1-way),24,,2,RFA,2017,"$1,000,000","$1,000,000","$1,050,000","$1,050,000",$0,$0
+Nathan Beaulieu,-,23,LD/RD,Left,MTL,Standard (1-way),22,,2,RFA,2017,"$1,000,000","$1,000,000","$1,000,000","$1,000,000",$0,$0
+Anton Lander,-,25,"C, LW, RW",Left,EDM,Standard (1-way),23,,2,RFA,2017,"$987,500","$987,500","$1,050,000","$1,050,000",$0,$0
+Brandon Manning,-,26,LD,Left,PHI,Standard (1-way),26,,2,UFA,2018,"$975,000","$975,000","$950,000","$850,000","$100,000",$0
+Kris Versteeg,-,30,"LW, RW",Right,CGY,Standard (1-way),30,M-NTC,1,UFA,2017,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Eric Gryba,-,28,RD,Right,EDM,Standard (2-way),28,,1,UFA,2017,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Boyd Gordon,-,32,C,Right,PHI,Standard (1-way),32,,1,UFA,2017,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Colton Sceviour,-,27,"RW, C",Right,FLA,Standard (1-way),27,,2,UFA,2018,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Al Montoya,-,31,G,Left,MTL,Standard (1-way),31,,1,UFA,2017,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Kyle Brodziak,-,32,C,Right,STL,Standard (1-way),32,,2,UFA,2018,"$950,000","$950,000","$1,000,000","$1,000,000",$0,$0
+Johan Larsson,-,23,"C, LW",Left,BUF,Standard (1-way),23,,1,RFA,2017,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Anton Rödin,-,25,RW,Left,VAN,Standard (1-way),25,,1,UFAGroup 6,2017,"$950,000","$950,000","$950,000","$750,000","$200,000",$0
+Jesper Fast,CAR,24,RW,Right,NYR,Standard (1-way),23,,2,RFA,2017,"$950,000","$950,000","$1,000,000","$1,000,000",$0,$0
+Ryan Spooner,-,24,"C, LW",Left,BOS,Standard (1-way),23,,2,RFA,2017,"$950,000","$950,000","$1,100,000","$1,100,000",$0,$0
+Brian Flynn,-,27,RW,Right,MTL,Standard (1-way),26,,2,UFA,2017,"$950,000","$950,000","$950,000","$950,000",$0,$0
+Jordan Nolan,-,27,LW,Left,LAK,Standard (1-way),26,,3,UFA,2018,"$950,000","$950,000","$1,000,000","$1,000,000",$0,$0
+Colin White,MTL,19,"C, RW",Right,OTT,Entry-Level,19,,3,10.2(c),2019,"$925,000","$1,491,667","$925,000","$832,500","$92,500",$0
+C.J. Smith,-,21,LW,Left,BUF,Entry-Level,21,,2,10.2(c),2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Griffen Molino,-,22,C,Left,VAN,Entry-Level,22,,2,UFANo QO,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Michael Kapla,-,21,D,Left,NJD,Entry-Level,21,,2,10.2(c),2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Brock Boeser,VAN,19,RW,Right,VAN,Entry-Level,19,,3,10.2(c),2019,"$925,000","$1,491,667","$925,000","$832,500","$92,500",$0
+John Hayden,SEA,21,"C, LW, RW",Right,CHI,Entry-Level,22,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Brett Howden,VGK,18,"C, LW",Left,TBL,Entry-Level,18,,3,RFA,2021,"$925,000","$925,000",$0,"-$92,500","$92,500",$0
+Sam Steel,DAL,18,"C, LW",Left,ANA,Entry-Level,18,,3,RFA,2021,"$925,000","$925,000",$0,"-$92,500","$92,500",$0
+Logan Stanley,WPG,18,LD,Left,WPG,Entry-Level,18,,3,RFA,2021,"$925,000","$1,137,500",$0,"-$92,500","$92,500",$0
+Michael McLeod,NJD,18,C,Right,NJD,Entry-Level,18,,3,RFA,2021,"$925,000","$1,425,000",$0,"-$92,500","$92,500",$0
+Matthew Benning,SJS,22,RD,Right,EDM,Entry-Level,22,,2,RFA,2018,"$925,000","$1,075,000","$925,000","$832,500","$92,500",$0
+Max Jones,ANA,18,"LW, RW",Left,ANA,Entry-Level,18,,3,RFA,2021,"$925,000","$925,000",$0,"-$92,500","$92,500",$0
+Jimmy Vesey,NYR,23,"RW, LW",Left,NYR,Entry-Level,23,,2,RFA,2018,"$925,000","$3,775,000","$925,000","$832,500","$92,500","$2,850,000"
+Logan Brown,TBL,18,"C, LW",Left,OTT,Entry-Level,18,,3,RFA,2021,"$925,000","$1,635,000",$0,"-$92,500","$92,500",$0
+Olli Juolevi,-,18,LD,Left,VAN,Entry-Level,18,,3,RFA,2021,"$925,000","$1,975,000",$0,"-$92,500","$92,500",$0
+Jakob Chychrun,OTT,18,LD/RD,Left,ARI,Entry-Level,18,,3,RFA,2019,"$925,000","$1,350,000","$925,000","$832,500","$92,500","$425,000"
+Trevor Moore,LAK,21,"LW, RW",Left,TOR,Entry-Level,21,,3,RFA,2019,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Auston Matthews,TOR,18,C,Left,TOR,Entry-Level,18,,3,RFA,2019,"$925,000","$3,775,000","$925,000","$832,500","$92,500","$2,850,000"
+Jack Roslovic,NYR,19,"C, RW",Right,WPG,Entry-Level,19,,3,RFA,2020,"$925,000","$1,137,500",$0,"-$92,500","$92,500",$0
+Alexander Nylander,CBJ,18,"RW, LW",Right,BUF,Entry-Level,18,,3,10.2(c),2021,"$925,000","$1,775,000",$0,"-$92,500","$92,500",$0
+Joel Armia,MTL,23,"RW, LW",Right,WPG,Standard (1-way),23,,2,RFA,2018,"$925,000","$925,000","$875,000","$875,000",$0,$0
+Jesse Puljujärvi,PIT,18,RW,Right,EDM,Entry-Level,18,,3,RFA,2019,"$925,000","$3,425,000","$925,000","$832,500","$92,500","$2,500,000"
+Roman Lyubimov,-,24,"C, LW",Right,PHI,Entry-Level,24,,1,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Julien Gauthier,NYI,18,RW,Right,CAR,Entry-Level,18,,3,RFA,2021,"$925,000","$1,225,000",$0,"-$92,500","$92,500",$0
+Jake Bean,CBJ,18,LD/RD,Left,CAR,Entry-Level,18,,3,RFA,2021,"$925,000","$1,425,000",$0,"-$92,500","$92,500",$0
+Matthew Tkachuk,FLA,18,RW,Left,CGY,Entry-Level,18,,3,RFA,2019,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Patrik Laine,CBJ,18,"C, RW, LW",Right,WPG,Entry-Level,18,,3,RFA,2019,"$925,000","$3,575,000","$925,000","$832,500","$92,500","$2,650,000"
+Mikhail Sergachev,TBL,18,LD/RD,Left,MTL,Entry-Level,18,,3,RFA,2020,"$925,000","$1,775,000",$0,"-$92,500","$92,500",$0
+Pierre-Luc Dubois,LAK,18,C,Left,CBJ,Entry-Level,18,,3,RFA,2020,"$925,000","$3,425,000",$0,"-$92,500","$92,500",$0
+Nick Schmaltz,ARI,20,"RW, C",Right,CHI,Entry-Level,20,,3,RFA,2019,"$925,000","$1,541,667","$925,000","$832,500","$92,500","$350,000"
+Ian McCoshen,-,20,LD,Left,FLA,Entry-Level,20,,3,RFA,2019,"$925,000","$1,025,000","$925,000","$832,500","$92,500",$0
+David Rittich,LAK,23,G,Left,CGY,Entry-Level,24,,1,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Sebastian Aho,CAR,18,C,Left,CAR,Entry-Level,19,,3,RFA,2019,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Jacob Larsson,OTT,19,LD,Left,ANA,Entry-Level,19,,3,RFA,2020,"$925,000","$925,000",$0,"-$92,500","$92,500",$0
+Marcus Sörensen,-,24,"LW, RW",Left,SJS,Entry-Level,24,,1,RFA,2017,"$925,000","$1,350,000","$925,000","$832,500","$92,500","$425,000"
+Pavel Buchnevich,STL,21,"LW, RW, C",Left,NYR,Entry-Level,21,,3,RFA,2019,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Denis Gurianov,PHI,19,"RW, LW",Left,DAL,Entry-Level,19,,3,RFA,2020,"$925,000","$1,675,000",$0,"-$92,500","$92,500",$0
+Patrick Russell,-,23,RW,Right,EDM,Entry-Level,23,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Drake Caggiula,EDM,22,"LW, RW",Left,EDM,Entry-Level,22,,2,RFA,2018,"$925,000","$1,350,000","$925,000","$832,500","$92,500","$425,000"
+Nikita Zaitsev,CHI,24,RD,Right,TOR,Entry-Level,24,,1,RFA,2017,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Michael Garteig,-,24,G,Right,VAN,Entry-Level,24,,1,UFANo QO,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Daniel Pribyl,-,23,"C, RW",Right,CGY,Entry-Level,23,,2,UFANo QO,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Paul LaDue,NYI,23,RD,Right,LAK,Entry-Level,24,,1,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+J.T. Compher,DET,21,"C, RW",Right,COL,Entry-Level,21,,3,RFA,2019,"$925,000","$1,000,000","$925,000","$832,500","$92,500","$50,000"
+Thatcher Demko,VAN,20,G,Left,VAN,Entry-Level,20,,3,RFA,2019,"$925,000","$2,941,666","$925,000","$832,500","$92,500","$1,350,000"
+Gabriel Carlsson,-,19,LD,Left,CBJ,Entry-Level,19,,3,RFA,2020,"$925,000","$925,000",$0,"-$92,500","$92,500",$0
+Devon Toews,COL,22,LD,Left,NYI,Entry-Level,22,,2,RFA,2018,"$925,000","$1,031,250","$925,000","$832,500","$92,500","$212,500"
+Troy Stecher,EDM,22,RD,Right,VAN,Entry-Level,22,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Alex Tuch,BUF,20,"RW, LW",Right,MIN,Entry-Level,20,,3,RFA,2019,"$925,000","$1,350,000","$925,000","$832,500","$92,500","$425,000"
+Mantas Armalis,-,23,G,Left,SJS,Entry-Level,23,,1,UFANo QO,2017,"$925,000","$1,350,000","$925,000","$832,500","$92,500","$425,000"
+Kyle Connor,WPG,19,LW,Left,WPG,Entry-Level,19,,3,RFA,2019,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Kevin Roy,-,23,"C, LW",Left,ANA,Entry-Level,23,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Miles Wood,COL,20,LW,Left,NJD,Entry-Level,19,,3,10.2(c),2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Steven Santini,LAK,21,RD,Right,NJD,Entry-Level,20,,3,10.2(c),2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Nick Ellis,-,22,G,Left,EDM,Entry-Level,22,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Alex Lyon,DET,23,G,Left,PHI,Entry-Level,22,,2,10.2(c),2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Tyler Motte,TBL,21,"LW, RW",Left,CHI,Entry-Level,21,,3,RFA,2019,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Andy Welinski,-,23,RD,Right,ANA,Entry-Level,23,,2,RFA,2018,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Kevin Boyle,-,24,G,Left,ANA,Entry-Level,24,,1,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Mackenzie MacEachern,STL,22,"LW, RW",Left,STL,Entry-Level,22,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Mark Jankowski,NSH,21,"C, LW",Left,CGY,Entry-Level,21,,2,RFA,2018,"$925,000","$1,493,750","$925,000","$832,500","$92,500","$500,000"
+Charlie Lindgren,WSH,22,G,Right,MTL,Entry-Level,21,,2,10.2(c),2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Kalle Kossila,-,23,C,Left,ANA,Entry-Level,23,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Rob O'Gara,-,22,LD,Left,BOS,Entry-Level,23,,2,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Zachary Werenski,CBJ,18,LD,Left,CBJ,Entry-Level,18,,3,RFA,2019,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Kasimir Kaskisuo,-,22,G,Left,TOR,Entry-Level,22,,2,RFA,2018,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Eamon McAdam,-,21,G,Left,NYI,Entry-Level,21,,3,UFANo QO,2019,"$925,000","$950,000","$925,000","$832,500","$92,500","$75,000"
+Hudson Fasching,NYI,20,RW,Right,BUF,Entry-Level,19,,3,10.2(c),2018,"$925,000","$1,350,000","$925,000","$832,500","$92,500","$637,500"
+Nikita Tryamkin,-,21,LD,Left,VAN,Entry-Level,20,,2,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Jayce Hawryluk,-,20,"RW, LW",Right,FLA,Entry-Level,20,,3,RFA,2019,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Jon Gillies,-,22,G,Left,CGY,Entry-Level,20,,3,10.2(c),2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Noah Hanifin,VGK,19,LD,Left,CAR,Entry-Level,18,,3,RFA,2018,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Jack Eichel,VGK,19,C,Right,BUF,Entry-Level,18,,3,RFA,2018,"$925,000","$3,775,000","$925,000","$832,500","$92,500","$2,850,000"
+Connor McDavid,EDM,19,C,Left,EDM,Entry-Level,18,,3,RFA,2018,"$925,000","$3,775,000","$925,000","$832,500","$92,500","$2,850,000"
+Zane McIntyre,MIN,23,G,Left,BOS,Entry-Level,23,,2,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Mike Reilly,NYI,22,LD,Left,MIN,Entry-Level,22,,2,RFA,2017,"$925,000","$2,025,000","$925,000","$832,500","$92,500","$1,100,000"
+Andrew Copp,DET,21,"C, LW, RW",Left,WPG,Entry-Level,19,,3,10.2(c),2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Anton Slepyshev,-,22,"LW, RW",Right,EDM,Entry-Level,21,,3,RFA,2018,"$925,000","$1,525,000","$925,000","$832,500","$92,500","$600,000"
+Jordan Schmaltz,-,22,RD,Right,STL,Entry-Level,21,,3,RFA,2018,"$925,000","$1,208,333","$925,000","$832,500","$92,500","$425,000"
+Brady Skjei,CAR,22,LD,Left,NYR,Entry-Level,21,,3,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Kenney Morrison,-,24,RD,Right,CGY,Entry-Level,23,,2,UFANo QO,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Matt O'Connor,-,24,G,Left,OTT,Entry-Level,23,,2,UFANo QO,2017,"$925,000","$1,350,000","$925,000","$832,500","$92,500",$0
+Michael Matheson,MTL,22,LD,Left,FLA,Entry-Level,21,,3,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Joonas Donskoi,-,24,RW,Right,SJS,Entry-Level,23,,2,RFA,2017,"$925,000","$1,137,500","$925,000","$832,500","$92,500","$212,500"
+Brandon Montour,FLA,22,RD,Right,ANA,Entry-Level,21,,3,RFA,2018,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Stephon Williams,-,23,G,Left,NYI,Entry-Level,22,,2,UFANo QO,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Dylan Larkin,DET,19,C,Left,DET,Entry-Level,19,,3,RFA,2018,"$925,000","$1,425,000","$925,000","$832,500","$92,500","$500,000"
+Shayne Gostisbehere,DET,23,LD/RD,Left,PHI,Entry-Level,21,,3,10.2(c),2017,"$925,000","$1,420,833","$925,000","$832,500","$92,500","$637,500"
+David Pastrnak,BOS,20,RW,Right,BOS,Entry-Level,18,,3,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Jacob De La Rose,-,21,"C, LW",Left,MTL,Entry-Level,19,,3,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Rocco Grimaldi,-,23,"LW, RW",Right,FLA,Entry-Level,21,,3,RFA,2017,"$925,000","$1,066,667","$925,000","$832,500","$92,500","$212,500"
+Aaron Ekblad,FLA,20,RD,Right,FLA,Entry-Level,18,,3,RFA,2017,"$925,000","$3,775,000","$925,000","$832,500","$92,500","$2,850,000"
+Ville Pokka,-,22,RD,Right,NYI,Entry-Level,20,,3,RFA,2017,"$925,000","$1,775,000","$925,000","$832,500","$92,500","$850,000"
+Alexander Wennberg,NYR,21,C,Left,CBJ,Entry-Level,20,,3,RFA,2017,"$925,000","$1,400,000","$925,000","$832,500","$92,500","$475,000"
+Marko Dano,-,21,"C, LW, RW",Left,CBJ,Entry-Level,20,,3,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Nicolas Kerdiles,-,Deceased (29),LW,Left,ANA,Entry-Level,20,,3,RFA,2017,"$925,000","$925,000","$925,000","$832,500","$92,500",$0
+Sam Bennett,FLA,20,C,Left,CGY,Entry-Level,18,,3,RFA,2017,"$925,000","$3,225,000","$925,000","$832,500","$92,500","$2,300,000"
+Leon Draisaitl,EDM,20,"C, LW",Left,EDM,Entry-Level,18,,3,RFA,2017,"$925,000","$3,400,000","$925,000","$832,500","$92,500","$2,475,000"
+Andrei Vasilevskiy,TBL,21,G,Left,TBL,Entry-Level,20,,3,RFA,2017,"$925,000","$1,475,000","$925,000","$832,500","$92,500","$600,000"
+Jamie Oleksiak,SEA,23,LD/RD,Left,DAL,Standard (1-way),23,,1,RFA,2017,"$918,750","$918,750","$918,750","$918,750",$0,$0
+Charlie McAvoy,BOS,18,RD,Right,BOS,Entry-Level,18,,3,10.2(c),2019,"$916,667","$1,258,333","$900,000","$807,500","$92,500","$25,000"
+Jakob Forsbacka Karlsson,BOS,19,"RW, C",Right,BOS,Entry-Level,19,,3,10.2(c),2019,"$916,667","$925,000","$900,000","$807,500","$92,500","$25,000"
+Tyson Jost,BUF,18,C,Left,COL,Entry-Level,19,,3,RFA,2020,"$916,667","$1,704,167",$0,"-$92,500","$92,500",$0
+Clayton Keller,ARI,17,"LW, RW",Left,ARI,Entry-Level,19,,3,RFA,2020,"$916,667","$1,704,167",$0,"-$92,500","$92,500",$0
+Phillip Danault,LAK,23,C,Left,MTL,Standard (1-way),23,,2,RFA,2018,"$912,500","$912,500","$875,000","$875,000",$0,$0
+Andrej Nestrasil,-,25,"C, RW, LW",Left,CAR,Standard (1-way),24,,2,UFANo QO,2017,"$912,500","$912,500","$950,000","$950,000",$0,$0
+Dominic Moore,-,35,"C, LW",Left,BOS,35+ (1-way),35,,1,UFA,2017,"$900,000","$1,000,000","$900,000","$900,000",$0,"$100,000"
+Matt Puempel,-,23,LW,Left,OTT,Standard (2-way),23,,1,RFA,2017,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Chris Kelly,-,35,"C, LW",Left,OTT,35+ (1-way),35,,1,UFA,2017,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Jared Boll,-,30,RW,Right,ANA,Standard (1-way),30,,2,UFA,2018,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Riley Nash,NYR,27,"C, RW",Right,BOS,Standard (1-way),27,,2,UFA,2018,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Jeff Zatkoff,-,29,G,Left,LAK,Standard (1-way),29,,2,UFA,2018,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Scottie Upshall,-,32,LW,Left,STL,Standard (1-way),32,,1,UFA,2017,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Markus Granlund,-,23,"RW, LW, C",Left,VAN,Standard (1-way),23,,2,RFA,2018,"$900,000","$900,000","$850,000","$850,000",$0,$0
+Tomas Jurco,-,23,"RW, LW",Left,DET,Standard (1-way),22,,2,RFA,2017,"$900,000","$900,000","$950,000","$950,000",$0,$0
+Zach Hyman,EDM,24,"RW, LW",Right,TOR,Entry-Level,23,,2,RFA,2017,"$900,000","$900,000","$900,000","$810,000","$90,000",$0
+Patrik Nemeth,-,24,LD,Left,DAL,Standard (1-way),23,,2,RFA,2017,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Jean-Gabriel Pageau,NYI,23,C,Right,OTT,Standard (1-way),22,,2,RFA,2017,"$900,000","$900,000","$1,100,000","$1,100,000",$0,$0
+Jyrki Jokipakka,-,24,LD,Left,DAL,Standard (1-way),23,,2,UFANo QO,2017,"$900,000","$900,000","$900,000","$900,000",$0,$0
+Ben Hutton,VGK,23,LD,Left,VAN,Entry-Level,22,,2,RFA,2017,"$896,250","$925,000","$925,000","$832,500","$92,500",$0
+Zach Senyshyn,-,19,RW,Right,BOS,Entry-Level,18,,3,RFA,2020,"$894,167","$1,319,167",$0,"-$92,500","$92,500",$0
+Jake DeBrusk,BOS,19,"RW, LW",Left,BOS,Entry-Level,18,,3,RFA,2020,"$894,167","$1,319,167",$0,"-$92,500","$92,500",$0
+Anthony Beauvillier,NSH,19,"RW, LW",Left,NYI,Entry-Level,18,,3,RFA,2019,"$894,167","$1,106,667","$925,000","$832,500","$92,500","$212,500"
+Evgeny Svechnikov,-,19,"LW, RW",Left,DET,Entry-Level,18,,3,10.2(c),2020,"$894,167","$1,106,667",$0,"-$92,500","$92,500",$0
+Thomas Chabot,OTT,19,LD,Left,OTT,Entry-Level,18,,3,RFA,2020,"$894,167","$1,254,167",$0,"-$92,500","$92,500",$0
+Mathew Barzal,NYI,19,"C, RW",Right,NYI,Entry-Level,18,,3,RFA,2020,"$894,167","$1,294,167",$0,"-$92,500","$92,500",$0
+Nick Merkley,-,19,"RW, C",Right,ARI,Entry-Level,18,,3,RFA,2020,"$894,167","$1,106,667",$0,"-$92,500","$92,500",$0
+Pavel Zacha,BOS,19,"C, LW",Left,NJD,Entry-Level,18,,3,RFA,2019,"$894,167","$1,744,167","$925,000","$832,500","$92,500","$850,000"
+Mitchell Marner,TOR,19,RW,Right,TOR,Entry-Level,18,,3,RFA,2019,"$894,167","$1,744,167","$925,000","$832,500","$92,500","$850,000"
+Travis Dermott,ARI,19,LD/RD,Left,TOR,Entry-Level,18,,3,RFA,2020,"$894,167","$894,167",$0,"-$92,500","$92,500",$0
+Travis Konecny,PHI,19,"RW, LW",Right,PHI,Entry-Level,18,,3,RFA,2019,"$894,167","$1,106,667","$925,000","$832,500","$92,500",$0
+Jakub Zboril,CBJ,19,LD/RD,Left,BOS,Entry-Level,18,,3,RFA,2020,"$894,167","$1,319,167",$0,"-$92,500","$92,500",$0
+Lawson Crouse,ARI,19,"LW, RW",Left,FLA,Entry-Level,18,,3,RFA,2019,"$894,167","$1,602,500","$925,000","$832,500","$92,500","$637,500"
+Timo Meier,NJD,19,"LW, RW",Left,SJS,Entry-Level,18,,3,RFA,2019,"$894,167","$1,644,167","$925,000","$832,500","$92,500","$650,000"
+Ivan Provorov,CBJ,19,LD,Left,PHI,Entry-Level,18,,3,RFA,2019,"$894,167","$1,744,167","$925,000","$832,500","$92,500","$850,000"
+Mikko Rantanen,COL,19,"RW, C",Left,COL,Entry-Level,18,,3,RFA,2019,"$894,167","$1,627,500","$925,000","$832,500","$92,500","$500,000"
+Dylan Strome,WSH,19,C,Left,ARI,Entry-Level,18,,3,RFA,2020,"$894,167","$3,369,167",$0,"-$92,500","$92,500",$0
+Noah Juulsen,VAN,19,RD,Right,MTL,Entry-Level,18,,3,RFA,2020,"$894,167","$1,094,167",$0,"-$92,500","$92,500",$0
+Robby Fabbri,DET,20,LW,Left,STL,Entry-Level,18,,3,10.2(c),2018,"$894,167","$1,106,667","$925,000","$832,500","$92,500","$212,500"
+Sam Reinhart,FLA,20,RW,Right,BUF,Entry-Level,18,,3,RFA,2018,"$894,167","$3,544,167","$925,000","$832,500","$92,500","$2,650,000"
+Jason Dickinson,CHI,20,"C, LW",Left,DAL,Entry-Level,19,,3,RFA,2018,"$894,167","$894,167","$925,000","$832,500","$92,500",$0
+Nick Ritchie,-,20,LW,Left,ANA,Entry-Level,18,,3,RFA,2018,"$894,167","$1,627,500","$925,000","$832,500","$92,500","$850,000"
+Nikolaj Ehlers,WPG,20,"RW, LW",Left,WPG,Entry-Level,18,,3,RFA,2018,"$894,167","$1,594,167","$925,000","$832,500","$92,500","$675,000"
+Jared McCann,SEA,20,"C, LW",Left,VAN,Entry-Level,18,,3,RFA,2018,"$894,167","$1,106,667","$925,000","$832,500","$92,500","$212,500"
+Jake Virtanen,-,19,"RW, LW",Right,VAN,Entry-Level,18,,3,RFA,2018,"$894,167","$1,744,167","$925,000","$832,500","$92,500","$850,000"
+William Nylander,TOR,20,RW,Right,TOR,Entry-Level,18,,3,RFA,2018,"$894,167","$1,744,167","$925,000","$832,500","$92,500","$850,000"
+Robert Hägg,ANA,21,LD,Left,PHI,Entry-Level,19,,3,RFA,2018,"$894,167","$894,167","$925,000","$832,500","$92,500",$0
+Bo Horvat,NYI,21,C,Left,VAN,Entry-Level,18,,3,RFA,2017,"$894,167","$1,744,167","$832,500","$832,500",$0,"$850,000"
+Adrian Kempe,LAK,19,"LW, RW",Left,LAK,Entry-Level,19,,3,RFA,2019,"$894,167","$894,167","$925,000","$832,500","$92,500",$0
+Mirco Mueller,-,21,LD,Left,SJS,Entry-Level,18,,3,RFA,2017,"$894,167","$1,319,167","$832,500","$832,500",$0,"$425,000"
+Henrik Samuelsson,-,22,C,Right,ARI,Entry-Level,19,,3,UFANo QO,2017,"$894,167","$1,106,667","$832,500","$832,500",$0,"$212,500"
+Nikita Zadorov,VAN,21,LD/RD,Left,BUF,Entry-Level,18,,3,RFA,2017,"$894,167","$1,744,167","$832,500","$832,500",$0,"$850,000"
+André Burakovsky,SEA,21,"RW, LW",Left,WSH,Entry-Level,18,,3,RFA,2017,"$894,167","$894,167","$832,500","$832,500",$0,$0
+Teuvo Teräväinen,CAR,21,"LW, RW",Left,CHI,Entry-Level,19,,3,RFA,2017,"$894,167","$1,460,833","$832,500","$832,500",$0,"$850,000"
+Patrick Sieloff,-,22,LD,Left,CGY,Entry-Level,19,,3,RFA,2017,"$894,167","$894,167","$832,500","$832,500",$0,$0
+Slater Koekkoek,-,22,LD/RD,Left,TBL,Entry-Level,19,,3,RFA,2017,"$894,167","$1,444,167","$832,500","$832,500",$0,"$600,000"
+Jonathan Drouin,COL,21,"LW, RW",Left,TBL,Entry-Level,18,,3,RFA,2017,"$894,167","$3,194,167","$832,500","$832,500",$0,"$2,300,000"
+Curtis Lazar,NJD,21,"RW, C",Right,OTT,Entry-Level,18,,3,RFA,2017,"$894,167","$1,254,167","$832,500","$832,500",$0,"$360,000"
+Joel Eriksson Ek,MIN,19,C,Left,MIN,Entry-Level,18,,3,RFA,2019,"$894,166","$1,106,666","$925,000","$832,500","$92,500",$0
+Paul Postma,-,27,RD,Right,WPG,Standard (1-way),26,,2,UFA,2017,"$887,500","$887,500","$925,000","$925,000",$0,$0
+Sean Malone,-,21,C,Left,BUF,Entry-Level,21,,2,10.2(c),2018,"$883,750","$925,000","$925,000","$832,500","$92,500",$0
+Joey LaLeggia,-,24,LD,Left,EDM,Entry-Level,23,,2,RFA,2017,"$883,750","$925,000","$925,000","$832,500","$92,500",$0
+Dylan Sadowy,-,20,LW,Left,DET,Entry-Level,20,,3,UFANo QO,2019,"$880,833","$925,000","$792,500","$700,000","$92,500","$132,500"
+Zachary Sanford,CHI,21,"LW, RW",Left,WSH,Entry-Level,21,,3,RFA,2019,"$875,000","$925,000","$875,000","$782,500","$92,500","$50,000"
+Richard Pánik,-,25,"LW, RW",Left,CHI,Standard (1-way),25,,1,RFA,2017,"$875,000","$875,000","$875,000","$875,000",$0,$0
+Brett Ritchie,-,23,RW,Right,DAL,Standard (1-way),22,,1,RFA,2017,"$875,000","$875,000","$875,000","$875,000",$0,$0
+Jujhar Khaira,MIN,21,"LW, C",Left,EDM,Entry-Level,19,,3,RFA,2017,"$875,000","$894,167","$832,500","$832,500",$0,$0
+Mitchell Moroz,-,22,LW,Left,EDM,Entry-Level,19,,3,UFANo QO,2017,"$875,000","$894,167","$832,500","$832,500",$0,$0
+Adam Erne,EDM,21,"LW, RW",Left,TBL,Entry-Level,19,,3,RFA,2018,"$874,167","$894,167","$925,000","$832,500","$92,500",$0
+Brandon Tanev,SEA,24,"LW, RW",Left,WPG,Standard (2-way),24,,1,RFA,2017,"$874,125","$874,125","$874,125","$874,125",$0,$0
+Duncan Siemens,-,22,LD,Left,COL,Standard (2-way),22,,1,RFA,2017,"$874,125","$874,125","$874,125","$874,125",$0,$0
+Tyler Gaudet,-,23,C,Left,ARI,Standard (2-way),23,,1,RFA,2017,"$874,125","$874,125","$874,125","$874,125",$0,$0
+Casey Bailey,-,24,C,Right,OTT,Standard (2-way),24,,1,UFAGroup 6,2017,"$874,125","$874,125","$874,125","$874,125",$0,$0
+Gustav Forsling,FLA,20,LD,Left,CHI,Entry-Level,20,,3,RFA,2019,"$872,500","$925,000","$767,500","$675,000","$92,500","$157,500"
+Danton Heinen,BOS,20,"LW, RW",Left,BOS,Entry-Level,21,,3,RFA,2019,"$872,500","$995,833","$767,500","$675,000","$92,500","$157,500"
+Tyler Benson,-,18,"LW, RW",Left,EDM,Entry-Level,18,,3,RFA,2021,"$870,000","$925,000",$0,"-$92,500","$92,500",$0
+Devin Shore,SEA,21,"LW, C, RW",Left,DAL,Entry-Level,21,,3,RFA,2018,"$870,000","$925,000","$867,500","$775,000","$92,500","$57,500"
+Sonny Milano,WSH,20,"LW, RW",Left,CBJ,Entry-Level,18,,3,RFA,2019,"$863,333","$1,263,333","$925,000","$832,500","$92,500","$400,000"
+Kevin Fiala,LAK,19,"RW, LW",Left,NSH,Entry-Level,18,,3,RFA,2019,"$863,333","$1,363,333","$925,000","$832,500","$92,500","$500,000"
+Nikolay Goldobin,-,20,LW,Left,SJS,Entry-Level,18,,3,RFA,2019,"$863,333","$1,075,833","$925,000","$832,500","$92,500","$212,500"
+Michael Dal Colle,-,20,LW,Left,NYI,Entry-Level,18,,3,RFA,2019,"$863,333","$3,063,333","$925,000","$832,500","$92,500","$2,200,000"
+Max Domi,TOR,21,"C, RW",Left,ARI,Entry-Level,18,,3,RFA,2018,"$863,333","$1,363,333","$832,500","$832,500",$0,"$500,000"
+Brendan Perlini,-,20,"RW, LW",Left,ARI,Entry-Level,18,,3,RFA,2019,"$863,333","$1,363,333","$925,000","$832,500","$92,500","$500,000"
+Emile Poirier,-,21,LW,Left,CGY,Entry-Level,18,,3,UFANo QO,2018,"$863,333","$863,333","$832,500","$832,500",$0,$0
+Morgan Klimchuk,-,21,LW,Left,CGY,Entry-Level,18,,3,RFA,2018,"$863,333","$863,333","$832,500","$832,500",$0,$0
+Haydn Fleury,TBL,19,LD/RD,Left,CAR,Entry-Level,18,,3,RFA,2019,"$863,333","$1,713,333","$925,000","$832,500","$92,500","$850,000"
+Kerby Rychel,-,21,LW,Left,CBJ,Entry-Level,18,,3,RFA,2018,"$863,333","$1,213,333","$832,500","$832,500",$0,"$350,000"
+Darnell Nurse,EDM,21,LD,Left,EDM,Entry-Level,18,,3,RFA,2018,"$863,333","$1,713,333","$832,500","$832,500",$0,"$850,000"
+Julius Honka,-,20,RD,Right,DAL,Entry-Level,18,,3,RFA,2019,"$863,333","$1,363,333","$925,000","$832,500","$92,500","$500,000"
+Shea Theodore,VGK,20,LD/RD,Left,ANA,Entry-Level,18,,3,RFA,2018,"$863,333","$863,333","$832,500","$832,500",$0,$0
+Joshua Morrissey,WPG,21,LD,Left,WPG,Entry-Level,18,,3,RFA,2018,"$863,333","$1,363,333","$832,500","$832,500",$0,"$500,000"
+Hunter Shinkaruk,-,21,C,Left,VAN,Entry-Level,18,,3,RFA,2018,"$863,333","$1,075,833","$832,500","$832,500",$0,"$212,500"
+Frédérik Gauthier,-,21,C,Left,TOR,Entry-Level,18,,3,RFA,2018,"$863,333","$863,333","$832,500","$832,500",$0,$0
+Anthony Mantha,VGK,21,"LW, RW",Left,DET,Entry-Level,18,,3,RFA,2018,"$863,333","$863,333","$832,500","$832,500",$0,$0
+Samuel Morin,-,20,"LD, LW",Left,PHI,Entry-Level,18,,3,RFA,2018,"$863,333","$1,363,333","$832,500","$832,500",$0,"$500,000"
+Travis Sanheim,PHI,20,LD/RD,Left,PHI,Entry-Level,18,,3,RFA,2019,"$863,333","$1,263,333","$925,000","$832,500","$92,500","$400,000"
+Jakub Vrána,STL,20,LW,Left,WSH,Entry-Level,18,,3,RFA,2019,"$863,333","$1,363,333","$925,000","$832,500","$92,500","$400,000"
+Michael McCarron,NSH,21,"RW, C",Right,MTL,Entry-Level,18,,3,RFA,2018,"$863,333","$1,075,833","$832,500","$832,500",$0,"$212,500"
+Nikita Scherbak,-,20,"LW, RW",Left,MTL,Entry-Level,18,,3,UFANo QO,2019,"$863,333","$1,063,333","$925,000","$832,500","$92,500",$0
+Anthony Deangelo,CAR,20,RD,Right,TBL,Entry-Level,18,,3,RFA,2019,"$863,333","$1,263,333","$925,000","$832,500","$92,500","$400,000"
+Ryan Hartman,MIN,21,"C, RW",Right,CHI,Entry-Level,18,,3,RFA,2018,"$863,333","$863,333","$832,500","$832,500",$0,$0
+Kasperi Kapanen,STL,19,RW,Right,PIT,Entry-Level,18,,3,RFA,2019,"$863,333","$863,333","$925,000","$832,500","$92,500",$0
+Joshua Ho-Sang,-,20,"RW, C",Right,NYI,Entry-Level,18,,3,RFA,2019,"$863,333","$1,075,833","$925,000","$832,500","$92,500","$212,500"
+Malcolm Subban,CBJ,22,G,Left,BOS,Entry-Level,18,,3,RFA,2017,"$863,333","$1,463,333","$832,500","$832,500",$0,"$850,000"
+Ryan Pulock,NYI,21,RD,Right,NYI,Entry-Level,18,,3,RFA,2018,"$863,333","$1,363,333","$832,500","$832,500",$0,"$500,000"
+Griffin Reinhart,-,22,LD,Left,NYI,Entry-Level,18,,3,RFA,2017,"$863,333","$3,213,333","$832,500","$832,500",$0,"$2,350,000"
+Brendan Gaunce,CBJ,22,"LW, C",Left,VAN,Entry-Level,18,,3,RFA,2017,"$863,333","$1,025,833","$832,500","$832,500",$0,"$162,500"
+Scott Laughton,PHI,22,"C, LW",Left,PHI,Entry-Level,18,,3,RFA,2017,"$863,333","$1,075,833","$832,500","$832,500",$0,"$425,000"
+Radek Faksa,DAL,22,"C, LW",Left,DAL,Entry-Level,18,,3,RFA,2017,"$863,333","$1,338,333","$832,500","$832,500",$0,"$637,500"
+Derrick Pouliot,DAL,22,LD,Left,PIT,Entry-Level,18,,3,RFA,2017,"$863,333","$1,288,333","$832,500","$832,500",$0,"$425,000"
+Matt Grzelcyk,BOS,22,LD,Left,BOS,Entry-Level,22,,2,RFA,2018,"$858,750","$925,000","$792,500","$700,000","$92,500","$132,500"
+Danny O'Regan,-,22,"C, LW",Right,SJS,Entry-Level,22,,2,RFA,2018,"$858,750","$925,000","$792,500","$700,000","$92,500","$132,500"
+Andrew Poturalski,SEA,22,C,Right,CAR,Entry-Level,22,,2,RFA,2018,"$858,750","$925,000","$792,500","$700,000","$92,500","$132,500"
+Kyle Rau,-,23,"LW, C",Left,FLA,Entry-Level,22,,2,UFANo QO,2017,"$858,750","$925,000","$925,000","$832,500","$92,500",$0
+Colton Parayko,STL,23,RD,Right,STL,Entry-Level,22,,2,RFA,2017,"$858,750","$925,000","$925,000","$832,500","$92,500",$0
+Jérémy Roy,-,19,RD,Right,SJS,Entry-Level,18,,3,UFANo QO,2020,"$858,333","$894,167",$0,"-$92,500","$92,500",$0
+Adam Pelech,NYI,21,LD,Left,NYI,Entry-Level,20,,3,RFA,2017,"$854,333","$925,000","$925,000","$832,500","$92,500",$0
+Christian Fischer,DET,19,"RW, LW",Right,ARI,Entry-Level,18,,3,RFA,2020,"$852,500","$1,106,667",$0,"-$92,500","$92,500",$0
+Shane Prince,-,23,LW,Left,NYI,Standard (1-way),23,,2,UFANo QO,2018,"$850,000","$850,000","$800,000","$800,000",$0,$0
+Brett Connolly,-,24,"RW, LW",Right,WSH,Standard (1-way),24,,1,UFANo QO,2017,"$850,000","$850,000","$850,000","$850,000",$0,$0
+Ben Chiarot,DET,25,LD/RD,Left,WPG,Standard (1-way),24,,2,RFA,2017,"$850,000","$850,000","$850,000","$850,000",$0,$0
+Zac Rinaldo,-,26,LW,Left,PHI,Standard (1-way),24,,2,UFA,2017,"$850,000","$850,000","$850,000","$850,000",$0,$0
+Ville Husso,DET,21,G,Left,STL,Entry-Level,21,,3,RFA,2019,"$847,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Chris Bigras,-,21,RD,Left,COL,Entry-Level,18,,3,RFA,2018,"$843,333","$863,333","$832,500","$832,500",$0,$0
+Pascal Laberge,-,18,C,Right,PHI,Entry-Level,18,,3,UFANo QO,2021,"$842,500","$925,000",$0,"-$92,500","$92,500",$0
+Ádám Vay,-,22,G,Left,MIN,Entry-Level,22,,2,UFANo QO,2018,"$842,500","$925,000","$842,500","$750,000","$92,500","$82,500"
+Nick Lappin,-,23,RW,Right,NJD,Entry-Level,23,,2,RFA,2018,"$842,500","$925,000","$842,500","$750,000","$92,500","$82,500"
+Evan Rodrigues,FLA,22,"LW, C",Right,BUF,Entry-Level,22,,2,RFA,2017,"$842,500","$925,000","$842,500","$750,000","$92,500","$82,500"
+Bogdan Yakimov,-,21,C,Left,EDM,Entry-Level,20,,3,RFA,2017,"$842,500","$925,000","$892,500","$800,000","$92,500","$32,500"
+Nick Cousins,FLA,22,"LW, C",Left,PHI,Standard (2-way),22,,1,RFA,2017,"$840,000","$840,000","$840,000","$840,000",$0,$0
+Mitchell Stephens,MTL,19,C,Right,TBL,Entry-Level,19,,3,RFA,2020,"$839,167","$925,000",$0,"-$92,500","$92,500",$0
+Brendan Lemieux,CAR,20,"LW, RW",Left,WPG,Entry-Level,19,,3,RFA,2019,"$839,167","$1,039,167","$792,500","$700,000","$92,500","$200,000"
+Christian Dvorak,MTL,20,C,Left,ARI,Entry-Level,19,,3,RFA,2019,"$839,167","$1,106,667","$792,500","$700,000","$92,500","$345,000"
+Artturi Lehkonen,COL,20,"LW, RW",Left,MTL,Entry-Level,20,,3,RFA,2019,"$839,166","$925,000","$667,500","$575,000","$92,500","$257,500"
+Yan-Pavel Laplante,-,21,C,Left,VAN,Entry-Level,21,,3,UFANo QO,2019,"$836,667","$925,000","$792,500","$700,000","$92,500","$132,500"
+Dillon Simpson,-,23,LD,Left,EDM,Entry-Level,21,,3,RFA,2017,"$836,667","$925,000","$925,000","$832,500","$92,500",$0
+Brady Brassart,-,23,C,Left,MIN,Entry-Level,21,,3,UFANo QO,2017,"$836,666","$925,000","$925,000","$832,500","$92,500",$0
+Vladislav Kamenev,COL,19,C,Left,NSH,Entry-Level,19,,3,RFA,2019,"$833,333","$894,167","$742,500","$650,000","$92,500","$182,500"
+Matthew Finn,-,22,LD,Left,TOR,Entry-Level,19,,3,UFANo QO,2017,"$827,500","$894,167","$832,500","$832,500",$0,$0
+Micheal Ferland,-,24,"LW, RW",Left,CGY,Standard (1-way),23,,2,RFA,2017,"$825,000","$825,000","$900,000","$900,000",$0,$0
+Josh Manson,COL,24,RD,Right,ANA,Standard (1-way),23,,2,RFA,2018,"$825,000","$825,000","$825,000","$825,000",$0,$0
+Trevor van Riemsdyk,WSH,24,RD,Right,CHI,Standard (1-way),23,,2,RFA,2018,"$825,000","$825,000","$750,000","$750,000",$0,$0
+Mason McDonald,-,20,G,Right,CGY,Entry-Level,19,,3,UFANo QO,2019,"$822,500","$894,167","$792,500","$700,000","$92,500","$132,500"
+Michael Downing,-,21,LD,Left,FLA,Entry-Level,21,,3,UFANo QO,2019,"$820,000","$925,000","$742,500","$650,000","$92,500","$182,500"
+Markus Nutivaara,-,22,LD/RD,Left,CBJ,Entry-Level,22,,2,RFA,2018,"$817,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Austin Czarnik,DET,23,"C, RW",Right,BOS,Entry-Level,22,,2,RFA,2017,"$817,500","$925,000","$842,500","$750,000","$92,500","$82,500"
+Linus Arnesson,-,21,LD,Left,BOS,Entry-Level,20,,3,RFA,2017,"$817,500","$925,000","$867,500","$775,000","$92,500","$57,500"
+Phillip Di Giuseppe,VAN,22,LW,Left,CAR,Entry-Level,20,,3,RFA,2017,"$817,500","$925,000","$867,500","$775,000","$92,500","$57,500"
+Mikael Wikstrand,-,22,LD,Left,OTT,Entry-Level,20,,3,RFA,2017,"$813,333","$836,667","$880,000","$800,000","$80,000",$0
+Teemu Pulkkinen,-,24,LW,Right,DET,Standard (1-way),24,,1,RFA,2017,"$812,500","$812,500","$812,500","$812,500",$0,$0
+Cédric Paquette,-,22,"C, LW, RW",Left,TBL,Standard (1-way),22,,2,RFA,2018,"$812,500","$812,500","$800,000","$800,000",$0,$0
+Nate Schmidt,WPG,24,LD/RD,Left,WSH,Standard (1-way),23,,2,RFA,2017,"$812,500","$812,500","$875,000","$875,000",$0,$0
+Artemi Panarin,NYR,24,LW,Right,CHI,Entry-Level,23,,2,RFA,2017,"$812,500","$3,500,000","$925,000","$832,500","$92,500","$2,575,000"
+Alex Nedeljkovic,PIT,20,G,Left,CAR,Entry-Level,19,,3,RFA,2019,"$811,667","$894,167","$792,500","$700,000","$92,500","$132,500"
+John Quenneville,-,20,"LW, C",Left,NJD,Entry-Level,19,,3,RFA,2019,"$811,667","$894,167","$842,500","$750,000","$92,500","$82,500"
+Brock McGinn,ANA,22,"LW, RW",Left,CAR,Entry-Level,19,,3,RFA,2017,"$811,667","$894,167","$800,000","$800,000",$0,"$32,500"
+Alex DeBrincat,DET,18,"LW, RW",Right,CHI,Entry-Level,18,,3,RFA,2020,"$809,167","$925,000",$0,"-$92,500","$92,500",$0
+Dryden Hunt,CGY,20,"LW, RW",Left,FLA,Entry-Level,20,,3,RFA,2019,"$809,167","$925,000","$742,500","$650,000","$92,500","$182,500"
+Brett Pesce,CAR,21,RD,Right,CAR,Entry-Level,20,,3,RFA,2018,"$809,167","$925,000","$792,500","$700,000","$92,500","$132,500"
+Sean Kuraly,CBJ,23,"C, LW",Left,BOS,Entry-Level,23,,2,RFA,2018,"$808,750","$925,000","$692,500","$600,000","$92,500","$232,500"
+Adam Wilcox,-,23,G,Left,TBL,Entry-Level,22,,2,UFANo QO,2017,"$808,750","$925,000","$925,000","$832,500","$92,500",$0
+Jonny Brodzinski,NYR,23,C,Right,LAK,Entry-Level,22,,2,RFA,2017,"$808,750","$925,000","$925,000","$832,500","$92,500",$0
+Ryan Gropp,-,19,LW,Left,NYR,Entry-Level,18,,3,UFANo QO,2020,"$808,333","$894,167",$0,"-$92,500","$92,500",$0
+Dominik Masin,-,20,LD,Left,TBL,Entry-Level,19,,3,RFA,2019,"$808,333","$894,167","$667,500","$575,000","$92,500","$257,500"
+Jordan Kyrou,STL,18,RW,Right,STL,Entry-Level,18,,3,RFA,2021,"$803,333","$925,000",$0,"-$92,500","$92,500",$0
+Robin Kovacs,-,19,RW,Left,NYR,Entry-Level,19,,3,RFA,2019,"$803,333","$925,000","$742,500","$650,000","$92,500","$182,500"
+Adam Tambellini,-,21,C,Left,NYR,Entry-Level,20,,3,UFANo QO,2018,"$803,333","$925,000","$742,500","$650,000","$92,500","$182,500"
+Nick Sörensen,-,21,RW,Right,ANA,Entry-Level,20,,3,RFA,2017,"$803,333","$925,000","$925,000","$832,500","$92,500",$0
+Jonathon Martin,-,20,LW,Right,SJS,Entry-Level,20,,3,UFANo QO,2019,"$800,833","$925,000","$717,500","$625,000","$92,500","$207,500"
+Gabriel Bourque,-,25,"RW, LW",Left,COL,Standard (2-way),26,,1,RFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Dylan McIlrath,WSH,24,RD,Right,NYR,Standard (1-way),24,,1,UFAGroup 6,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Joe Morrow,-,23,RD,Left,BOS,Standard (1-way),23,,1,UFANo QO,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Sergei Kalinin,-,25,RW,Left,NJD,Standard (1-way),25,,1,UFANo QO,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Steve Ott,-,33,"C, LW",Left,DET,Standard (1-way),33,,1,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Patrick Wiercioch,-,25,LD,Left,COL,Standard (1-way),25,,1,UFANo QO,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Jonas Gustavsson,-,31,G,Left,EDM,Standard (1-way),31,,1,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Michael Kostka,-,30,RD,Right,OTT,Standard (2-way),30,,1,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Alex Chiasson,-,25,RW,Right,CGY,Standard (1-way),25,,1,UFANo QO,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Ben Holmstrom,-,29,C,Right,NYI,Standard (2-way),29,,1,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Bracken Kearns,-,35,C,Left,NYI,35+ (2-way),35,,1,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Tom Pyatt,-,29,C,Left,OTT,Standard (2-way),29,,1,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Adam Chapie,-,24,RW,Right,NYR,Standard (2-way),24,,2,UFANo QO,2018,"$800,000","$800,000","$750,000","$650,000","$100,000",$0
+Chris Wideman,MTL,26,RD,Right,OTT,Standard (1-way),26,,2,UFA,2018,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Taylor Chorney,-,29,RD,Left,WSH,Standard (1-way),28,,2,UFA,2018,"$800,000","$800,000","$775,000","$775,000",$0,$0
+Andrew Desjardins,-,29,C,Left,CHI,Standard (1-way),28,,2,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Brian Dumoulin,SEA,24,LD,Left,PIT,Standard (1-way),23,,2,RFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Patrick McNally,-,24,LD,Left,SJS,Entry-Level,23,,2,UFANo QO,2017,"$800,000","$900,000","$900,000","$810,000","$90,000",$0
+Greg Pateryn,-,26,RD,Right,MTL,Standard (1-way),25,,2,UFA,2018,"$800,000","$800,000","$750,000","$750,000",$0,$0
+Curtis McElhinney,-,33,G,Left,CBJ,Standard (1-way),32,,2,UFA,2017,"$800,000","$800,000","$800,000","$800,000",$0,$0
+Ryan MacInnis,-,20,C,Left,ARI,Entry-Level,19,,3,RFA,2019,"$797,500","$894,167","$717,500","$625,000","$92,500","$207,500"
+Kevin Rooney,CGY,23,C,Left,NJD,Entry-Level,23,,1,RFA,2017,"$796,429","$796,429","$625,000","$575,000","$50,000",$0
+Matthew Peca,STL,23,"LW, C",Left,TBL,Entry-Level,22,,2,RFA,2017,"$796,250","$925,000","$925,000","$832,500","$92,500",$0
+Keaton Thompson,-,20,LD,Left,ANA,Entry-Level,20,,3,UFANo QO,2019,"$795,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Gustav Olofsson,SEA,21,LD,Left,MIN,Entry-Level,19,,3,10.2(c),2017,"$795,000","$925,000","$925,000","$832,500","$92,500",$0
+Marcus Pettersson,PIT,20,LD,Left,ANA,Entry-Level,19,,3,RFA,2019,"$794,167","$894,167","$725,000","$632,500","$92,500","$200,000"
+Carter Hart,PHI,17,G,Left,PHI,Entry-Level,17,,3,RFA,2021,"$792,500","$925,000",$0,"-$92,500","$92,500",$0
+Yohann Auvitu,-,26,"LD, LW",Left,NJD,Entry-Level,27,,1,UFA,2017,"$792,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Linus Hultström,-,23,D,Right,FLA,Entry-Level,23,,2,RFA,2018,"$792,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Sam Anas,-,23,C,Right,MIN,Entry-Level,23,,2,RFA,2018,"$792,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Mario Lucia,-,22,LW,Left,MIN,Entry-Level,22,,2,UFANo QO,2018,"$792,500","$925,000","$767,500","$675,000","$92,500","$157,500"
+Jordan Maletta,-,21,C,Right,CBJ,Entry-Level,21,,3,RFA,2019,"$792,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Jere Sallinen,-,25,LW,Left,EDM,Entry-Level,25,,1,RFA,2017,"$792,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Noel Acciari,PIT,24,"C, RW",Right,BOS,Entry-Level,23,,2,RFA,2017,"$792,500","$925,000","$892,500","$800,000","$92,500","$32,500"
+Frank Vatrano,ANA,22,"LW, RW",Left,BOS,Entry-Level,21,,3,RFA,2018,"$792,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Justin Hickman,-,22,RW,Right,BOS,Entry-Level,21,,3,UFANo QO,2018,"$792,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Brandon Carlo,BOS,19,RD,Right,BOS,Entry-Level,18,,3,RFA,2019,"$789,167","$894,167","$717,500","$625,000","$92,500","$207,500"
+Ryan Murphy,-,23,RD,Right,CAR,Standard (1-way),23,,2,RFA,2018,"$787,500","$787,500","$750,000","$750,000",$0,$0
+Rasmus Andersson,CGY,19,RD,Right,CGY,Entry-Level,18,,3,RFA,2020,"$786,667","$894,167",$0,"-$92,500","$92,500",$0
+Michael Mersch,-,23,LW,Left,LAK,Entry-Level,21,,3,RFA,2017,"$786,667","$925,000","$925,000","$832,500","$92,500",$0
+Jaycob Megna,CHI,23,LD,Left,ANA,Entry-Level,21,,3,RFA,2017,"$786,667","$925,000","$925,000","$832,500","$92,500",$0
+Anton Blidh,NYR,21,"LW, RW",Left,BOS,Entry-Level,20,,3,RFA,2018,"$784,167","$925,000","$792,500","$700,000","$92,500","$132,500"
+Pontus Åberg,-,22,"RW, LW",Right,NSH,Entry-Level,20,,3,RFA,2017,"$780,833","$925,000","$842,500","$750,000","$92,500","$82,500"
+Taylor Leier,-,22,LW,Left,PHI,Entry-Level,19,,3,RFA,2017,"$779,617","$825,050","$768,150","$768,150",$0,$0
+Michael Brodzinski,-,21,D,Right,SJS,Entry-Level,21,,3,UFANo QO,2019,"$778,333","$925,000","$667,500","$575,000","$92,500","$257,500"
+Paul Bittner,-,19,LW,Left,CBJ,Entry-Level,18,,3,UFANo QO,2020,"$778,333","$894,167",$0,"-$92,500","$92,500",$0
+Rinat Valiev,-,21,LD,Left,TOR,Entry-Level,19,,3,RFA,2018,"$778,333","$894,167","$842,500","$750,000","$92,500","$82,500"
+Carter Verhaeghe,FLA,20,LW,Left,TOR,Entry-Level,19,,3,RFA,2018,"$778,333","$894,167","$842,500","$750,000","$92,500","$82,500"
+Vitaly Abramov,OTT,18,LW,Left,CBJ,Entry-Level,18,,3,RFA,2021,"$775,833","$925,000",$0,"-$92,500","$92,500",$0
+Kyle Capobianco,WPG,18,LD,Left,ARI,Entry-Level,19,,3,RFA,2020,"$775,833","$925,000",$0,"-$92,500","$92,500",$0
+Aleksi Saarela,FLA,19,"C, LW",Left,CAR,Entry-Level,19,,3,RFA,2020,"$775,833","$925,000",$0,"-$92,500","$92,500",$0
+Andreas Englund,LAK,20,LD,Left,OTT,Entry-Level,20,,3,RFA,2019,"$775,833","$925,000","$742,500","$650,000","$92,500","$182,500"
+Christoph Bertschy,-,22,C,Right,MIN,Entry-Level,21,,3,RFA,2018,"$775,833","$925,000","$742,500","$650,000","$92,500","$182,500"
+Linus Ullmark,BOS,22,G,Left,BUF,Entry-Level,21,,3,RFA,2017,"$775,833","$925,000","$892,500","$800,000","$92,500","$32,500"
+Oscar Dansk,CGY,22,G,Left,CBJ,Entry-Level,20,,3,UFANo QO,2017,"$775,833","$925,000","$792,500","$700,000","$92,500","$132,500"
+Emerson Etem,-,23,"LW, RW",Left,VAN,Standard (1-way),23,,1,UFANo QO,2017,"$775,000","$775,000","$775,000","$775,000",$0,$0
+Nicolas Deslauriers,PHI,25,"LW, RW",Left,BUF,Standard (1-way),25,,2,UFA,2018,"$775,000","$775,000","$775,000","$775,000",$0,$0
+Tim Heed,-,25,RD,Right,SJS,Standard (2-way),25,,1,10.2(c),2017,"$775,000","$775,000","$775,000","$675,000","$100,000",$0
+Ludwig Byström,-,21,LD,Left,DAL,Entry-Level,18,,3,RFA,2017,"$775,000","$863,333","$832,500","$832,500",$0,$0
+Brandon Halverson,-,20,G,Left,NYR,Entry-Level,19,,3,UFANo QO,2019,"$772,500","$894,167","$742,500","$650,000","$92,500","$182,500"
+Anthony Duclair,TBL,20,"LW, RW",Left,NYR,Entry-Level,19,,3,RFA,2017,"$772,500","$894,167","$832,500","$832,500",$0,$0
+Dillon Heatherington,OTT,21,LD,Left,CBJ,Entry-Level,20,,3,RFA,2018,"$770,833","$925,000","$792,500","$700,000","$92,500","$132,500"
+Jérémy Lauzon,NSH,19,LD/RD,Left,BOS,Entry-Level,18,,3,RFA,2020,"$770,000","$894,167",$0,"-$92,500","$92,500",$0
+Jesse Gabrielle,-,19,LW,Left,BOS,Entry-Level,19,,3,RFA,2020,"$767,500","$925,000",$0,"-$92,500","$92,500",$0
+Daniel Renouf,BOS,22,LD,Left,DET,Entry-Level,22,,2,UFANo QO,2018,"$767,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Dean Kukan,-,22,LD/RD,Left,CBJ,Entry-Level,22,,2,RFA,2017,"$767,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Oliver Kylington,CGY,19,LD/RD,Left,CGY,Entry-Level,18,,3,RFA,2020,"$761,667","$894,167",$0,"-$92,500","$92,500",$0
+Yakov Trenin,COL,19,"LW, C",Left,NSH,Entry-Level,18,,3,RFA,2020,"$761,667","$894,167",$0,"-$92,500","$92,500",$0
+Filip Chlapik,-,19,C,Left,OTT,Entry-Level,19,,3,RFA,2020,"$759,167","$925,000",$0,"-$92,500","$92,500",$0
+Nicolas Petan,NYR,21,"C, LW, RW",Left,WPG,Entry-Level,18,,3,RFA,2018,"$758,333","$863,333","$750,000","$750,000",$0,"$82,500"
+Cristoval Nieves,-,22,"C, LW",Left,NYR,Entry-Level,22,,2,RFA,2018,"$755,000","$925,000","$742,500","$650,000","$92,500","$182,500"
+Jordan Subban,-,21,RD,Right,VAN,Entry-Level,20,,3,UFANo QO,2018,"$755,000","$925,000","$742,500","$650,000","$92,500","$182,500"
+Chris Driedger,SEA,22,G,Left,OTT,Entry-Level,20,,3,RFA,2017,"$755,000","$800,000","$780,000","$700,000","$80,000","$20,000"
+Anthony Stolarz,FLA,22,G,Left,PHI,Entry-Level,19,,3,RFA,2017,"$753,333","$894,167","$725,000","$725,000",$0,"$107,500"
+Jacob Graves,-,21,RD,Right,CBJ,Entry-Level,21,,3,UFANo QO,2019,"$750,833","$925,000","$667,500","$575,000","$92,500","$257,500"
+Justin Scott,-,20,"RW, C",Left,CBJ,Entry-Level,21,,3,RFA,2019,"$750,833","$925,000","$667,500","$575,000","$92,500","$257,500"
+Carl Dahlström,-,21,LD,Left,CHI,Entry-Level,21,,3,RFA,2019,"$750,833","$925,000","$692,500","$600,000","$92,500","$232,500"
+Andreas Johnsson,-,21,"LW, RW",Left,TOR,Entry-Level,20,,3,RFA,2018,"$750,833","$925,000","$742,500","$650,000","$92,500","$182,500"
+Jhonas Enroth,-,28,G,Left,TOR,Standard (1-way),28,,1,UFA,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Connor Carrick,SEA,22,RD,Right,TOR,Standard (1-way),22,,2,RFA,2018,"$750,000","$750,000","$650,000","$650,000",$0,$0
+Keegan Lowe,-,23,LD,Left,CAR,Standard (2-way),23,,1,UFANo QO,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Jordin Tootoo,-,33,RW,Right,CHI,Standard (1-way),33,,1,UFA,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Ryan Dzingel,-,24,"LW, RW, C",Left,OTT,Standard (2-way),24,,1,RFA,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Klas Dahlbeck,-,24,LD,Left,ARI,Standard (1-way),24,,1,RFA,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Jonathan Marchessault,VGK,25,"RW, LW",Right,FLA,Standard (1-way),25,,2,UFA,2018,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Buddy Robinson,-,24,RW,Right,OTT,Standard (2-way),24,,1,UFAGroup 6,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Sam Brittain,-,24,G,Left,FLA,Standard (2-way),24,,1,UFAGroup 6,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Mark Barberio,-,26,LD,Left,MTL,Standard (1-way),26,,2,UFA,2018,"$750,000","$750,000","$800,000","$800,000",$0,$0
+Mattias Backman,-,23,LD,Left,DAL,Standard (2-way),23,,1,UFANo QO,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Steven Fogarty,MIN,23,"C, RW",Right,NYR,Entry-Level,23,,2,RFA,2018,"$750,000","$750,000","$750,000","$675,000","$75,000",$0
+Viktor Svedberg,-,25,LD,Left,CHI,Standard (1-way),24,,2,UFA,2018,"$750,000","$750,000","$650,000","$650,000",$0,$0
+Laurent Brossoit,WPG,23,G,Left,EDM,Standard (1-way),23,,2,UFAGroup 6,2018,"$750,000","$750,000","$650,000","$650,000",$0,$0
+Alex Biega,-,28,RD,Right,VAN,Standard (1-way),27,,2,UFA,2018,"$750,000","$750,000","$700,000","$700,000",$0,$0
+Brett Gallant,-,27,LW,Left,CBJ,Standard (2-way),26,,2,UFA,2017,"$750,000","$750,000","$750,000","$750,000",$0,$0
+Philipp Grubauer,SEA,24,G,Left,WSH,Standard (1-way),23,,2,RFA,2017,"$750,000","$750,000","$850,000","$850,000",$0,$0
+Cody Goloubef,-,26,RD,Right,CBJ,Standard (1-way),25,,2,UFA,2017,"$750,000","$750,000","$800,000","$800,000",$0,$0
+Niklas Hansson,-,21,RD,Right,DAL,Entry-Level,21,,3,RFA,2019,"$745,833","$925,000","$667,500","$575,000","$92,500","$257,500"
+Esa Lindell,DAL,22,LD,Left,DAL,Entry-Level,20,,3,RFA,2017,"$745,833","$925,000","$802,500","$710,000","$92,500","$122,500"
+Julius Nattinen,-,19,C,Left,ANA,Entry-Level,18,,3,RFA,2020,"$745,000","$894,167",$0,"-$92,500","$92,500",$0
+Roland McKeown,NSH,20,RD,Right,CAR,Entry-Level,19,,3,RFA,2019,"$745,000","$894,167","$717,500","$625,000","$92,500","$207,500"
+Laurent Dauphin,-,21,C,Left,ARI,Entry-Level,19,,3,RFA,2018,"$745,000","$894,167","$767,500","$675,000","$92,500","$157,500"
+Mathieu Joseph,OTT,19,"LW, RW",Left,TBL,Entry-Level,19,,3,RFA,2020,"$742,500","$925,000",$0,"-$92,500","$92,500",$0
+Gabriel Gagné,-,19,RW,Right,OTT,Entry-Level,19,,3,UFANo QO,2019,"$742,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Thomas DiPauli,-,22,"C, LW",Left,PIT,Entry-Level,22,,2,RFA,2018,"$742,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+John Gilmour,-,23,D,Left,NYR,Entry-Level,23,,2,RFA,2018,"$742,500","$925,000","$742,500","$650,000","$92,500","$182,500"
+Justin Holl,DET,24,RD,Right,TOR,Entry-Level,24,,1,RFA,2017,"$742,500","$925,000","$742,500","$650,000","$92,500","$182,500"
+Peter Cehlárik,-,20,"LW, RW",Left,BOS,Entry-Level,21,,3,RFA,2019,"$742,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Daniel Vladar,CGY,18,G,Left,BOS,Entry-Level,19,,3,RFA,2020,"$742,500","$925,000",$0,"-$92,500","$92,500",$0
+Malte Stromwall,-,21,RW,Right,NYR,Entry-Level,21,,2,RFA,2018,"$742,500","$925,000","$742,500","$650,000","$92,500","$182,500"
+Matthew Spencer,-,19,D,Right,TBL,Entry-Level,19,,3,UFANo QO,2020,"$742,500","$925,000",$0,"-$92,500","$92,500",$0
+Jaccob Slavin,CAR,22,LD,Left,CAR,Entry-Level,21,,3,RFA,2018,"$742,500","$925,000","$742,500","$742,500",$0,"$182,500"
+Joonas Korpisalo,OTT,22,G,Left,CBJ,Entry-Level,20,,3,RFA,2017,"$742,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Dylan Blujus,-,22,RD,Right,TBL,Entry-Level,20,,3,UFANo QO,2017,"$742,500","$925,000","$792,500","$700,000","$92,500","$132,500"
+Ivan Barbashev,VGK,20,"LW, RW",Left,STL,Entry-Level,18,,3,RFA,2019,"$741,667","$863,333","$742,500","$650,000","$92,500","$182,500"
+AJ Greer,CGY,19,"RW, LW",Left,COL,Entry-Level,19,,3,RFA,2019,"$741,666","$825,000","$725,000","$650,000","$75,000","$100,000"
+Calvin Thürkauf,CBJ,19,"C, LW",Left,CBJ,Entry-Level,19,,3,RFA,2020,"$738,333","$738,333",$0,"-$70,000","$70,000",$0
+Mike Blunden,-,29,RW,Right,OTT,Standard (2-way),29,,2,UFA,2018,"$737,500","$737,500","$725,000","$725,000",$0,$0
+Colton Hargrove,-,24,LW,Left,BOS,Entry-Level,23,,2,UFANo QO,2017,"$737,500","$775,000","$800,000","$725,000","$75,000",$0
+Nikita Soshnikov,-,22,RW,Left,TOR,Entry-Level,21,,3,RFA,2018,"$736,666","$925,000","$742,500","$650,000","$92,500","$182,500"
+Parker Wotherspoon,BOS,18,LD,Left,NYI,Entry-Level,18,,3,RFA,2020,"$735,833","$858,333",$0,"-$85,000","$85,000",$0
+Adam Musil,-,19,C,Right,STL,Entry-Level,19,,3,RFA,2020,"$735,833","$858,333",$0,"-$85,000","$85,000",$0
+Matt Nieto,PIT,23,"LW, RW",Left,SJS,Standard (1-way),23,,1,RFA,2017,"$735,000","$735,000","$735,000","$735,000",$0,$0
+Kyle Platzer,-,21,RW,Right,EDM,Entry-Level,20,,3,UFANo QO,2018,"$735,000","$850,000","$735,000","$650,000","$85,000","$115,000"
+Nathan Bastian,NJD,18,RW,Right,NJD,Entry-Level,18,,3,RFA,2021,"$734,167","$925,000",$0,"-$92,500","$92,500",$0
+Sergey Zborovskiy,-,19,RD,Right,NYR,Entry-Level,19,,3,RFA,2020,"$734,167","$925,000",$0,"-$92,500","$92,500",$0
+Jake Guentzel,CAR,21,"LW, RW",Left,PIT,Entry-Level,21,,3,RFA,2019,"$734,167","$925,000","$667,500","$575,000","$92,500","$257,500"
+Mattias Janmark,EDM,23,"LW, RW",Left,DAL,Entry-Level,22,,2,RFA,2017,"$733,750","$800,000","$792,500","$700,000","$92,500","$132,500"
+Maxime Lajoie,TOR,18,LD,Left,OTT,Entry-Level,18,,3,RFA,2021,"$730,000","$800,000",$0,"-$80,000","$80,000",$0
+Ethan Prow,-,23,RD,Right,PIT,Entry-Level,23,,2,RFA,2018,"$730,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Alex Lintuniemi,-,20,RD,Left,LAK,Entry-Level,20,,3,RFA,2018,"$729,167","$925,000","$717,500","$625,000","$92,500","$207,500"
+Vince Dunn,SEA,19,LD/RD,Left,STL,Entry-Level,18,,3,RFA,2020,"$728,333","$894,167",$0,"-$92,500","$92,500",$0
+Remi Elie,-,21,LW,Left,DAL,Entry-Level,19,,3,RFA,2018,"$728,333","$894,166","$767,500","$675,000","$92,500","$157,500"
+Spencer Martin,CAR,21,G,Left,COL,Entry-Level,19,,3,RFA,2018,"$728,333","$894,166","$742,500","$650,000","$92,500","$182,500"
+Daniel Altshuller,-,21,G,Left,CAR,Entry-Level,18,,3,UFANo QO,2017,"$728,333","$775,000","$725,000","$725,000",$0,$0
+Givani Smith,SJS,18,"LW, RW",Left,DET,Entry-Level,18,,3,RFA,2021,"$725,833","$925,000",$0,"-$92,500","$92,500",$0
+Filip Hronek,VAN,18,RD,Right,DET,Entry-Level,18,,3,RFA,2021,"$725,833","$925,000",$0,"-$92,500","$92,500",$0
+Samuel Montembeault,MTL,19,G,Left,FLA,Entry-Level,19,,3,10.2(c),2019,"$725,833","$925,000","$667,500","$575,000","$92,500","$257,500"
+Josh Jacobs,STL,20,RD,Right,NJD,Entry-Level,20,,3,RFA,2019,"$725,833","$925,000","$667,500","$575,000","$92,500","$257,500"
+Adin Hill,VGK,20,G,Left,ARI,Entry-Level,20,,3,RFA,2019,"$725,833","$925,000","$667,500","$575,000","$92,500","$257,500"
+Chandler Stephenson,VGK,22,"C, LW",Left,WSH,Entry-Level,20,,3,RFA,2017,"$725,833","$925,000","$842,500","$750,000","$92,500","$82,500"
+Nikita Nesterov,-,23,LD,Left,TBL,Standard (1-way),23,,1,UFANo QO,2017,"$725,000","$725,000","$725,000","$725,000",$0,$0
+Brian Ferlin,-,24,RW,Right,BOS,Standard (2-way),24,,1,UFAGroup 6,2017,"$725,000","$725,000","$725,000","$725,000",$0,$0
+Andrew Bodnarchuk,-,27,LD,Left,DAL,Standard (2-way),27,,2,UFA,2018,"$725,000","$725,000","$700,000","$700,000",$0,$0
+Daniel Carr,-,24,LW,Left,MTL,Standard (1-way),24,,2,UFANo QO,2018,"$725,000","$725,000","$725,000","$625,000","$100,000",$0
+Dante Salituro,-,19,C,Right,CBJ,Entry-Level,19,,3,UFANo QO,2019,"$725,000","$733,333","$625,000","$575,000","$50,000",$0
+Beau Bennett,-,24,"RW, LW",Right,NJD,Standard (1-way),24,,1,UFANo QO,2017,"$725,000","$725,000","$725,000","$725,000",$0,$0
+Iiro Pakarinen,-,24,RW,Right,EDM,Standard (1-way),24,,1,RFA,2017,"$725,000","$725,000","$725,000","$725,000",$0,$0
+Tyler Pitlick,NYR,24,RW,Right,EDM,Standard (2-way),24,,1,UFAGroup 6,2017,"$725,000","$725,000","$725,000","$725,000",$0,$0
+Stephen Johns,-,24,RD,Right,DAL,Standard (1-way),23,,2,RFA,2018,"$725,000","$725,000","$650,000","$650,000",$0,$0
+Christian Folin,-,25,RD,Right,MIN,Standard (1-way),24,,2,UFANo QO,2017,"$725,000","$725,000","$850,000","$850,000",$0,$0
+Keith Kinkaid,NJD,26,G,Left,NJD,Standard (1-way),25,,2,UFA,2017,"$725,000","$725,000","$750,000","$750,000",$0,$0
+Joseph Cramarossa,-,23,C,Left,ANA,Standard (2-way),23,,1,UFANo QO,2017,"$724,500","$724,500","$724,500","$724,500",$0,$0
+Ethan Bear,WSH,19,RD,Right,EDM,Entry-Level,19,,3,RFA,2020,"$721,667","$800,000",$0,"-$80,000","$80,000",$0
+Connor Hobbs,-,19,D,Right,WSH,Entry-Level,19,,3,UFANo QO,2020,"$721,667","$800,000",$0,"-$80,000","$80,000",$0
+Kole Sherwood,-,19,"RW, C",Right,CBJ,Entry-Level,18,,3,10.2(c),2020,"$721,667","$805,000",$0,"-$85,000","$85,000",$0
+Chase De Leo,ANA,20,"C, LW, RW",Left,WPG,Entry-Level,20,,3,RFA,2018,"$720,833","$875,000","$712,500","$625,000","$87,500","$162,500"
+Jonas Siegenthaler,NJD,19,LD,Left,WSH,Entry-Level,18,,3,RFA,2020,"$720,000","$894,167",$0,"-$92,500","$92,500",$0
+Thomas Vannelli,-,21,RD,Right,STL,Entry-Level,19,,3,UFANo QO,2018,"$720,000","$902,500","$717,500","$625,000","$92,500","$207,500"
+Scott Kosmachuk,-,22,RW,Right,WPG,Entry-Level,19,,3,UFANo QO,2017,"$720,000","$894,167","$725,000","$725,000",$0,"$107,500"
+Nicholas Baptiste,-,20,RW,Right,BUF,Entry-Level,19,,3,RFA,2018,"$718,333","$878,333","$740,000","$650,000","$90,000","$160,000"
+Brandon Gignac,MTL,18,C,Left,NJD,Entry-Level,18,,3,UFANo QO,2021,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Mitch Vande Sompel,-,19,LD,Left,NYI,Entry-Level,19,,3,10.2(c),2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Thomas Schemitsch,-,19,RD,Right,FLA,Entry-Level,19,,3,RFA,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Frédéric Allard,-,18,RD,Right,NSH,Entry-Level,18,,3,RFA,2021,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Graham Knott,-,19,LW,Left,CHI,Entry-Level,19,,3,UFANo QO,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Samuel Girard,COL,18,LD/RD,Left,NSH,Entry-Level,18,,3,RFA,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Blake Speers,-,19,C,Right,NJD,Entry-Level,19,,3,RFA,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Colton White,ANA,19,LD,Left,NJD,Entry-Level,19,,3,RFA,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Deven Sideroff,-,19,RW,Right,ANA,Entry-Level,19,,3,UFANo QO,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Dennis Yan,-,19,LW,Left,TBL,Entry-Level,19,,3,UFANo QO,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Anton Lindholm,-,21,LD,Left,COL,Entry-Level,21,,3,RFA,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Anthony Cirelli,TBL,18,"C, LW",Left,TBL,Entry-Level,19,,3,RFA,2020,"$717,500","$925,000",$0,"-$92,500","$92,500",$0
+Justin Kirkland,ARI,19,"LW, RW",Left,NSH,Entry-Level,19,,3,UFANo QO,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Luke Johnson,-,21,C,Right,CHI,Entry-Level,21,,3,UFANo QO,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Juho Lammikko,-,20,"C, LW",Left,FLA,Entry-Level,20,,3,RFA,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Adam Gilmour,-,22,"C, RW",Right,MIN,Entry-Level,22,,2,UFANo QO,2018,"$717,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Robin Norell,-,21,LD,Left,CHI,Entry-Level,21,,3,UFANo QO,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Kyle Wood,-,20,RD,Right,ARI,Entry-Level,20,,3,RFA,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Nick Seeler,PHI,23,LD/RD,Left,MIN,Entry-Level,23,,2,RFA,2018,"$717,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Tom Parisi,-,22,D,Left,MTL,Entry-Level,22,,2,UFANo QO,2018,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Eric Cornel,-,20,C,Right,BUF,Entry-Level,20,,3,UFANo QO,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Michael Amadio,VGK,20,"RW, LW",Right,LAK,Entry-Level,20,,3,RFA,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Alex Schoenborn,-,20,C,Right,SJS,Entry-Level,20,,3,UFANo QO,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Kevin Labanc,SJS,20,"RW, LW",Right,SJS,Entry-Level,20,,3,RFA,2019,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Markus Hännikäinen,-,23,LW,Left,CBJ,Entry-Level,22,,2,RFA,2017,"$717,500","$925,000","$742,500","$650,000","$92,500","$182,500"
+Vinnie Hinostroza,PIT,22,"RW, LW",Right,CHI,Entry-Level,21,,3,RFA,2018,"$717,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Reid Boucher,-,22,LW,Left,NJD,Standard (2-way),22,,1,RFA,2017,"$715,000","$715,000","$715,000","$715,000",$0,$0
+Xavier Ouellet,PIT,22,LD/RD,Left,DET,Standard (1-way),22,,1,RFA,2017,"$715,000","$715,000","$715,000","$680,000","$35,000",$0
+Gregory Chase,-,21,C,Right,EDM,Entry-Level,19,,3,UFANo QO,2018,"$715,000","$925,000","$742,500","$650,000","$92,500","$182,500"
+Julius Bergman,-,20,RD,Right,SJS,Entry-Level,18,,3,UFANo QO,2019,"$714,167","$863,333","$692,500","$600,000","$92,500","$232,500"
+Vitek Vanecek,SJS,20,G,Left,WSH,Entry-Level,18,,3,RFA,2019,"$714,167","$863,333","$692,500","$600,000","$92,500","$232,500"
+Zachary Fucale,-,21,G,Left,MTL,Entry-Level,18,,3,UFANo QO,2018,"$714,167","$863,333","$700,000","$700,000",$0,"$132,500"
+Gustav Bouramman,-,19,RD,Right,MIN,Entry-Level,19,,3,RFA,2020,"$713,333","$800,000",$0,"-$80,000","$80,000",$0
+Nelson Nogier,-,20,RD,Right,WPG,Entry-Level,20,,3,RFA,2019,"$713,333","$771,667","$650,000","$575,000","$75,000","$100,000"
+Chris VandeVelde,-,29,"C, LW",Left,PHI,Standard (1-way),28,,2,UFA,2017,"$712,500","$712,500","$725,000","$725,000",$0,$0
+Pierre-Édouard Bellemare,SEA,31,"C, LW",Left,PHI,Standard (1-way),29,,2,UFA,2017,"$712,500","$712,500","$725,000","$725,000",$0,$0
+Brett Pollock,-,20,C,Left,DAL,Entry-Level,19,,3,UFANo QO,2019,"$711,667","$894,167","$692,500","$600,000","$92,500","$232,500"
+Christian Djoos,-,21,LD,Left,WSH,Entry-Level,20,,3,RFA,2017,"$711,667","$793,333","$830,000","$750,000","$80,000",$0
+Chris Tierney,NJD,22,C,Left,SJS,Entry-Level,18,,3,RFA,2017,"$711,667","$894,167","$700,000","$700,000",$0,"$132,500"
+Colin Stevens,-,23,G,Left,FLA,Entry-Level,22,,2,UFANo QO,2017,"$710,000","$850,000","$735,000","$650,000","$85,000","$115,000"
+Dillon Fournier,-,22,LD,Left,CHI,Entry-Level,20,,3,10.2(c),2017,"$709,167","$925,000","$767,500","$675,000","$92,500","$157,500"
+Pheonix Copley,LAK,24,G,Left,STL,Standard (2-way),24,,1,UFAGroup 6,2017,"$708,750","$708,750","$708,750","$708,750",$0,$0
+Keegan Kolesar,VGK,19,RW,Right,CBJ,Entry-Level,18,,3,RFA,2020,"$708,333","$910,833",$0,"-$92,500","$92,500",$0
+Erik Cernak,TBL,19,RD,Right,LAK,Entry-Level,18,,3,RFA,2020,"$708,333","$900,833",$0,"-$92,500","$92,500",$0
+Martin Réway,-,21,"LW, C",Left,MTL,Entry-Level,21,,3,RFA,2019,"$706,666","$853,333","$667,500","$575,000","$92,500","$257,500"
+Spencer Watson,-,20,LW,Left,LAK,Entry-Level,20,,3,UFANo QO,2019,"$705,833","$808,333","$655,000","$575,000","$80,000","$145,000"
+Lukas Bengtsson,-,22,RD,Right,PIT,Entry-Level,22,,2,RFA,2018,"$705,000","$925,000","$667,500","$575,000","$92,500","$257,500"
+Nicolas Roy,VGK,19,"C, RW",Right,CAR,Entry-Level,19,,3,RFA,2020,"$705,000","$800,000",$0,"-$80,000","$80,000",$0
+Caleb Jones,COL,19,LD/RD,Left,EDM,Entry-Level,19,,3,RFA,2020,"$705,000","$800,000",$0,"-$80,000","$80,000",$0
+Sean Maguire,-,24,G,Left,PIT,Entry-Level,24,,2,UFANo QO,2018,"$705,000","$925,000","$667,500","$575,000","$92,500","$257,500"
+Kyle Schempp,-,22,C,Left,NYI,Entry-Level,22,,2,UFANo QO,2018,"$705,000","$925,000","$667,500","$575,000","$92,500","$257,500"
+Adam Carlson,-,22,G,Left,WSH,Entry-Level,22,,2,UFANo QO,2018,"$705,000","$925,000","$667,500","$575,000","$92,500","$257,500"
+Andrew Mangiapane,CGY,20,"RW, LW",Left,CGY,Entry-Level,20,,3,RFA,2019,"$705,000","$800,000","$655,000","$575,000","$80,000","$145,000"
+Teddy Blueger,VAN,21,"C, LW",Left,PIT,Entry-Level,22,,2,RFA,2018,"$705,000","$925,000","$667,500","$575,000","$92,500","$257,500"
+Adam Helewka,-,20,LW,Left,SJS,Entry-Level,21,,3,RFA,2019,"$705,000","$800,000","$655,000","$575,000","$80,000","$145,000"
+Travis Boyd,ARI,22,"C, RW",Right,WSH,Entry-Level,22,,2,RFA,2017,"$705,000","$925,000","$742,500","$650,000","$92,500","$182,500"
+Valentin Zykov,-,21,LW,Right,LAK,Entry-Level,19,,3,RFA,2018,"$705,000","$894,167","$727,500","$635,000","$92,500","$197,500"
+Chris Martenet,-,19,LD,Left,DAL,Entry-Level,19,,3,UFANo QO,2019,"$703,333","$721,667","$645,000","$575,000","$70,000","$55,000"
+Francis Perron,-,20,LW,Left,OTT,Entry-Level,20,,3,RFA,2019,"$703,333","$783,333","$650,000","$575,000","$75,000","$100,000"
+Mackenzie Blackwood,SJS,19,G,Left,NJD,Entry-Level,18,,3,RFA,2020,"$703,333","$919,167",$0,"-$92,500","$92,500",$0
+Guillaume Brisebois,VAN,18,LD,Left,VAN,Entry-Level,17,,3,RFA,2020,"$703,333","$894,167",$0,"-$92,500","$92,500",$0
+Brendan Guhle,-,18,LD,Left,BUF,Entry-Level,18,,3,RFA,2020,"$703,333","$894,167",$0,"-$92,500","$92,500",$0
+Brian Hart,-,22,RW,Right,TBL,Entry-Level,21,,3,RFA,2018,"$703,333","$703,333","$715,000","$650,000","$65,000",$0
+Madison Bowey,-,21,RD,Right,WSH,Entry-Level,19,,3,RFA,2018,"$703,333","$902,500","$692,500","$600,000","$92,500","$232,500"
+Oskar Sundqvist,STL,22,"RW, C",Right,PIT,Entry-Level,20,,3,RFA,2017,"$700,833","$925,000","$792,500","$700,000","$92,500","$132,500"
+Jack Skille,-,29,RW,Right,VAN,Standard (1-way),29,,1,UFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Michael Leighton,-,35,G,Left,CAR,35+ (2-way),35,,1,UFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Matthew Carle,-,31,LD,Left,NSH,Standard (1-way),31,,1,UFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Andrey Pedan,-,22,LD,Left,VAN,Standard (2-way),23,,1,RFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Korbinian Holzer,-,28,RD,Right,ANA,Standard (1-way),28,,1,UFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Landon Ferraro,-,24,"C, RW",Right,STL,Standard (2-way),24,,1,UFANo QO,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Fredrik Claesson,-,23,LD,Left,OTT,Standard (2-way),23,,1,RFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Linden Vey,-,24,"RW, C",Right,CGY,Standard (2-way),24,,1,RFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Luke Gazdic,-,26,LW,Left,NJD,Standard (2-way),26,,1,UFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Magnus Pääjärvi,-,25,"LW, RW",Left,STL,Standard (1-way),25,,1,RFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Conner Bleackley,-,20,C,Right,STL,Entry-Level,20,,3,UFANo QO,2019,"$700,000","$750,000","$650,000","$575,000","$75,000","$100,000"
+Jarred Tinordi,CHI,24,LD,Left,ARI,Standard (2-way),24,,1,UFAGroup 6,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Philip Varone,-,25,C,Left,OTT,Standard (2-way),25,,1,UFAGroup 6,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Greg McKegg,EDM,24,"C, LW",Left,FLA,Standard (2-way),24,,1,UFAGroup 6,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Michal Kempný,-,25,LD,Left,CHI,Entry-Level,25,,1,RFA,2017,"$700,000","$1,137,500","$700,000","$607,500","$92,500","$437,500"
+Cal O'Reilly,-,29,C,Left,BUF,Standard (1-way),28,,2,UFA,2017,"$700,000","$700,000","$700,000","$700,000",$0,$0
+Josh Wesley,-,20,D,Right,CAR,Entry-Level,20,,3,UFANo QO,2019,"$695,000","$713,333","$645,000","$575,000","$70,000","$55,000"
+Vaclav Karabacek,-,20,LW,Left,BUF,Entry-Level,20,,3,RFA,2019,"$695,000","$700,001","$640,556","$575,000","$65,556","$15,004"
+Clark Bishop,CGY,20,"C, LW",Left,CAR,Entry-Level,20,,3,RFA,2019,"$695,000","$713,333","$645,000","$575,000","$70,000","$55,000"
+Jack Dougherty,-,20,RD,Right,NSH,Entry-Level,19,,3,UFANo QO,2019,"$695,000","$902,500","$667,500","$575,000","$92,500","$257,500"
+Blake Siebenaler,-,20,RD,Right,CBJ,Entry-Level,19,,3,UFANo QO,2019,"$695,000","$910,833","$667,500","$575,000","$92,500","$257,500"
+Tobias Lindberg,-,20,LW,Left,OTT,Entry-Level,20,,3,RFA,2018,"$693,333","$850,000","$685,000","$600,000","$85,000","$165,000"
+Jan Kostalek,-,21,RD,Right,WPG,Entry-Level,20,,3,UFANo QO,2018,"$693,333","$850,000","$685,000","$600,000","$85,000","$165,000"
+Martin Lundberg,-,26,"LW, C, RW",Left,CHI,Entry-Level,26,,1,UFA,2017,"$692,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Daniel Sprong,DET,19,"RW, LW",Right,PIT,Entry-Level,18,,3,10.2(c),2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Michael Bunting,PIT,20,LW,Left,ARI,Entry-Level,20,,3,RFA,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Dominik Simon,-,21,"RW, LW",Left,PIT,Entry-Level,21,,3,RFA,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Hunter Smith,-,20,RW,Right,CGY,Entry-Level,19,,3,UFANo QO,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Riley Barber,-,22,RW,Right,WSH,Entry-Level,21,,3,RFA,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Juuse Saros,NSH,21,G,Left,NSH,Entry-Level,20,,3,RFA,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Dylan Labbé,-,21,LD,Left,MIN,Entry-Level,20,,3,UFANo QO,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Ryan Kujawinski,-,21,C,Left,NJD,Entry-Level,20,,3,UFANo QO,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Grayson Downing,-,24,C,Left,MIN,Entry-Level,23,,2,UFANo QO,2017,"$692,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Nick Moutrey,-,21,C,Left,CBJ,Entry-Level,20,,3,UFANo QO,2018,"$692,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Viktor Lööv,-,23,LD,Left,TOR,Entry-Level,21,,3,RFA,2017,"$692,500","$925,000","$742,500","$650,000","$92,500","$182,500"
+Jacob Moverare,LAK,17,LD,Left,LAK,Entry-Level,17,,3,RFA,2021,"$691,667","$691,667",$0,"-$60,000","$60,000",$0
+Nick Ebert,-,22,RD,Right,LAK,Entry-Level,20,,3,UFANo QO,2017,"$691,666","$785,833","$766,250","$700,000","$66,250",$0
+Denis Malgin,-,19,"LW, RW",Right,FLA,Entry-Level,19,,3,RFA,2019,"$690,000","$693,333","$640,000","$575,000","$65,000","$10,000"
+Jonne Tammela,-,18,"RW, LW",Left,TBL,Entry-Level,18,,3,RFA,2020,"$690,000","$690,000",$0,"-$63,888","$63,888",$0
+Ben Thomas,-,20,RD,Right,TBL,Entry-Level,20,,3,RFA,2019,"$690,000","$690,000","$638,888","$575,000","$63,888",$0
+Garnet Hathaway,PHI,24,"RW, LW",Right,CGY,Entry-Level,23,,2,RFA,2017,"$690,000","$775,000","$722,500","$650,000","$72,500","$2,500"
+William Carrier,VGK,21,LW,Left,STL,Entry-Level,18,,3,RFA,2018,"$689,167","$856,667","$650,000","$650,000",$0,"$160,000"
+Steve Michalek,-,22,G,Left,MIN,Entry-Level,22,,2,RFA,2017,"$687,500","$750,000","$725,000","$650,000","$75,000","$25,000"
+Chase Lang,-,19,"RW, C",Right,MIN,Entry-Level,19,,3,UFANo QO,2019,"$686,667","$686,667","$635,000","$575,000","$60,000",$0
+Andrew Nielsen,-,19,LD,Left,TOR,Entry-Level,18,,3,UFANo QO,2020,"$686,667","$910,833",$0,"-$92,500","$92,500",$0
+Luke Opilka,-,19,G,Left,STL,Entry-Level,18,,3,RFA,2020,"$686,667","$919,167",$0,"-$92,500","$92,500",$0
+Vili Saarijärvi,CHI,19,RD,Right,DET,Entry-Level,18,,3,RFA,2020,"$686,667","$919,167",$0,"-$92,500","$92,500",$0
+Axel Holmström,-,20,C,Left,DET,Entry-Level,19,,3,UFANo QO,2019,"$686,667","$894,167","$667,500","$575,000","$92,500","$257,500"
+Brayden Point,TBL,20,"C, RW",Right,TBL,Entry-Level,19,,3,RFA,2019,"$686,667","$919,167","$667,500","$575,000","$92,500","$257,500"
+Dominic Turgeon,-,20,C,Left,DET,Entry-Level,19,,3,RFA,2019,"$686,667","$919,167","$667,500","$575,000","$92,500","$257,500"
+Troy Donnay,-,22,RD,Right,NYR,Entry-Level,19,,3,UFANo QO,2017,"$686,667","$803,333","$700,000","$700,000",$0,"$20,000"
+Connor Brown,EDM,22,"RW, LW",Right,TOR,Entry-Level,19,,3,RFA,2017,"$686,667","$894,167","$650,000","$650,000",$0,"$182,500"
+Alexandre Fortin,-,19,"C, LW",Left,CHI,Entry-Level,19,,3,UFANo QO,2020,"$685,000","$685,000",$0,"-$60,000","$60,000",$0
+Brycen Martin,-,20,D,Left,BUF,Entry-Level,20,,3,UFANo QO,2019,"$685,000","$685,000","$635,000","$575,000","$60,000",$0
+Steven Hodges,-,22,C,Left,FLA,Entry-Level,20,,3,UFANo QO,2017,"$685,000","$850,000","$710,000","$625,000","$85,000","$140,000"
+Lucas Wallmark,-,20,C,Left,CAR,Entry-Level,20,,3,RFA,2018,"$683,333","$750,000","$675,000","$600,000","$75,000","$75,000"
+Ben Betker,-,21,LD,Left,EDM,Entry-Level,20,,3,UFANo QO,2018,"$683,333","$750,000","$675,000","$600,000","$75,000","$75,000"
+Sergei Boikov,-,20,LD,Left,COL,Entry-Level,20,,3,10.2(c),2019,"$681,667","$681,667","$635,000","$575,000","$60,000",$0
+Nicolas Aubé-Kubel,WSH,20,RW,Right,PHI,Entry-Level,18,,3,RFA,2019,"$680,833","$871,666","$667,500","$575,000","$92,500","$257,500"
+Conor Garland,VAN,20,"RW, LW",Right,ARI,Entry-Level,19,,3,RFA,2019,"$680,556","$822,223","$660,000","$575,000","$85,000","$190,000"
+Ondrej Vala,-,18,LD,Left,DAL,Entry-Level,18,,3,RFA,2021,"$680,000","$680,000",$0,"-$55,000","$55,000",$0
+Reece Willcox,-,22,RD,Right,PHI,Entry-Level,22,,2,RFA,2018,"$680,000","$696,250","$642,500","$575,000","$67,500","$32,500"
+Julien Nantel,-,19,"C, LW",Left,COL,Entry-Level,19,,3,UFANo QO,2019,"$680,000","$680,000","$630,000","$575,000","$55,000",$0
+Dmytro Timashov,-,19,LW,Left,TOR,Entry-Level,18,,3,RFA,2020,"$680,000","$821,667",$0,"-$85,000","$85,000",$0
+Cole Bardreau,-,22,C,Right,PHI,Entry-Level,22,,2,RFA,2017,"$680,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Robbie Russo,-,23,RD,Right,DET,Entry-Level,22,,2,RFA,2017,"$680,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Ryan Johnston,-,24,RD,Right,MTL,Entry-Level,23,,2,UFANo QO,2017,"$680,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Blake Coleman,CGY,24,"RW, LW",Left,NJD,Entry-Level,23,,2,RFA,2017,"$680,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Vojtech Mozik,-,23,RD,Right,NJD,Entry-Level,22,,2,RFA,2017,"$680,000","$925,000","$692,500","$600,000","$92,500","$232,500"
+Joakim Ryan,-,23,LD,Left,SJS,Entry-Level,22,,2,RFA,2017,"$680,000","$750,000","$700,000","$625,000","$75,000","$50,000"
+Joseph Labate,-,23,LW,Left,VAN,Entry-Level,22,,2,RFA,2017,"$680,000","$800,000","$680,000","$600,000","$80,000","$120,000"
+Danick Martel,-,21,LW,Left,PHI,Entry-Level,20,,3,RFA,2018,"$680,000","$800,000","$655,000","$575,000","$80,000","$145,000"
+MacKenzie Weegar,CGY,22,LD/RD,Right,FLA,Entry-Level,20,,3,RFA,2017,"$680,000","$800,000","$705,000","$625,000","$80,000","$95,000"
+Dysin Mayo,VGK,19,RD,Right,ARI,Entry-Level,19,,3,RFA,2019,"$678,333","$798,333","$655,000","$575,000","$80,000","$145,000"
+Pavel Jenys,-,20,C,Left,MIN,Entry-Level,19,,3,UFANo QO,2019,"$678,333","$790,000","$655,000","$575,000","$80,000","$145,000"
+Josh Anderson,MTL,22,"RW, LW",Right,CBJ,Entry-Level,19,,3,RFA,2017,"$678,333","$894,167","$700,000","$700,000",$0,"$132,500"
+Justin Selman,-,22,C,Left,STL,Entry-Level,22,,2,UFANo QO,2018,"$677,500","$682,500","$640,000","$575,000","$65,000","$10,000"
+Tyrell Goulbourne,-,22,LW,Left,PHI,Entry-Level,21,,3,RFA,2018,"$677,500","$773,333","$652,500","$575,500","$77,000","$117,500"
+Radel Fazleev,-,20,C,Left,PHI,Entry-Level,19,,3,RFA,2019,"$676,667","$749,167","$652,500","$575,000","$77,500","$167,500"
+Ben Smith,-,27,"RW, C",Right,COL,Standard (2-way),28,,1,UFA,2017,"$675,000","$675,000","$675,000","$675,000",$0,$0
+Michael Carcone,ARI,20,"LW, RW",Left,VAN,Entry-Level,20,,3,RFA,2019,"$675,000","$675,000","$625,000","$600,000","$25,000",$0
+Jean-François Bérubé,-,24,G,Left,NYI,Standard (1-way),24,,1,UFAGroup 6,2017,"$675,000","$675,000","$675,000","$675,000",$0,$0
+Mason Raymond,-,30,LW,Left,ANA,Standard (2-way),30,,1,UFA,2017,"$675,000","$675,000","$675,000","$675,000",$0,$0
+Matt Tennyson,-,26,RD,Right,CAR,Standard (2-way),26,,1,UFA,2017,"$675,000","$675,000","$675,000","$675,000",$0,$0
+Jamie Phillips,-,23,G,Left,WPG,Entry-Level,23,,2,UFANo QO,2018,"$675,000","$675,000","$637,500","$575,000","$62,500",$0
+Jeremy Smith,-,27,G,Left,COL,Standard (2-way),27,,1,UFA,2017,"$675,000","$675,000","$675,000","$675,000",$0,$0
+Joel Lowry,-,24,LW,Left,LAK,Entry-Level,23,,2,UFANo QO,2017,"$675,000","$925,000","$682,500","$590,000","$92,500","$242,500"
+Curtis McKenzie,-,25,LW,Left,DAL,Standard (1-way),24,,2,RFA,2017,"$675,000","$675,000","$700,000","$700,000",$0,$0
+Anthony Peluso,-,27,RW,Right,WPG,Standard (1-way),26,,2,UFA,2017,"$675,000","$675,000","$700,000","$700,000",$0,$0
+Ashton Sautner,WPG,22,LD,Left,VAN,Entry-Level,21,,3,RFA,2018,"$675,000","$678,333","$665,000","$600,000","$65,000",$0
+Mason Geertsen,VGK,21,"LW, LD",Left,COL,Entry-Level,20,,3,RFA,2018,"$675,000","$750,000","$650,000","$575,000","$75,000","$100,000"
+Trevor Carrick,ANA,21,LD,Left,CAR,Entry-Level,19,,3,RFA,2017,"$675,000","$733,333","$700,000","$700,000",$0,$0
+Brandon Baddock,-,21,"LW, C",Left,NJD,Entry-Level,21,,3,RFA,2019,"$673,333","$673,333","$620,000","$575,000","$45,000",$0
+Samuel Blais,STL,20,"LW, RW",Left,STL,Entry-Level,19,,3,RFA,2019,"$673,333","$725,833","$647,500","$575,000","$72,500","$77,500"
+Rourke Chartier,OTT,20,C,Left,SJS,Entry-Level,18,,3,UFANo QO,2019,"$672,500","$863,333","$667,500","$575,000","$92,500","$257,500"
+Ondrej Kase,-,20,RW,Right,ANA,Entry-Level,20,,3,RFA,2018,"$670,000","$706,667","$645,000","$575,000","$70,000","$55,000"
+Austin Carroll,-,22,RW,Right,CGY,Entry-Level,21,,3,UFANo QO,2018,"$670,000","$706,666","$645,000","$575,000","$70,000","$55,000"
+Justin Bailey,SJS,21,RW,Right,BUF,Entry-Level,19,,3,RFA,2018,"$670,000","$894,167","$692,500","$600,000","$92,500","$232,500"
+Nicholas Paul,TBL,21,"C, LW",Left,OTT,Entry-Level,19,,3,RFA,2018,"$670,000","$894,167","$692,500","$600,000","$92,500","$232,500"
+Anthony Richard,BOS,19,"LW, RW",Left,NSH,Entry-Level,18,,3,RFA,2020,"$668,333","$671,667",$0,"-$65,000","$65,000",$0
+Alexandre Carrier,NSH,19,RD,Right,NSH,Entry-Level,18,,3,RFA,2020,"$668,333","$671,667",$0,"-$65,000","$65,000",$0
+Daniel Audette,-,20,C,Left,MTL,Entry-Level,19,,3,UFANo QO,2019,"$668,333","$675,000","$640,000","$575,000","$65,000","$10,000"
+James Lodge,-,21,C,Right,WPG,Entry-Level,20,,3,UFANo QO,2018,"$668,333","$780,000","$655,000","$575,000","$80,000","$145,000"
+Patrick Bjorkstrand,-,24,"RW, LW",Left,LAK,Entry-Level,23,,1,UFANo QO,2017,"$667,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Nolan Valleau,-,23,LD,Left,CHI,Entry-Level,22,,2,UFANo QO,2017,"$667,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Kevin Gravel,NSH,24,LD,Left,LAK,Entry-Level,23,,2,RFA,2017,"$667,500","$667,500","$667,500","$575,000","$92,500",$0
+Conor Sheary,TBL,24,"LW, RW",Left,PIT,Entry-Level,23,,2,RFA,2017,"$667,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Tanner Kero,-,23,"C, LW",Left,CHI,Entry-Level,23,,2,RFA,2017,"$667,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Erik Gustafsson,NYR,24,LD,Left,CHI,Entry-Level,23,,2,RFA,2017,"$667,500","$925,000","$667,500","$575,000","$92,500","$257,500"
+Connor Hellebuyck,WPG,23,G,Left,WPG,Entry-Level,21,,3,RFA,2017,"$667,500","$925,000","$692,500","$600,000","$92,500","$232,500"
+Ross Johnston,ANA,22,LW,Left,NYI,Entry-Level,21,,3,RFA,2018,"$666,667","$666,667","$670,000","$650,000","$20,000",$0
+Daniel Zaar,-,22,RW,Right,CBJ,Entry-Level,20,,3,RFA,2017,"$666,667","$666,667","$700,000","$630,000","$70,000",$0
+Kurtis Gabriel,-,23,RW,Right,MIN,Entry-Level,21,,3,RFA,2017,"$666,667","$750,000","$725,000","$650,000","$75,000","$25,000"
+Mark MacMillan,-,24,RW,Left,MTL,Entry-Level,23,,2,UFANo QO,2017,"$665,000","$900,000","$665,000","$575,000","$90,000","$235,000"
+Tyler Lewington,-,21,RD,Right,WSH,Entry-Level,20,,3,RFA,2018,"$665,000","$665,000","$638,000","$575,000","$63,000",$0
+Colby Sissons,-,18,LD,Left,NJD,Entry-Level,18,,3,UFANo QO,2021,"$663,333","$663,333",$0,"-$35,000","$35,000",$0
+Tim McGauley,-,20,C,Left,WSH,Entry-Level,19,,3,UFANo QO,2018,"$663,333","$663,333","$655,000","$600,000","$55,000",$0
+Zachary Pochiro,-,22,LW,Right,STL,Entry-Level,20,,3,UFANo QO,2017,"$663,333","$800,000","$700,000","$625,000","$75,000","$50,000"
+Mackenzie Skapski,-,22,G,Left,NYR,Entry-Level,20,,3,UFANo QO,2017,"$663,333","$800,000","$705,000","$625,000","$80,000","$95,000"
+Blake Pietila,-,23,"C, RW",Left,NJD,Entry-Level,22,,2,RFA,2017,"$662,500","$750,000","$675,000","$600,000","$75,000","$75,000"
+Tyler Bertuzzi,TOR,21,"LW, RW",Left,DET,Entry-Level,19,,3,RFA,2018,"$661,667","$910,833","$667,500","$575,000","$92,500","$257,500"
+Philippe Desrosiers,-,20,G,Left,DAL,Entry-Level,19,,3,RFA,2018,"$661,667","$902,500","$667,500","$575,000","$92,500","$257,500"
+Erik Karlsson,-,21,LW,Left,CAR,Entry-Level,20,,3,RFA,2017,"$661,667","$671,667","$720,000","$650,000","$70,000",$0
+Calle Andersson,-,22,RD,Right,NYR,Entry-Level,20,,3,RFA,2017,"$661,666","$661,666","$665,000","$600,000","$65,000",$0
+Lane Pederson,EDM,18,C,Right,ARI,Entry-Level,19,,3,RFA,2020,"$660,000","$660,000",$0,"-$35,000","$35,000",$0
+Christopher Gibson,-,23,G,Left,NYI,Standard (2-way),23,,1,RFA,2017,"$660,000","$660,000","$660,000","$660,000",$0,$0
+Jonathan Racine,-,23,LD,Left,FLA,Standard (2-way),23,,1,UFANo QO,2017,"$660,000","$660,000","$660,000","$660,000",$0,$0
+Logan Shaw,-,23,"C, RW",Right,FLA,Standard (2-way),23,,1,RFA,2017,"$660,000","$660,000","$660,000","$660,000",$0,$0
+Zach Palmquist,-,25,LD,Left,MIN,Standard (2-way),25,,1,RFA,2017,"$660,000","$660,000","$660,000","$660,000",$0,$0
+Josh Archibald,-,23,"RW, LW",Right,PIT,Entry-Level,21,,3,RFA,2017,"$659,167","$925,000","$667,500","$575,000","$92,500","$257,500"
+Joshua Brown,ARI,22,RD,Right,FLA,Entry-Level,21,,3,RFA,2018,"$658,333","$658,333","$635,000","$575,000","$60,000",$0
+Cavan Fitzgerald,-,19,LD,Left,SJS,Entry-Level,18,,3,UFANo QO,2019,"$656,667","$656,667","$620,000","$575,000","$45,000",$0
+Ryan Graves,PIT,21,LD,Left,NYR,Entry-Level,19,,3,RFA,2018,"$656,667","$846,667","$660,000","$580,000","$80,000","$190,000"
+Brett Kulak,EDM,22,LD/RD,Left,CGY,Entry-Level,20,,3,RFA,2017,"$656,667","$816,667","$680,000","$600,000","$80,000","$120,000"
+Ryan Culkin,-,22,LD,Left,CGY,Entry-Level,20,,3,UFANo QO,2017,"$656,666","$816,666","$680,000","$600,000","$80,000","$120,000"
+Oliver Bjorkstrand,SEA,21,"RW, LW",Right,CBJ,Entry-Level,18,,3,RFA,2018,"$655,833","$871,667","$600,000","$600,000",$0,"$232,500"
+Jalen Smereck,-,19,D,Left,ARI,Entry-Level,19,,3,UFANo QO,2020,"$655,000","$655,000",$0,"-$30,000","$30,000",$0
+Macoy Erkamps,-,21,D,Right,OTT,Entry-Level,21,,3,UFANo QO,2019,"$655,000","$655,000","$605,000","$575,000","$30,000",$0
+Colby Cave,-,Deceased (25),C,Left,BOS,Entry-Level,20,,3,RFA,2018,"$655,000","$655,000","$655,000","$625,000","$30,000",$0
+MacKenze Stewart,-,20,"LD, LW",Left,VAN,Entry-Level,19,,3,UFANo QO,2018,"$655,000","$655,000","$630,000","$575,000","$55,000",$0
+Antoine Bibeau,-,22,G,Left,TOR,Entry-Level,20,,3,UFANo QO,2017,"$655,000","$800,000","$680,000","$600,000","$80,000","$120,000"
+Ben Harpur,NYR,21,LD,Left,OTT,Entry-Level,19,,3,RFA,2018,"$653,333","$773,333","$655,000","$575,000","$80,000","$145,000"
+Jean Dupuy,-,21,LW,Left,BUF,Entry-Level,19,,3,UFANo QO,2017,"$653,333","$783,333","$675,000","$600,000","$75,000","$75,000"
+Brett Lernout,-,20,RD,Right,MTL,Entry-Level,18,,3,UFANo QO,2019,"$653,333","$825,000","$660,000","$575,000","$85,000","$257,500"
+Brendan Leipsic,-,22,LW,Left,NSH,Entry-Level,19,,3,RFA,2017,"$653,333","$894,167","$625,000","$625,000",$0,"$207,500"
+Rene Bourque,-,34,LW,Left,COL,Standard (1-way),34,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+JC Lipon,-,22,RW,Right,WPG,Standard (2-way),22,,1,RFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Chris Casto,-,24,RD,Right,BOS,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Sam Gagner,EDM,26,"RW, C",Right,CBJ,Standard (1-way),26,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Brandon Gormley,-,24,LD,Left,NJD,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Jordan Schroeder,-,25,"C, RW",Right,MIN,Standard (2-way),25,,1,RFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Petr Straka,-,24,RW,Left,PHI,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Brendan Woods,-,24,LW,Left,CAR,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Dennis Robertson,-,25,LD,Left,CAR,Standard (2-way),25,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Ty Rattie,-,23,"RW, LW",Right,STL,Standard (1-way),23,,1,UFANo QO,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Dylan DeMelo,WPG,23,RD,Right,SJS,Standard (2-way),23,,2,UFANo QO,2018,"$650,000","$650,000","$600,000","$600,000",$0,$0
+Jordan Weal,-,24,"C, RW, LW",Right,PHI,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Derek Forbort,BOS,24,LD,Left,LAK,Standard (2-way),24,,2,RFA,2018,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Taylor Beck,-,25,LW,Right,EDM,Standard (2-way),25,,1,RFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Derek Grant,-,26,"LW, C",Left,BUF,Standard (2-way),26,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Alex Stalock,ANA,28,G,Left,MIN,Standard (2-way),28,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Victor Bartley,-,28,LD,Left,MIN,Standard (2-way),28,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Jamie McBain,-,28,RD,Right,ARI,Standard (2-way),28,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Quinton Howden,-,24,"C, LW",Left,WPG,Standard (2-way),24,,1,UFANo QO,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Justin Falk,-,27,LD,Left,BUF,Standard (1-way),27,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Andrew Miller,-,27,C,Right,CAR,Standard (2-way),27,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Zach Trotman,-,25,RD,Right,LAK,Standard (1-way),25,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Max McCormick,SEA,24,LW,Left,OTT,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Casey Nelson,-,23,RD,Right,BUF,Standard (2-way),23,,2,UFAGroup 6,2018,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Patrick Brown,BOS,24,"C, RW",Right,CAR,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Anton Forsberg,OTT,23,G,Left,CBJ,Standard (2-way),23,,1,RFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Connor Brickley,-,24,"C, LW, RW",Left,FLA,Standard (2-way),24,,1,UFAGroup 6,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Brian Lashoff,-,25,LD,Left,DET,Standard (2-way),25,,1,RFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Sven Andrighetto,-,23,"RW, LW",Left,MTL,Standard (1-way),23,,1,RFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Shane Harper,-,27,RW,Right,FLA,Standard (2-way),27,,1,UFA,2017,"$650,000","$650,000","$650,000","$650,000",$0,$0
+Eric Tangradi,-,27,LW,Left,DET,Standard (2-way),27,,2,UFA,2018,"$650,000","$650,000","$650,000","$600,000","$50,000",$0
+Braden Christoffer,-,21,LW,Left,EDM,Entry-Level,21,,3,RFA,2018,"$650,000","$650,000","$625,000","$575,000","$50,000",$0
+Daniel Walcott,-,22,LW,Left,TBL,Entry-Level,21,,3,RFA,2018,"$650,000","$650,000","$625,000","$575,000","$50,000",$0
+Oscar Lindberg,-,24,"LW, C",Left,NYR,Standard (1-way),23,,2,RFA,2017,"$650,000","$650,000","$700,000","$700,000",$0,$0
+Graham Black,-,23,C,Left,NJD,Entry-Level,21,,3,UFANo QO,2017,"$650,000","$750,000","$675,000","$600,000","$75,000","$75,000"
+Michael McNiven,-,18,G,Left,MTL,Entry-Level,17,,3,RFA,2020,"$648,333","$685,000",$0,"-$70,000","$70,000",$0
+Philippe Myers,TBL,19,RD,Right,PHI,Entry-Level,18,,3,RFA,2020,"$648,333","$648,333",$0,"-$35,000","$35,000",$0
+Joseph Blandisi,-,21,C,Left,NJD,Entry-Level,19,,3,10.2(c),2017,"$648,333","$788,333","$715,000","$625,000","$90,000","$185,000"
+Marek Langhamer,-,21,G,Left,ARI,Entry-Level,19,,3,10.2(c),2017,"$648,333","$733,333","$673,334","$600,001","$73,333","$60,000"
+Zach Nastasiuk,-,21,RW,Right,DET,Entry-Level,18,,3,UFANo QO,2018,"$647,500","$871,667","$625,000","$625,000",$0,"$207,500"
+Cole Ully,-,21,LW,Left,DAL,Entry-Level,19,,3,UFANo QO,2018,"$646,667","$725,000","$645,000","$575,000","$70,000","$55,000"
+Dalton Thrower,-,22,RD,Right,MTL,Entry-Level,20,,3,UFANo QO,2017,"$646,666","$800,000","$648,750","$575,000","$73,750","$88,750"
+Connor Crisp,-,22,LW,Left,MTL,Entry-Level,20,,3,UFANo QO,2017,"$646,666","$800,000","$655,000","$575,000","$80,000","$145,000"
+Justin Kea,-,22,C,Left,BUF,Entry-Level,20,,3,UFANo QO,2017,"$646,666","$800,000","$655,000","$575,000","$80,000","$145,000"
+Eric Comrie,BUF,20,G,Left,WPG,Entry-Level,18,,3,RFA,2018,"$645,000","$902,500","$575,000","$575,000",$0,"$257,500"
+Anton Cederholm,-,21,LD,Left,VAN,Entry-Level,19,,3,UFANo QO,2018,"$645,000","$678,333","$645,000","$575,000","$70,000","$10,000"
+Jesper Pettersson,-,21,RD,Right,PHI,Entry-Level,19,,3,UFANo QO,2017,"$645,000","$720,000","$660,000","$600,000","$60,000",$0
+Gemel Smith,-,22,C,Left,DAL,Entry-Level,20,,3,RFA,2017,"$645,000","$700,000","$670,000","$600,000","$70,000","$30,000"
+Dmitrii Sergeev,-,20,LD,Left,STL,Entry-Level,18,,3,RFA,2019,"$644,167","$644,167","$632,500","$575,000","$57,500",$0
+Markus Eisenschmid,-,21,C,Right,MTL,Entry-Level,21,,2,10.2(c),2018,"$642,500","$642,500","$605,000","$575,000","$30,000",$0
+Matt Luff,DET,19,RW,Right,LAK,Entry-Level,19,,3,RFA,2020,"$641,667","$641,667",$0,"-$20,000","$20,000",$0
+Nick Schneider,-,18,G,Right,CGY,Entry-Level,17,,3,UFANo QO,2020,"$641,667","$641,667",$0,"-$25,000","$25,000",$0
+Damir Sharipzyanov,-,20,LD,Left,LAK,Entry-Level,19,,3,RFA,2019,"$641,667","$641,667","$600,000","$575,000","$25,000",$0
+Cody Donaghey,-,20,LD,Left,TOR,Entry-Level,18,,3,UFANo QO,2019,"$641,667","$641,667","$625,000","$575,000","$50,000",$0
+Cameron Darcy,-,22,C,Right,TBL,Entry-Level,21,,3,RFA,2018,"$641,666","$641,666","$612,500","$575,000","$37,500",$0
+Nic Dowd,WSH,26,C,Right,LAK,Standard (2-way),26,,2,UFA,2018,"$640,000","$640,000","$630,000","$630,000",$0,$0
+Andreas Martinsen,-,26,C,Left,COL,Standard (1-way),26,,1,UFA,2017,"$640,000","$640,000","$640,000","$640,000",$0,$0
+Bryan Rust,PIT,24,"RW, LW",Right,PIT,Standard (1-way),23,,2,RFA,2018,"$640,000","$640,000","$620,000","$620,000",$0,$0
+Trevor Murphy,-,20,LD,Left,NSH,Entry-Level,20,,3,RFA,2018,"$640,000","$640,000","$615,000","$575,000","$40,000",$0
+Tyler Ganly,-,21,RD,Right,CAR,Entry-Level,20,,3,UFANo QO,2018,"$640,000","$640,000","$615,000","$575,000","$40,000",$0
+Eetu Laurikainen,-,24,G,Left,EDM,Entry-Level,23,,2,RFA,2017,"$640,000","$690,000","$652,500","$600,000","$52,500","$50,000"
+Justin Hache,-,22,LD,Left,ARI,Entry-Level,20,,3,RFA,2017,"$640,000","$695,000","$665,000","$600,000","$65,000","$30,000"
+Martin Frk,-,22,RW,Right,DET,Entry-Level,18,,3,RFA,2017,"$639,167","$863,333","$650,000","$650,000",$0,"$182,500"
+Matt Lorito,-,25,"LW, RW",Left,DET,Standard (2-way),25,,2,UFA,2018,"$637,500","$637,500","$625,000","$575,000","$50,000",$0
+Chris Wagner,COL,25,"RW, C",Right,ANA,Standard (1-way),24,,2,UFA,2018,"$637,500","$637,500","$625,000","$625,000",$0,$0
+Colin McDonald,-,31,RW,Right,PHI,Standard (2-way),31,,2,UFA,2018,"$637,500","$637,500","$625,000","$625,000",$0,$0
+Tim Bozon,-,22,LW,Left,MTL,Entry-Level,19,,3,10.2(c),2017,"$637,500","$819,167","$625,000","$625,000",$0,"$5,000"
+Hunter Warner,-,20,RD,Right,MIN,Entry-Level,18,,3,RFA,2019,"$636,667","$636,667","$610,000","$575,000","$35,000",$0
+Petteri Lindbohm,-,22,LD,Left,STL,Entry-Level,20,,3,RFA,2017,"$636,667","$700,000","$645,000","$575,000","$70,000","$55,000"
+Branden Troock,-,22,RW,Right,DAL,Entry-Level,20,,3,UFANo QO,2017,"$636,666","$700,000","$645,000","$575,000","$70,000","$55,000"
+Joe Hicketts,LAK,20,LD,Left,DET,Entry-Level,18,,3,RFA,2019,"$636,111","$636,111","$605,000","$575,000","$30,000",$0
+Vincent Dunn,-,20,C,Left,OTT,Entry-Level,18,,3,UFANo QO,2018,"$635,833","$635,833","$630,000","$575,000","$55,000",$0
+Jonas Gunnarsson,-,24,G,Left,NSH,Entry-Level,24,,1,UFANo QO,2017,"$635,000","$660,000","$635,000","$575,000","$60,000","$25,000"
+Ken Appleby,NYI,21,G,Left,NJD,Entry-Level,20,,3,UFANo QO,2018,"$635,000","$635,000","$610,000","$575,000","$35,000",$0
+Chase Balisy,-,24,C,Left,FLA,Entry-Level,23,,2,UFANo QO,2017,"$635,000","$635,000","$635,000","$575,000","$60,000",$0
+Nathan Walker,STL,22,LW,Left,WSH,Entry-Level,20,,3,RFA,2017,"$635,000","$683,333","$645,000","$575,000","$70,000","$55,000"
+Jeremy Grégoire,-,20,C,Right,MTL,Entry-Level,18,,3,UFANo QO,2018,"$633,333","$660,000","$625,000","$585,000","$40,000",$0
+Scott Harrington,-,23,LD,Left,CBJ,Standard (2-way),23,,1,RFA,2017,"$632,500","$632,500","$632,500","$632,500",$0,$0
+Tommy Hughes,-,24,RD,Right,NYR,Standard (2-way),24,,1,UFAGroup 6,2017,"$632,500","$632,500","$632,500","$632,500",$0,$0
+Stefan Fournier,-,24,RW,Right,ARI,Standard (2-way),24,,1,UFAGroup 6,2017,"$632,500","$632,500","$632,500","$632,500",$0,$0
+Michael Zalewski,-,23,"LW, C",Left,VAN,Standard (2-way),23,,1,UFANo QO,2017,"$632,500","$632,500","$632,500","$632,500",$0,$0
+Andrew O'Brien,-,23,LD,Left,ANA,Standard (2-way),23,,1,RFA,2017,"$632,500","$632,500","$632,500","$632,500",$0,$0
+Nikita Jevpalovs,-,21,LW,Right,SJS,Entry-Level,19,,3,UFANo QO,2017,"$632,500","$632,500","$660,000","$600,000","$60,000",$0
+Félix Girard,-,22,C,Right,NSH,Entry-Level,20,,3,RFA,2017,"$631,667","$711,667","$640,000","$575,000","$65,000","$80,000"
+Viktor Arvidsson,LAK,23,"RW, LW",Right,NSH,Entry-Level,21,,3,RFA,2017,"$631,667","$650,000","$640,000","$575,000","$65,000","$10,000"
+Troy Bourke,-,22,C,Left,COL,Entry-Level,20,,3,UFANo QO,2017,"$631,666","$683,333","$645,000","$575,000","$70,000","$55,000"
+Ryan Rupert,-,22,C,Left,TOR,Entry-Level,20,,3,UFANo QO,2017,"$631,666","$631,666","$660,000","$600,000","$60,000",$0
+Tristan Jarry,PIT,21,G,Left,PIT,Entry-Level,18,,3,RFA,2018,"$630,833","$905,000","$575,000","$575,000",$0,"$282,500"
+Keegan Kanzig,-,21,LD,Left,CGY,Entry-Level,18,,3,UFANo QO,2018,"$630,833","$863,333","$575,000","$575,000",$0,"$257,500"
+Cole Cassels,-,21,C,Right,VAN,Entry-Level,18,,3,UFANo QO,2018,"$630,833","$905,000","$575,000","$575,000",$0,"$282,500"
+Kyle Burroughs,SJS,20,LD/RD,Right,NYI,Entry-Level,20,,3,RFA,2018,"$630,000","$630,000","$605,000","$575,000","$30,000",$0
+Jonathan-Ismael Diaby,-,21,LD,Left,NSH,Entry-Level,18,,3,RFA,2018,"$629,166","$858,333","$575,000","$575,000",$0,"$237,500"
+Jake Paterson,-,22,G,Left,DET,Entry-Level,19,,3,UFANo QO,2017,"$628,333","$902,500","$575,000","$575,000",$0,"$257,500"
+Andreas Athanasiou,CHI,21,"LW, RW",Left,DET,Entry-Level,19,,3,RFA,2017,"$628,333","$902,500","$575,000","$575,000",$0,"$257,500"
+Luke Glendening,TBL,27,"C, RW, LW",Right,DET,Standard (1-way),24,,3,UFA,2017,"$628,333","$628,333","$675,000","$675,000",$0,$0
+Matt Murray,TOR,22,G,Left,PIT,Entry-Level,19,,3,RFA,2017,"$628,333","$902,500","$575,000","$575,000",$0,"$257,500"
+Dakota Mermis,MIN,22,LD/RD,Left,ARI,Entry-Level,21,,3,RFA,2018,"$626,667","$626,667","$595,000","$575,000","$20,000",$0
+Ben Thomson,-,23,LW,Left,NJD,Entry-Level,21,,3,RFA,2017,"$626,667","$626,667","$635,000","$575,000","$60,000",$0
+Barclay Goodrow,NYR,23,"C, LW",Left,SJS,Entry-Level,21,,3,RFA,2017,"$626,667","$626,667","$635,000","$575,000","$60,000",$0
+Kenton Helgesen,-,22,LW,Left,ANA,Entry-Level,20,,3,UFANo QO,2017,"$626,666","$626,666","$635,000","$575,000","$60,000",$0
+Brady Austin,-,23,LD,Left,BUF,Entry-Level,21,,3,UFANo QO,2017,"$626,666","$626,666","$635,000","$575,000","$60,000",$0
+Ryan Sproul,-,23,RD,Right,DET,Standard (2-way),23,,2,UFAGroup 6,2018,"$625,000","$625,000","$600,000","$600,000",$0,$0
+Tyler Wotherspoon,NJD,23,LD,Left,CGY,Standard (2-way),23,,1,RFA,2017,"$625,000","$625,000","$625,000","$625,000",$0,$0
+Scott Mayfield,NYI,23,RD,Right,NYI,Standard (1-way),23,,2,RFA,2018,"$625,000","$625,000","$575,000","$575,000",$0,$0
+T.J. Brennan,-,27,LD,Left,PHI,Standard (2-way),27,,2,UFA,2018,"$625,000","$625,000","$600,000","$600,000",$0,$0
+Julian Melchiori,-,24,LD,Left,WPG,Standard (2-way),24,,2,UFAGroup 6,2018,"$625,000","$625,000","$600,000","$600,000",$0,$0
+Kenny Agostino,-,24,LW,Left,STL,Standard (1-way),24,,1,UFAGroup 6,2017,"$625,000","$625,000","$625,000","$575,000","$50,000",$0
+Aaron Dell,LAK,27,G,Left,SJS,Standard (2-way),27,,2,UFA,2018,"$625,000","$625,000","$575,000","$575,000",$0,$0
+Micheal Haley,-,30,C,Left,SJS,Standard (2-way),30,,1,UFA,2017,"$625,000","$625,000","$625,000","$625,000",$0,$0
+Tyler Graovac,-,23,C,Left,MIN,Standard (2-way),23,,2,UFAGroup 6,2018,"$625,000","$625,000","$600,000","$600,000",$0,$0
+Corey Tropp,-,26,"RW, LW",Right,ANA,Standard (2-way),26,,2,UFA,2018,"$625,000","$625,000","$600,000","$600,000",$0,$0
+Mark Alt,-,24,RD,Right,PHI,Standard (2-way),24,,1,UFAGroup 6,2017,"$625,000","$625,000","$625,000","$625,000",$0,$0
+Brendan Ranford,-,24,LW,Left,DAL,Standard (2-way),24,,1,UFAGroup 6,2017,"$625,000","$625,000","$625,000","$625,000",$0,$0
+Justin Dowling,NJD,25,"C, LW",Left,DAL,Standard (2-way),25,,1,UFAGroup 6,2017,"$625,000","$625,000","$625,000","$625,000",$0,$0
+Seth Griffith,EDM,23,"RW, C",Right,BOS,Standard (2-way),23,,1,UFANo QO,2017,"$625,000","$625,000","$625,000","$625,000",$0,$0
+Scott Wilson,-,24,LW,Left,PIT,Standard (1-way),24,,2,UFANo QO,2018,"$625,000","$625,000","$590,000","$590,000",$0,$0
+Tom Kühnhackl,-,24,RW,Left,PIT,Standard (1-way),24,,2,UFANo QO,2018,"$625,000","$625,000","$590,000","$590,000",$0,$0
+Kyle Baun,-,24,RW,Right,CHI,Standard (1-way),24,,2,UFAGroup 6,2018,"$625,000","$625,000","$600,000","$600,000",$0,$0
+Colton Sissons,NSH,22,"C, RW",Right,NSH,Standard (2-way),22,,3,RFA,2019,"$625,000","$625,000","$575,000","$575,000",$0,$0
+Magnus Hellberg,FLA,25,G,Left,NYR,Standard (2-way),24,,2,UFAGroup 6,2017,"$625,000","$625,000","$650,000","$650,000",$0,$0
+Jaime Sifers,-,33,D,Right,CBJ,Standard (2-way),32,,2,UFA,2017,"$625,000","$625,000","$650,000","$650,000",$0,$0
+Nate Prosser,-,30,RD,Right,MIN,Standard (1-way),29,,2,UFA,2017,"$625,000","$625,000","$650,000","$650,000",$0,$0
+Charles Hudon,-,22,"C, LW, RW",Left,MTL,Entry-Level,19,,3,RFA,2017,"$625,000","$725,000","$575,000","$575,000",$0,"$100,000"
+Reid Petryk,-,23,"C, RW",Right,COL,Entry-Level,23,,2,UFANo QO,2018,"$622,500","$622,500","$595,000","$575,000","$20,000",$0
+Liam O'Brien,ARI,21,"LW, RW",Left,WSH,Entry-Level,20,,3,RFA,2017,"$621,667","$641,667","$630,000","$575,000","$55,000","$20,000"
+Sergey Tolchinsky,-,21,LW,Left,CAR,Entry-Level,18,,3,UFANo QO,2018,"$616,667","$616,667","$575,000","$575,000",$0,$0
+Zachary Leslie,-,22,LD,Left,LAK,Entry-Level,20,,3,10.2(c),2017,"$616,667","$616,667","$625,000","$575,000","$50,000",$0
+Max Görtz,-,23,RW,Right,NSH,Entry-Level,21,,3,RFA,2017,"$616,667","$616,667","$625,000","$575,000","$50,000",$0
+Jake Dotchin,-,22,RD,Right,TBL,Entry-Level,20,,3,RFA,2017,"$616,667","$616,667","$615,000","$575,000","$40,000",$0
+Ryan Olsen,-,22,C,Right,WPG,Entry-Level,19,,3,UFANo QO,2017,"$616,667","$701,667","$600,000","$600,000",$0,"$75,000"
+Axel Blomqvist,-,21,LW,Left,WPG,Entry-Level,18,,3,RFA,2018,"$616,666","$616,666","$575,000","$575,000",$0,$0
+Cody Corbett,-,22,LD,Left,COL,Entry-Level,20,,3,UFANo QO,2017,"$616,666","$616,666","$625,000","$575,000","$50,000",$0
+Justin Auger,-,22,RW,Right,LAK,Entry-Level,20,,3,RFA,2017,"$616,666","$616,666","$625,000","$575,000","$50,000",$0
+Henri Ikonen,-,22,LW,Left,TBL,Entry-Level,20,,3,UFANo QO,2017,"$616,666","$616,666","$615,000","$575,000","$40,000",$0
+Matia Marcantuoni,-,22,C,Right,PIT,Entry-Level,19,,3,RFA,2017,"$616,666","$733,333","$575,000","$575,000",$0,"$100,000"
+Loic Leduc,-,22,RD,Right,NYI,Entry-Level,20,,3,UFANo QO,2017,"$615,000","$615,000","$640,000","$600,000","$40,000",$0
+Zack Mitchell,-,23,RW,Right,MIN,Entry-Level,21,,3,RFA,2017,"$615,000","$615,000","$640,000","$600,000","$40,000",$0
+Chris DiDomenico,-,27,"C, RW",Right,OTT,Standard (2-way),28,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Jeff Glass,-,30,G,Left,CHI,Standard (2-way),31,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Matt Bartkowski,-,28,RD,Left,CGY,Standard (2-way),28,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Tom McCollum,-,26,G,Left,CGY,Standard (2-way),26,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Freddie Hamilton,-,24,"C, RW",Right,CGY,Standard (1-way),24,,2,UFANo QO,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Petter Granberg,-,23,RD,Right,NSH,Standard (2-way),23,,2,UFAGroup 6,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Josh Leivo,-,23,"RW, LW",Right,TOR,Standard (1-way),23,,2,RFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Jason Kasdorf,-,24,G,Left,BUF,Standard (2-way),24,,2,UFANo QO,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Alan Quine,-,23,C,Left,NYI,Standard (1-way),23,,2,UFANo QO,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Jack Campbell,EDM,24,G,Left,LAK,Standard (2-way),24,,2,RFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Jared Coreau,-,24,G,Left,DET,Standard (2-way),24,,2,UFAGroup 6,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Trevor Smith,-,31,C,Left,NSH,Standard (2-way),31,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Will O'Neill,-,28,LD,Left,PHI,Standard (1-way),28,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Trent Vogelhuber,-,27,"RW, LW",Right,COL,Standard (2-way),27,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Zach Redmond,-,27,RD,Right,MTL,Standard (1-way),27,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Zach Sill,-,28,C,Left,WSH,Standard (2-way),28,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Aaron Ness,-,26,LD,Left,WSH,Standard (2-way),26,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Cody Bass,-,29,C,Right,NSH,Standard (2-way),29,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Tomas Nosek,NJD,23,"LW, C",Left,DET,Standard (2-way),23,,2,RFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Carter Rowney,-,27,"C, RW",Right,PIT,Standard (2-way),27,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+John Ramage,-,25,RD,Right,CBJ,Standard (2-way),25,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Miikka Salomäki,-,23,"LW, RW",Left,NSH,Standard (1-way),22,,2,RFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Anthony Bitetto,-,25,LD,Left,NSH,Standard (1-way),25,,2,UFA,2018,"$612,500","$612,500","$575,000","$575,000",$0,$0
+Jordan Martinook,CAR,23,"LW, RW",Left,ARI,Standard (2-way),22,,2,RFA,2017,"$612,500","$612,500","$625,000","$625,000",$0,$0
+Stefan Matteau,-,22,LW,Left,NJD,Standard (1-way),21,,2,UFANo QO,2017,"$612,500","$612,500","$650,000","$650,000",$0,$0
+Steven Kampfer,ARI,27,RD,Right,FLA,Standard (1-way),26,,2,UFA,2017,"$612,500","$612,500","$625,000","$625,000",$0,$0
+Henri Kiviaho,-,22,G,Left,DAL,Entry-Level,20,,3,UFANo QO,2017,"$611,666","$611,666","$615,000","$575,000","$40,000",$0
+Alexander Gudbranson,-,21,RD,Right,MIN,Entry-Level,19,,3,UFANo QO,2017,"$610,000","$610,000","$635,000","$600,000","$35,000",$0
+Jaynen Rissling,-,22,LD,Left,NSH,Entry-Level,20,,3,UFANo QO,2017,"$606,666","$606,666","$615,000","$575,000","$40,000",$0
+Damon Severson,CBJ,21,RD,Right,NJD,Entry-Level,18,,3,RFA,2017,"$605,833","$888,333","$600,000","$600,000",$0,"$232,500"
+Marc Hagel,-,27,RW,Right,MIN,Standard (2-way),26,,2,UFA,2017,"$605,000","$605,000","$600,000","$600,000",$0,$0
+Jesse Graham,-,22,RD,Right,NYI,Entry-Level,20,,3,UFANo QO,2017,"$605,000","$605,000","$630,000","$600,000","$30,000",$0
+Drew Shore,-,25,C,Right,VAN,Standard (1-way),26,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Steve Bernier,-,31,RW,Right,NYI,Standard (2-way),31,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Justin Fontaine,-,28,RW,Right,NYR,Standard (2-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Jakub Nakladal,-,28,RD,Right,CAR,Standard (1-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+David Musil,-,23,LD,Left,EDM,Standard (2-way),23,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Marek Hrivík,-,24,"C, LW",Left,NYR,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+T.J. Tynan,LAK,24,C,Right,CBJ,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Alex Broadhurst,-,23,C,Left,CBJ,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Frank Corrado,-,23,RD,Right,TOR,Standard (1-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Stefan Noesen,CAR,23,"LW, RW",Right,ANA,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Mitch Callahan,-,24,RW,Right,DET,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Alexandre Grenier,-,24,RW,Right,VAN,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$575,000","$25,000",$0
+Jordan Binnington,STL,22,G,Left,STL,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Reece Scarlett,-,23,RD,Right,NJD,Standard (2-way),23,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Andrew Crescenzi,-,23,C,Left,LAK,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Josh Jooris,-,25,C,Right,NYR,Standard (2-way),25,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Mark McNeill,-,23,"C, RW",Right,CHI,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Ryan Carpenter,SJS,25,"RW, C",Right,SJS,Standard (2-way),25,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Brody Sutter,-,24,C,Right,CAR,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Brenden Kichton,-,24,RD,Right,WPG,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Mat Bodie,-,26,LD,Left,NYR,Standard (2-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Nicklas Jensen,-,23,RW,Left,NYR,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Alex Grant,-,27,RD,Right,BOS,Standard (2-way),27,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Nate Guenin,-,33,RD,Right,ANA,Standard (2-way),33,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Adam Cracknell,-,30,RW,Right,DAL,Standard (2-way),30,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Chris Terry,-,27,"LW, RW",Left,MTL,Standard (2-way),27,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Philip Samuelsson,-,24,LD,Left,MTL,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Brad Hunt,COL,27,LD/RD,Left,STL,Standard (2-way),27,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Chris Butler,-,29,RD,Left,STL,Standard (2-way),29,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Taylor Fedun,PIT,28,RD,Right,BUF,Standard (2-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Joe Whitney,-,28,LW,Left,COL,Standard (2-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Mike Sislo,-,28,RW,Right,COL,Standard (2-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Jim O'Brien,-,27,C,Right,COL,Standard (2-way),27,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Chris Mueller,-,30,C,Right,ARI,Standard (2-way),30,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Chad Billins,-,27,D,Left,VAN,Standard (2-way),27,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Jayson Megna,BOS,26,"C, LW, RW",Right,VAN,Standard (1-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Michael Chaput,-,24,C,Left,VAN,Standard (2-way),24,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Ben Street,-,29,C,Left,DET,Standard (2-way),29,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Tyler Randell,-,25,RW,Right,BOS,Standard (2-way),25,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Tim Schaller,-,25,LW,Left,BOS,Standard (2-way),25,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Tommy Cross,-,26,LD,Left,BOS,Standard (2-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Garret Ross,-,24,LW,Left,ARI,Standard (2-way),24,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Michael Paliotta,-,23,RD,Right,NYR,Standard (2-way),23,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Brian Strait,-,28,LD,Left,WPG,Standard (1-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Dustin Stevenson,-,26,LD,Left,DAL,Standard (2-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Justin Peters,-,29,G,Left,ARI,Standard (2-way),29,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Andy Miele,-,28,C,Left,PHI,Standard (1-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$575,000","$25,000",$0
+Michael Latta,-,25,C,Right,LAK,Standard (1-way),25,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Patrick Cannone,-,29,C,Right,MIN,Standard (2-way),29,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Chad Nehring,-,29,C,Right,OTT,Standard (2-way),29,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Andrew Agozzino,ANA,25,"C, LW",Left,STL,Standard (2-way),25,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Ryan Stanton,-,26,LD,Left,COL,Standard (2-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Adam Clendening,-,23,RD,Right,NYR,Standard (2-way),23,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Cole Schneider,-,25,"LW, RW",Left,BUF,Standard (2-way),25,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Zac Dalpe,FLA,26,C,Right,MIN,Standard (2-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Maxime Lagacé,-,23,G,Left,DAL,Standard (2-way),23,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Michal Rozsíval,-,37,RD,Right,CHI,35+ (1-way),37,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Dustin Tokarski,BUF,26,G,Left,ANA,Standard (2-way),26,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Joel Hanley,CGY,25,LD/RD,Left,MTL,Standard (2-way),25,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Michael Sgarbossa,WSH,23,C,Left,ANA,Standard (2-way),23,,1,UFANo QO,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Craig Cunningham,-,25,"LW, C",Right,ARI,Standard (2-way),25,,1,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Derek Ryan,EDM,29,"C, RW",Right,CAR,Standard (2-way),29,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Chris Summers,-,28,LD,Left,NYR,Standard (2-way),28,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Lukas Sedlak,-,23,"C, LW, RW",Left,CBJ,Standard (2-way),23,,1,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Peter Budaj,-,33,G,Left,LAK,Standard (2-way),33,,1,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Shawn Thornton,-,38,"LW, RW",Right,FLA,35+ (1-way),38,,1,UFA,2017,"$600,000","$772,000","$600,000","$600,000",$0,"$172,000"
+Nick Shore,-,23,C,Right,LAK,Standard (1-way),22,,2,RFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Mat Clark,-,25,RD,Right,COL,Standard (2-way),24,,2,UFAGroup 6,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Matt Hackett,-,26,G,Left,ANA,Standard (2-way),25,,2,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Brent Regner,-,27,RD,Right,FLA,Standard (2-way),26,,2,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Troy Grosenick,NSH,26,G,Left,SJS,Standard (1-way),25,,2,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Zack Stortini,-,30,RW,Right,OTT,Standard (2-way),29,,2,UFA,2017,"$600,000","$600,000","$600,000","$600,000",$0,$0
+Guillaume Gelinas,-,23,LD,Left,MIN,Entry-Level,21,,3,RFA,2017,"$596,666","$596,666","$605,000","$575,000","$30,000",$0
+Frédérick Gaudreau,MIN,23,"C, LW",Right,NSH,Entry-Level,23,,2,RFA,2017,"$595,000","$595,000","$595,000","$575,000","$20,000",$0
+Jean-Sébastien Dea,-,22,C,Right,PIT,Entry-Level,19,,3,RFA,2017,"$593,333","$593,333","$575,000","$575,000",$0,$0
+Nick Jensen,WSH,25,RD,Right,DET,Standard (2-way),24,,2,UFAGroup 6,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Andy Andreoff,-,25,"LW, C",Left,LAK,Standard (1-way),24,,2,RFA,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Seth Helgeson,-,25,LD,Left,NJD,Standard (1-way),24,,2,UFAGroup 6,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Max Friberg,-,23,LW,Right,ANA,Standard (2-way),22,,2,RFA,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Scott Wedgewood,DAL,23,G,Left,NJD,Standard (2-way),22,,2,RFA,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Garrett Mitchell,-,24,RW,Right,WSH,Standard (2-way),23,,2,UFAGroup 6,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Scott Darling,-,27,G,Left,CHI,Standard (1-way),26,,2,UFA,2017,"$587,500","$587,500","$600,000","$600,000",$0,$0
+Samuel Henley,-,23,C,Left,COL,Entry-Level,21,,3,UFANo QO,2017,"$586,666","$586,666","$590,000","$575,000","$15,000",$0
+Jordan Oesterle,CGY,24,LD/RD,Left,EDM,Standard (2-way),24,,1,UFAGroup 6,2017,"$585,000","$585,000","$585,000","$585,000",$0,$0
+Jake Chelios,-,25,D,Left,CAR,Standard (2-way),25,,1,RFA,2017,"$585,000","$585,000","$585,000","$575,000","$10,000",$0
+Evan McEneny,-,22,LD,Left,VAN,Entry-Level,18,,3,10.2(c),2017,"$585,000","$585,000","$575,000","$575,000",$0,$0
+Kurtis MacDermid,NJD,22,"LD/RD, LW",Left,LAK,Entry-Level,18,,3,10.2(c),2017,"$578,333","$578,333","$575,000","$575,000",$0,$0
+Marc-Andre Bergeron,-,35,D,Left,CBJ,Standard (2-way),36,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Ryan Carter,-,32,"C, LW",Left,MIN,Standard (2-way),33,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Connor Jones,-,25,"C, LW",Left,NYI,Standard (2-way),26,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Ryan Faragher,-,25,G,Left,ANA,Standard (2-way),25,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Stephen Gionta,-,32,"C, RW",Right,NYI,Standard (2-way),33,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Adam Pardy,-,32,LD,Left,NSH,Standard (2-way),32,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Devin Setoguchi,-,29,RW,Right,LAK,Standard (2-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Nicklas Grossmann,-,31,LD,Left,CGY,Standard (1-way),31,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Danny Kristo,-,26,RW,Right,STL,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Yanni Gourde,SEA,24,"C, LW, RW",Left,TBL,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Eric Boulton,-,39,LW,Left,NYI,35+ (2-way),39,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Bobby Farnham,-,27,RW,Left,MTL,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Erik Burgdoerfer,-,27,RD,Right,BUF,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Matej Stransky,-,22,RW,Right,DAL,Standard (2-way),23,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Garret Sparks,-,23,G,Left,TOR,Standard (2-way),23,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Daniel Catenacci,-,23,C,Left,BUF,Standard (2-way),23,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Cory Conacher,-,26,LW,Left,TBL,Standard (1-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Dan Kelly,-,27,LD,Left,SJS,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Mike Halmo,-,25,LW,Left,TBL,Standard (2-way),25,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Garrett Wilson,-,25,"RW, LW",Left,PIT,Standard (2-way),25,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Jeff Schultz,-,30,LD,Left,ANA,Standard (2-way),30,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Michael Liambas,-,27,LW,Left,NSH,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Kristers Gudlevskis,-,23,G,Left,TBL,Standard (2-way),23,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Brad Malone,EDM,27,"C, LW",Left,WSH,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Alex Friesen,-,25,C,Left,STL,Standard (2-way),25,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Wade Megan,-,25,C,Left,STL,Standard (2-way),25,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Jacob Doty,-,23,C,Right,STL,Standard (2-way),23,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Karl Stollery,-,28,LD,Left,NJD,Standard (2-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Morgan Ellis,-,24,RD,Right,STL,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Andrew MacWilliam,-,26,LD,Left,NJD,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Carter Camper,-,27,C,Right,NJD,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Borna Rendulic,-,24,RW,Right,VAN,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Edward Pasquale,-,25,G,Left,DET,Standard (2-way),25,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Spencer Abbott,-,28,LW,Right,CHI,Standard (2-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Mark Fraser,-,29,D,Left,EDM,Standard (2-way),29,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Harry Zolnierczyk,-,28,LW,Left,NSH,Standard (2-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Darren Dietz,-,22,RD,Right,WSH,Standard (2-way),22,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Joe Cannata,-,26,G,Left,WSH,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Pierre-Luc Letourneau-Leblond,-,31,RW,Left,TBL,Standard (2-way),31,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Jeremy Morin,-,25,"LW, RW",Right,TBL,Standard (2-way),25,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Christian Thomas,-,24,"LW, RW",Right,WSH,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Greg Carey,-,26,C,Left,PHI,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Gabriel Dumont,-,25,C,Right,TBL,Standard (2-way),25,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Matt Irwin,VAN,28,LD/RD,Left,NSH,Standard (2-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Yannick Weber,-,27,RD,Right,NSH,Standard (1-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Turner Elson,MIN,23,LW,Left,COL,Standard (2-way),23,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Chad Ruhwedel,NYR,26,RD,Right,PIT,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Cameron Gaunce,-,26,LD,Left,PIT,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+David Warsofsky,-,26,LD,Left,PIT,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Pierre-Cédric Labrie,-,29,LW,Left,CHI,Standard (2-way),29,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Sam Carrick,EDM,24,"C, RW",Right,CHI,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Michaël Bournival,-,24,LW,Left,TBL,Standard (2-way),24,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Stuart Percy,-,23,LD,Left,PIT,Standard (2-way),23,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Steve Oleksy,-,30,RD,Right,PIT,Standard (2-way),30,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Tom Sestito,-,28,LW,Left,PIT,Standard (2-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Brandon Mashinter,-,27,LW,Left,CHI,Standard (1-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Jordan Caron,-,25,RW,Left,STL,Standard (2-way),25,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Matt Taormina,-,29,LD,Left,TBL,Standard (2-way),29,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Tye McGinn,-,25,LW,Left,TBL,Standard (2-way),25,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Tim Erixon,-,25,LD,Left,PIT,Standard (2-way),25,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Paul Carey,-,27,C,Left,WSH,Standard (2-way),27,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Luke Witkowski,-,26,"RW, RD",Right,TBL,Standard (2-way),26,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Dennis Rasmussen,-,25,C,Left,CHI,Standard (1-way),25,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Kevin Porter,-,30,C,Left,PIT,Standard (2-way),30,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Mac Carruth,-,24,G,Left,CHI,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Marek Mazanec,-,24,G,Right,NSH,Standard (2-way),24,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Tom Nilsson,-,22,RD,Right,VAN,Standard (2-way),22,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Lars Johansson,-,28,G,Left,CHI,Standard (1-way),28,,1,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Tanner Richard,-,23,C,Left,TBL,Standard (2-way),23,,1,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Joel Vermin,-,24,RW,Left,TBL,Standard (2-way),24,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Adam Payerl,-,25,C,Right,NSH,Standard (2-way),25,,1,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Oleg Yevenko,-,25,LD,Left,CBJ,Standard (2-way),25,,1,UFANo QO,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Andrew Campbell,-,28,LD,Left,TOR,Standard (2-way),27,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Chris Brown,-,25,"RW, C",Right,WSH,Standard (2-way),24,,2,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Vincent LoVerde,-,27,RD,Right,LAK,Standard (2-way),26,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Reid McNeill,-,24,LD,Left,PIT,Standard (2-way),23,,2,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Chris Conner,-,32,RW,Left,PHI,Standard (2-way),31,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Byron Froese,VGK,25,C,Right,TOR,Standard (2-way),24,,2,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Mike McKenna,-,33,G,Right,FLA,Standard (2-way),32,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Richard Bachman,-,28,G,Left,VAN,Standard (1-way),27,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Chris Bourque,-,30,LW,Left,WSH,Standard (2-way),29,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Cameron Schilling,-,27,LD,Left,CHI,Standard (1-way),26,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Paul Thompson,-,27,RW,Right,NJD,Standard (2-way),26,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Stanislav Galiev,-,24,RW,Right,WSH,Standard (1-way),23,,2,UFAGroup 6,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Austin Watson,TBL,24,"RW, LW",Right,NSH,Standard (1-way),23,,2,RFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Mike Condon,-,26,G,Left,MTL,Standard (1-way),25,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
+Travis Morin,-,32,C,Left,DAL,Standard (2-way),31,,2,UFA,2017,"$575,000","$575,000","$575,000","$575,000",$0,$0
