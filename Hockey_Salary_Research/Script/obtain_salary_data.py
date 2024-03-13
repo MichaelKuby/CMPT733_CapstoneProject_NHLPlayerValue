@@ -1,5 +1,11 @@
+import time
 import requests
 from bs4 import BeautifulSoup
+
+
+def fetch_salary_url(season, page):
+    web_url = f'http://www.capfriendly.com/browse/active/{season}?stats-season=2024&display=signing-team,expiry-year,performance-bonus,signing-bonus,aav,length,base-salary,type,signing-age&hide=skater-stats,goalie-stats&pg={str(page)}'
+    return web_url
 
 
 def download_web_page(url_string, file_path, file_name):
@@ -8,19 +14,19 @@ def download_web_page(url_string, file_path, file_name):
         with open(file_path + '/' + file_name + '.html', 'w', encoding='utf-8') as file:
             file.write(response.text)
 
-            print("download successful")
+            print(f"download successful, url = {url_string}")
     else:
-        print("download failed")
+        print(f"download failed, url = {url_string}")
 
 
 def fetch_page_info(season, page):
-    web_url = f'https://www.capfriendly.com/browse/active?stats-season={str(season)}&display=signing-team,expiry-year,performance-bonus,signing-bonus,aav,length,base-salary,type,signing-age&hide=skater-stats,goalie-stats&pg={str(page)}'
+    web_url = fetch_salary_url(season, page)
 
     download_web_page(web_url, '../Data/Salary/html', f'season={str(season)},page={str(page)}')
 
 
 def fetch_page_max_count(season):
-    web_url = f'https://www.capfriendly.com/browse/active?stats-season={str(season)}&display=signing-team,expiry-year,performance-bonus,signing-bonus,aav,length,base-salary,type,signing-age&hide=skater-stats,goalie-stats&pg=1'
+    web_url = fetch_salary_url(season, 1)
 
     response = requests.get(web_url)
     if response.status_code == 200:
@@ -36,18 +42,22 @@ def fetch_page_max_count(season):
         return page_number
 
     else:
-        print("fetch_page_max_count failed")
+        print(f"fetch_page_max_count failed, url = {web_url}")
         return None
 
 
 def main():
     season_page_count_dict = {}
-    for season in range(2007, 2025):
+    for season in range(2008, 2025):
         max_page_count = fetch_page_max_count(season)
+        time.sleep(3.5)
         season_page_count_dict[season] = max_page_count
 
         for page_index in range(1, max_page_count + 1):
             fetch_page_info(season, page_index)
+            time.sleep(3.5)
+
+    print("finish")
 
 
 if __name__ == '__main__':

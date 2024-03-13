@@ -21,7 +21,7 @@ def load_local_html_file(season, page):
 
 
 def main():
-    for season in range(2007, 2025):
+    for season in range(2008, 2025):
         item_df_array = []
 
         for page in range(1, 40):
@@ -31,7 +31,7 @@ def main():
                 item_df_array.append(item_df)
 
             else:
-                break
+                continue
 
         combined_df = pd.concat(item_df_array, ignore_index=True)
         combined_df.to_csv(f'../Data/Salary/dataframe/season={str(season)}.csv', index=False, encoding='utf-8')
