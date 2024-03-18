@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 def fetch_salary_url(season, page):
-    web_url = f'http://www.capfriendly.com/browse/active/{season}?stats-season=2024&display=signing-team,expiry-year,performance-bonus,signing-bonus,aav,length,base-salary,type,signing-age&hide=skater-stats,goalie-stats&pg={str(page)}'
+    web_url = f'http://www.capfriendly.com/browse/active/{season}?stats-season=2024&display=signing-team,expiry-year,performance-bonus,signing-bonus,caphit-percent,aav,length,base-salary,type,signing-age&hide=skater-stats,goalie-stats&pg={str(page)}'
     return web_url
 
 
@@ -22,7 +22,7 @@ def download_web_page(url_string, file_path, file_name):
 def fetch_page_info(season, page):
     web_url = fetch_salary_url(season, page)
 
-    download_web_page(web_url, '../Data/Salary/html', f'season={str(season)},page={str(page)}')
+    download_web_page(web_url, '../../Data/Salary/html', f'season={str(season)},page={str(page)}')
 
 
 def fetch_page_max_count(season):
@@ -55,7 +55,7 @@ def main():
 
         for page_index in range(1, max_page_count + 1):
             fetch_page_info(season, page_index)
-            time.sleep(3.5)
+            time.sleep(1.5)
 
     print("finish")
 

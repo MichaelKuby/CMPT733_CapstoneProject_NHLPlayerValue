@@ -3,8 +3,16 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 
+def fetch_local_html_path(season, page):
+    return f'../../Data/Salary/html/season={str(season)},page={str(page)}.html'
+
+
+def fetch_local_csv_path(season):
+    return f'../../Data/Salary/dataframe/season={str(season)}.csv'
+
+
 def load_local_html_file(season, page):
-    file_path = f'../Data/Salary/html/season={str(season)},page={str(page)}.html'
+    file_path = fetch_local_html_path(season, page)
     with open(file_path, 'r', encoding='utf-8') as file:
         html_content = file.read()
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -25,7 +33,7 @@ def main():
         item_df_array = []
 
         for page in range(1, 40):
-            file_path = f'../Data/Salary/html/season={str(season)},page={str(page)}.html'
+            file_path = fetch_local_html_path(season, page)
             if os.path.exists(file_path):
                 item_df = load_local_html_file(season, page)
                 item_df_array.append(item_df)
@@ -34,7 +42,7 @@ def main():
                 continue
 
         combined_df = pd.concat(item_df_array, ignore_index=True)
-        combined_df.to_csv(f'../Data/Salary/dataframe/season={str(season)}.csv', index=False, encoding='utf-8')
+        combined_df.to_csv(fetch_local_csv_path(season), index=False, encoding='utf-8')
 
     print('finish')
 
