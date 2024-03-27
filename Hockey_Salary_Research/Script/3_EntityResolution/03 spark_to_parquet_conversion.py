@@ -23,9 +23,11 @@ def main():
     df2cols = set(dataframes[2].columns)
 
     intersection_df0_df1 = df0cols.intersection(df1cols)
+
     joined = dataframes[0].join(dataframes[1], on=list(intersection_df0_df1), how='inner')
 
     intersection_joined_df2 = set(joined.columns).intersection(df2cols)
+
     joined = joined.join(dataframes[2], on=list(intersection_joined_df2), how='inner')
 
     destination = directory + '/parquet'
