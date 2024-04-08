@@ -1,66 +1,102 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import hockeyData from '../data/playersData.json';
+import Box from '@mui/material/Box';
+import Table from '@mui/material/Table';
+import TableBody from '@mui/material/TableBody';
+import TableCell from '@mui/material/TableCell';
+import TableContainer from '@mui/material/TableContainer';
+import TableHead from '@mui/material/TableHead';
+import TableRow from '@mui/material/TableRow';
+import Paper from '@mui/material/Paper';
 
-const PlayerDetail = () => {
-//   const { playerName } = useParams(); // 获取路由参数
-    
-  const [playerInfo, setPlayerInfo] = useState(null);
-  const currentPath = window.location.pathname;
+// 假设你的JSON数据已经按照之前的格式导入
+import jsonData from '../data/player_all_salary.json';
 
-  // 提取最后一个斜杠后面的内容
-  const lastIndex = currentPath.lastIndexOf('/');
-  const playerName_unreplace = currentPath.substring(lastIndex + 1);
-
-//   const playerName = playerName_unreplace.replace(/%20/g, ' ');
-  const { playerName } = useParams();
-  console.log(playerName)
-
+function PlayerStats() {
+  const { playerName } = useParams(); // 从URL获取玩家名
+  const [playerData, setPlayerData] = useState([]);
 
   useEffect(() => {
-    // 在 hockeyData 中查找匹配的球员信息
-    const playerData = hockeyData.find(player => player.player == playerName);
-    console.log(playerData)
-    setPlayerInfo(playerData);
-  }, [playerName]); // 当 playerName 改变时重新执行
-  // 如果没有找到球员信息，显示加载中或找不到的消息
-  if (!playerInfo) return <div>Player not found or loading...</div>;
+    // 查找匹配的玩家数据
+    const data = jsonData.players.find(player => player.name === playerName);
+    if (data) {
+      setPlayerData(data.years);
+    }
+  }, [playerName]);
 
-  // 显示球员信息
-//   return (
-//     <div>
-//       <h2>{playerInfo.player}</h2>
-//       {/* 根据需要显示其他信息 */}
-//       <p>Team: {playerInfo.Team}</p>
-//     </div>
-//   );
-// };
-return (
-    <div>
-      {/* Display player details here */}
-      <h1>{playerInfo.player}</h1>
-      <table>
-        {/* Create table headers */}
-        <thead>
-          <tr>
-            <th>{playerInfo.player}</th>
-            <th>{playerInfo.player}</th>
-            {/* More headers based on the data */}
-          </tr>
-        </thead>
-        <tbody>
-          {/* Map through the playerData to create table rows */}
-          
-            <tr>
-              <td>{playerInfo.player}</td>
-              <td>{playerInfo.player}</td>
-              {/* More cells based on the data */}
-            </tr>
-          
-        </tbody>
-      </table>
-    </div>
+  return (
+    <Box sx={{ width: '100%' }}>
+      <h1>{playerName}</h1>
+      <Paper sx={{ width: '100%', overflow: 'hidden' }}>
+        <TableContainer sx={{ maxHeight: 440 }}>
+          <Table stickyHeader aria-label="sticky table">
+            <TableHead>
+              <TableRow>
+                <TableCell>Year</TableCell>
+                <TableCell align="right">GP</TableCell>
+                <TableCell align="right">POSITION</TableCell>
+                <TableCell align="right">TOI</TableCell>
+                <TableCell align="right">IPP</TableCell>
+                <TableCell align="right">PRED/ACTUAL</TableCell>
+                <TableCell align="right">GOALS</TableCell>
+                <TableCell align="right">SHOTS</TableCell>
+                <TableCell align="right">TAKEAWAYS</TableCell>
+                <TableCell align="right">HITS</TableCell>
+                {/* 添加更多的列头 */}
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {playerData.map((yearData) => (
+                <TableRow
+                  key={yearData.year}
+                  sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
+                >
+                  <TableCell component="th" scope="row">
+                    {yearData.year}
+                  </TableCell>
+                  <TableCell align="right">{yearData.stats.GP}</TableCell>
+                  <TableCell align="right">{yearData.stats.POSITION}</TableCell>
+                  <TableCell align="right">{yearData.stats.TOI}</TableCell>
+                  <TableCell align="right">{yearData.stats.IPP}</TableCell>
+                  <TableCell align="right">{yearData.stats.PERCENTAGE}</TableCell>
+                  <TableCell align="right">{yearData.stats.GOALS}</TableCell>
+                  <TableCell align="right">{yearData.stats.SHOTS}</TableCell>
+                  <TableCell align="right">{yearData.stats.TAKEAWAYS}</TableCell>
+                  <TableCell align="right">{yearData.stats.HITS}</TableCell>
+
+                  {/* <TableCell
+                      component="th"
+                      id={labelId}
+                      scope="row"
+                      padding="none"
+                    >
+                      {yearData.stats.name}
+                    </TableCell>
+                    <TableCell align="right">{yearData.stats.season}</TableCell>
+                    
+                    <TableCell align="right">{yearData.stats.POSITION}</TableCell>
+                    <TableCell align="right">{yearData.stats.GP}</TableCell>
+                    <TableCell align="right">{yearData.stats.TOI}</TableCell>
+                    <TableCell align="right">{yearData.stats.IPP}</TableCell>
+                   
+                    <TableCell align="right">{yearData.stats.PERCENTAGE}</TableCell>
+                    <TableCell align="right" style={{ fontSize: '32px' }}>
+                      {countryFlags[yearData.stats.countryCode] || '🇺🇳'}
+                    </TableCell>
+                    <TableCell align="right">{yearData.stats.GOALS}</TableCell>
+                    <TableCell align="right">{yearData.stats.SHOTS}</TableCell>
+                    <TableCell align="right">{yearData.stats.TAKEAWAYS}</TableCell>
+                    
+                    <TableCell align="right">{yearData.stats.HITS}</TableCell> */}
+                  {/* 渲染更多的列数据 */}
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </TableContainer>
+      </Paper>
+    </Box>
   );
-};
+}
 
-export default PlayerDetail;
+export default PlayerStats;

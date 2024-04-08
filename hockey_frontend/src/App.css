@@ -87,3 +87,21 @@
 .link-style:hover {
   color: blue; /* Changes the color to blue when hovered */
 }
+
+.scrollable-div {
+  display: flex; /* 使用Flexbox */
+  justify-content: space-between; /* 子元素之间平均分布空间 */
+  align-items: stretch; /* 子元素拉伸以匹配容器高度 */
+  height: 100%; /* 确定容器的高度，也可以是具体的值，如600px */
+}
+
+.scrollable-div > div {
+  flex: 1; /* 子元素平均分配空间 */
+  display: flex; /* 也让子元素使用Flexbox，以便内容正确填充 */
+  flex-direction: column; /* 垂直布局 */
+  overflow-y: auto; /* 允许内容超出时滚动 */
+}
+.left-component {
+  margin-top: 100px; /* 或者 `padding-bottom: 200px;` 根据实际布局调整 */
+}
+

@@ -45,7 +45,9 @@ const Search = () => {
             <>
               <ul className="results-list">
                 {filteredResults.teams.map((item, index) => (
-                  <li key={`team-${index}`}>{item.Team}</li>
+                  <li key={`team-${index}`}>
+                    <Link to={`/teams/${item.Team}`} className="link-style">{item.Team}</Link>
+                    </li>
                 ))}
               </ul>
               {filteredResults.players.length > 0 && <hr className="separator" />}
