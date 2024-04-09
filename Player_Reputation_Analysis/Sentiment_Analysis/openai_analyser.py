@@ -2,9 +2,6 @@ import os
 from openai import OpenAI
 
 client = OpenAI()
-# OpenAI.api_key = os.getenv('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')
-# os.environ['OPENAI_API_KEY'] = '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'
-# OpenAI.api_key = os.getenv('OPENAI_API_KEY')
 
 def sentiment_analysis(text, target):
     completion = client.chat.completions.create(
