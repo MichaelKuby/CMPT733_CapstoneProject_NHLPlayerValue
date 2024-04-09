@@ -1,0 +1,9078 @@
+[
+  {
+    "player": "adam burish",
+    "Team": "chi"
+  },
+  {
+    "player": "adam foote",
+    "Team": "cbj, col"
+  },
+  {
+    "player": "adam hall",
+    "Team": "pit"
+  },
+  {
+    "player": "ales hemsky",
+    "Team": "edm"
+  },
+  {
+    "player": "ales kotalik",
+    "Team": "buf"
+  },
+  {
+    "player": "alex goligoski",
+    "Team": "pit"
+  },
+  {
+    "player": "alex ovechkin",
+    "Team": "wsh"
+  },
+  {
+    "player": "alex tanguay",
+    "Team": "cgy"
+  },
+  {
+    "player": "alexander edler",
+    "Team": "van"
+  },
+  {
+    "player": "alexander radulov",
+    "Team": "nsh"
+  },
+  {
+    "player": "alexander semin",
+    "Team": "wsh"
+  },
+  {
+    "player": "alexander steen",
+    "Team": "tor"
+  },
+  {
+    "player": "alexei ponikarovsky",
+    "Team": "tor"
+  },
+  {
+    "player": "alexei zhitnik",
+    "Team": "atl"
+  },
+  {
+    "player": "andreas lilja",
+    "Team": "det"
+  },
+  {
+    "player": "andrei markov",
+    "Team": "mtl"
+  },
+  {
+    "player": "andrej meszaros",
+    "Team": "ott"
+  },
+  {
+    "player": "andrej sekera",
+    "Team": "buf"
+  },
+  {
+    "player": "andrew alberts",
+    "Team": "bos"
+  },
+  {
+    "player": "andrew cogliano",
+    "Team": "edm"
+  },
+  {
+    "player": "andrew ebbett",
+    "Team": "ana"
+  },
+  {
+    "player": "andrew ference",
+    "Team": "bos"
+  },
+  {
+    "player": "andrew ladd",
+    "Team": "car, chi"
+  },
+  {
+    "player": "andrew peters",
+    "Team": "buf"
+  },
+  {
+    "player": "andy greene",
+    "Team": "n.j"
+  },
+  {
+    "player": "andy hilbert",
+    "Team": "nyi"
+  },
+  {
+    "player": "andy mcdonald",
+    "Team": "ana, stl"
+  },
+  {
+    "player": "andy sutton",
+    "Team": "nyi"
+  },
+  {
+    "player": "antoine vermette",
+    "Team": "ott"
+  },
+  {
+    "player": "anton volchenkov",
+    "Team": "ott"
+  },
+  {
+    "player": "anze kopitar",
+    "Team": "l.a"
+  },
+  {
+    "player": "b.j. crombeen",
+    "Team": "dal"
+  },
+  {
+    "player": "barret jackman",
+    "Team": "stl"
+  },
+  {
+    "player": "ben eager",
+    "Team": "chi, phi"
+  },
+  {
+    "player": "benoit pouliot",
+    "Team": "min"
+  },
+  {
+    "player": "bill guerin",
+    "Team": "nyi"
+  },
+  {
+    "player": "blair jones",
+    "Team": "t.b"
+  },
+  {
+    "player": "blake comeau",
+    "Team": "nyi"
+  },
+  {
+    "player": "bobby ryan",
+    "Team": "ana"
+  },
+  {
+    "player": "boris valabik",
+    "Team": "atl"
+  },
+  {
+    "player": "boyd gordon",
+    "Team": "wsh"
+  },
+  {
+    "player": "brad boyes",
+    "Team": "stl"
+  },
+  {
+    "player": "brad lukowich",
+    "Team": "t.b"
+  },
+  {
+    "player": "brad richards",
+    "Team": "dal, t.b"
+  },
+  {
+    "player": "brad richardson",
+    "Team": "col"
+  },
+  {
+    "player": "brad stuart",
+    "Team": "det, l.a"
+  },
+  {
+    "player": "brandon dubinsky",
+    "Team": "nyr"
+  },
+  {
+    "player": "braydon coburn",
+    "Team": "phi"
+  },
+  {
+    "player": "brendan witt",
+    "Team": "nyi"
+  },
+  {
+    "player": "brenden morrow",
+    "Team": "dal"
+  },
+  {
+    "player": "brent burns",
+    "Team": "min"
+  },
+  {
+    "player": "brent seabrook",
+    "Team": "chi"
+  },
+  {
+    "player": "brett lebda",
+    "Team": "det"
+  },
+  {
+    "player": "brett mclean",
+    "Team": "fla"
+  },
+  {
+    "player": "brian boyle",
+    "Team": "l.a"
+  },
+  {
+    "player": "brian campbell",
+    "Team": "buf, s.j"
+  },
+  {
+    "player": "brian gionta",
+    "Team": "n.j"
+  },
+  {
+    "player": "brian lee",
+    "Team": "ott"
+  },
+  {
+    "player": "brian mcgrattan",
+    "Team": "ott"
+  },
+  {
+    "player": "brian pothier",
+    "Team": "wsh"
+  },
+  {
+    "player": "brian rafalski",
+    "Team": "det"
+  },
+  {
+    "player": "brooks laich",
+    "Team": "wsh"
+  },
+  {
+    "player": "brooks orpik",
+    "Team": "pit"
+  },
+  {
+    "player": "bryan allen",
+    "Team": "fla"
+  },
+  {
+    "player": "bryan bickell",
+    "Team": "chi"
+  },
+  {
+    "player": "bryan little",
+    "Team": "atl"
+  },
+  {
+    "player": "bryan mccabe",
+    "Team": "tor"
+  },
+  {
+    "player": "bryce salvador",
+    "Team": "n.j, stl"
+  },
+  {
+    "player": "cal clutterbuck",
+    "Team": "min"
+  },
+  {
+    "player": "cam barker",
+    "Team": "chi"
+  },
+  {
+    "player": "cam janssen",
+    "Team": "stl"
+  },
+  {
+    "player": "carlo colaiacovo",
+    "Team": "tor"
+  },
+  {
+    "player": "chris bourque",
+    "Team": "wsh"
+  },
+  {
+    "player": "chris campoli",
+    "Team": "nyi"
+  },
+  {
+    "player": "chris drury",
+    "Team": "nyr"
+  },
+  {
+    "player": "chris higgins",
+    "Team": "mtl"
+  },
+  {
+    "player": "chris kelly",
+    "Team": "ott"
+  },
+  {
+    "player": "chris kunitz",
+    "Team": "ana"
+  },
+  {
+    "player": "chris neil",
+    "Team": "ott"
+  },
+  {
+    "player": "chris phillips",
+    "Team": "ott"
+  },
+  {
+    "player": "chris pronger",
+    "Team": "ana"
+  },
+  {
+    "player": "chris thorburn",
+    "Team": "atl"
+  },
+  {
+    "player": "christian backman",
+    "Team": "nyr, stl"
+  },
+  {
+    "player": "christian ehrhoff",
+    "Team": "s.j"
+  },
+  {
+    "player": "christoph schubert",
+    "Team": "ott"
+  },
+  {
+    "player": "clarke macarthur",
+    "Team": "buf"
+  },
+  {
+    "player": "claude giroux",
+    "Team": "phi"
+  },
+  {
+    "player": "cody bass",
+    "Team": "ott"
+  },
+  {
+    "player": "colby armstrong",
+    "Team": "atl, pit"
+  },
+  {
+    "player": "colin fraser",
+    "Team": "chi"
+  },
+  {
+    "player": "colin white",
+    "Team": "n.j"
+  },
+  {
+    "player": "colton orr",
+    "Team": "nyr"
+  },
+  {
+    "player": "corey perry",
+    "Team": "ana"
+  },
+  {
+    "player": "craig conroy",
+    "Team": "cgy"
+  },
+  {
+    "player": "craig rivet",
+    "Team": "s.j"
+  },
+  {
+    "player": "curtis glencross",
+    "Team": "cbj, edm"
+  },
+  {
+    "player": "dainius zubrus",
+    "Team": "n.j"
+  },
+  {
+    "player": "dan boyle",
+    "Team": "t.b"
+  },
+  {
+    "player": "dan girardi",
+    "Team": "nyr"
+  },
+  {
+    "player": "dan hamhuis",
+    "Team": "nsh"
+  },
+  {
+    "player": "dane byers",
+    "Team": "nyr"
+  },
+  {
+    "player": "daniel alfredsson",
+    "Team": "ott"
+  },
+  {
+    "player": "daniel carcillo",
+    "Team": "phx"
+  },
+  {
+    "player": "daniel cleary",
+    "Team": "det"
+  },
+  {
+    "player": "daniel paille",
+    "Team": "buf"
+  },
+  {
+    "player": "daniel sedin",
+    "Team": "van"
+  },
+  {
+    "player": "daniel winnik",
+    "Team": "phx"
+  },
+  {
+    "player": "dany heatley",
+    "Team": "ott"
+  },
+  {
+    "player": "darcy tucker",
+    "Team": "tor"
+  },
+  {
+    "player": "darren helm",
+    "Team": "det"
+  },
+  {
+    "player": "darryl sydor",
+    "Team": "pit"
+  },
+  {
+    "player": "dave bolland",
+    "Team": "chi"
+  },
+  {
+    "player": "david backes",
+    "Team": "stl"
+  },
+  {
+    "player": "david booth",
+    "Team": "fla"
+  },
+  {
+    "player": "david clarkson",
+    "Team": "n.j"
+  },
+  {
+    "player": "david jones",
+    "Team": "col"
+  },
+  {
+    "player": "david krejci",
+    "Team": "bos"
+  },
+  {
+    "player": "david legwand",
+    "Team": "nsh"
+  },
+  {
+    "player": "david moss",
+    "Team": "cgy"
+  },
+  {
+    "player": "david perron",
+    "Team": "stl"
+  },
+  {
+    "player": "david steckel",
+    "Team": "wsh"
+  },
+  {
+    "player": "david tanabe",
+    "Team": "car"
+  },
+  {
+    "player": "dean mcammond",
+    "Team": "ott"
+  },
+  {
+    "player": "denis grebeshkov",
+    "Team": "edm"
+  },
+  {
+    "player": "dennis seidenberg",
+    "Team": "car"
+  },
+  {
+    "player": "dennis wideman",
+    "Team": "bos"
+  },
+  {
+    "player": "derek boogaard",
+    "Team": "min"
+  },
+  {
+    "player": "derek mackenzie",
+    "Team": "cbj"
+  },
+  {
+    "player": "derek morris",
+    "Team": "phx"
+  },
+  {
+    "player": "derek roy",
+    "Team": "buf"
+  },
+  {
+    "player": "derick brassard",
+    "Team": "cbj"
+  },
+  {
+    "player": "devin setoguchi",
+    "Team": "s.j"
+  },
+  {
+    "player": "dion phaneuf",
+    "Team": "cgy"
+  },
+  {
+    "player": "dominic moore",
+    "Team": "min, tor"
+  },
+  {
+    "player": "douglas murray",
+    "Team": "s.j"
+  },
+  {
+    "player": "drew miller",
+    "Team": "ana"
+  },
+  {
+    "player": "drew stafford",
+    "Team": "buf"
+  },
+  {
+    "player": "duncan keith",
+    "Team": "chi"
+  },
+  {
+    "player": "dustin boyd",
+    "Team": "cgy"
+  },
+  {
+    "player": "dustin brown",
+    "Team": "l.a"
+  },
+  {
+    "player": "dustin byfuglien",
+    "Team": "chi"
+  },
+  {
+    "player": "dustin penner",
+    "Team": "edm"
+  },
+  {
+    "player": "duvie westcott",
+    "Team": "cbj"
+  },
+  {
+    "player": "ed jovanovski",
+    "Team": "phx"
+  },
+  {
+    "player": "enver lisin",
+    "Team": "phx"
+  },
+  {
+    "player": "eric belanger",
+    "Team": "min"
+  },
+  {
+    "player": "eric boulton",
+    "Team": "atl"
+  },
+  {
+    "player": "eric brewer",
+    "Team": "stl"
+  },
+  {
+    "player": "eric fehr",
+    "Team": "wsh"
+  },
+  {
+    "player": "eric nystrom",
+    "Team": "cgy"
+  },
+  {
+    "player": "eric staal",
+    "Team": "car"
+  },
+  {
+    "player": "erik christensen",
+    "Team": "atl, pit"
+  },
+  {
+    "player": "erik cole",
+    "Team": "car"
+  },
+  {
+    "player": "erik johnson",
+    "Team": "stl"
+  },
+  {
+    "player": "evgeni malkin",
+    "Team": "pit"
+  },
+  {
+    "player": "fedor tyutin",
+    "Team": "nyr"
+  },
+  {
+    "player": "filip kuba",
+    "Team": "t.b"
+  },
+  {
+    "player": "francis bouillon",
+    "Team": "mtl"
+  },
+  {
+    "player": "francois beauchemin",
+    "Team": "ana"
+  },
+  {
+    "player": "frans nielsen",
+    "Team": "nyi"
+  },
+  {
+    "player": "frantisek kaberle",
+    "Team": "car"
+  },
+  {
+    "player": "freddy modin",
+    "Team": "cbj"
+  },
+  {
+    "player": "george parros",
+    "Team": "ana"
+  },
+  {
+    "player": "gilbert brule",
+    "Team": "cbj"
+  },
+  {
+    "player": "glen murray",
+    "Team": "bos"
+  },
+  {
+    "player": "greg de vries",
+    "Team": "nsh"
+  },
+  {
+    "player": "greg zanon",
+    "Team": "nsh"
+  },
+  {
+    "player": "gregory campbell",
+    "Team": "fla"
+  },
+  {
+    "player": "guillaume latendresse",
+    "Team": "mtl"
+  },
+  {
+    "player": "hal gill",
+    "Team": "pit, tor"
+  },
+  {
+    "player": "henrik sedin",
+    "Team": "van"
+  },
+  {
+    "player": "henrik zetterberg",
+    "Team": "det"
+  },
+  {
+    "player": "ian white",
+    "Team": "tor"
+  },
+  {
+    "player": "ilya kovalchuk",
+    "Team": "atl"
+  },
+  {
+    "player": "jack hillen",
+    "Team": "nyi"
+  },
+  {
+    "player": "jack johnson",
+    "Team": "l.a"
+  },
+  {
+    "player": "jack skille",
+    "Team": "chi"
+  },
+  {
+    "player": "jamal mayers",
+    "Team": "stl"
+  },
+  {
+    "player": "james sheppard",
+    "Team": "min"
+  },
+  {
+    "player": "james wisniewski",
+    "Team": "chi"
+  },
+  {
+    "player": "jamie langenbrunner",
+    "Team": "n.j"
+  },
+  {
+    "player": "jan hejda",
+    "Team": "cbj"
+  },
+  {
+    "player": "jannik hansen",
+    "Team": "van"
+  },
+  {
+    "player": "jared boll",
+    "Team": "cbj"
+  },
+  {
+    "player": "jarome iginla",
+    "Team": "cgy"
+  },
+  {
+    "player": "jaroslav spacek",
+    "Team": "buf"
+  },
+  {
+    "player": "jarret stoll",
+    "Team": "edm"
+  },
+  {
+    "player": "jason arnott",
+    "Team": "nsh"
+  },
+  {
+    "player": "jason blake",
+    "Team": "tor"
+  },
+  {
+    "player": "jason chimera",
+    "Team": "cbj"
+  },
+  {
+    "player": "jason pominville",
+    "Team": "buf"
+  },
+  {
+    "player": "jason smith",
+    "Team": "phi"
+  },
+  {
+    "player": "jason spezza",
+    "Team": "ott"
+  },
+  {
+    "player": "jason ward",
+    "Team": "t.b"
+  },
+  {
+    "player": "jason williams",
+    "Team": "chi"
+  },
+  {
+    "player": "jay bouwmeester",
+    "Team": "fla"
+  },
+  {
+    "player": "jay mcclement",
+    "Team": "stl"
+  },
+  {
+    "player": "jay mckee",
+    "Team": "stl"
+  },
+  {
+    "player": "jay pandolfo",
+    "Team": "n.j"
+  },
+  {
+    "player": "jeff carter",
+    "Team": "phi"
+  },
+  {
+    "player": "jeff halpern",
+    "Team": "dal, t.b"
+  },
+  {
+    "player": "jeff hamilton",
+    "Team": "car"
+  },
+  {
+    "player": "jeff schultz",
+    "Team": "wsh"
+  },
+  {
+    "player": "jeff tambellini",
+    "Team": "nyi"
+  },
+  {
+    "player": "jerred smithson",
+    "Team": "nsh"
+  },
+  {
+    "player": "jesse winchester",
+    "Team": "ott"
+  },
+  {
+    "player": "jim slater",
+    "Team": "atl"
+  },
+  {
+    "player": "jim vandermeer",
+    "Team": "cgy, chi, phi"
+  },
+  {
+    "player": "jiri hudler",
+    "Team": "det"
+  },
+  {
+    "player": "jiri tlusty",
+    "Team": "tor"
+  },
+  {
+    "player": "joakim lindstrom",
+    "Team": "cbj"
+  },
+  {
+    "player": "joe corvo",
+    "Team": "car, ott"
+  },
+  {
+    "player": "joe pavelski",
+    "Team": "s.j"
+  },
+  {
+    "player": "joe sakic",
+    "Team": "col"
+  },
+  {
+    "player": "joe thornton",
+    "Team": "s.j"
+  },
+  {
+    "player": "joffrey lupul",
+    "Team": "phi"
+  },
+  {
+    "player": "johan franzen",
+    "Team": "det"
+  },
+  {
+    "player": "john erskine",
+    "Team": "wsh"
+  },
+  {
+    "player": "john madden",
+    "Team": "n.j"
+  },
+  {
+    "player": "john-michael liles",
+    "Team": "col"
+  },
+  {
+    "player": "johnny oduya",
+    "Team": "n.j"
+  },
+  {
+    "player": "jonathan cheechoo",
+    "Team": "s.j"
+  },
+  {
+    "player": "jonathan toews",
+    "Team": "chi"
+  },
+  {
+    "player": "joni pitkanen",
+    "Team": "edm"
+  },
+  {
+    "player": "jordan staal",
+    "Team": "pit"
+  },
+  {
+    "player": "jordin tootoo",
+    "Team": "nsh"
+  },
+  {
+    "player": "jozef stumpel",
+    "Team": "fla"
+  },
+  {
+    "player": "jussi jokinen",
+    "Team": "dal, t.b"
+  },
+  {
+    "player": "justin abdelkader",
+    "Team": "det"
+  },
+  {
+    "player": "justin williams",
+    "Team": "car"
+  },
+  {
+    "player": "karlis skrastins",
+    "Team": "col, fla"
+  },
+  {
+    "player": "keith ballard",
+    "Team": "phx"
+  },
+  {
+    "player": "keith tkachuk",
+    "Team": "stl"
+  },
+  {
+    "player": "keith yandle",
+    "Team": "phx"
+  },
+  {
+    "player": "kent huskins",
+    "Team": "ana"
+  },
+  {
+    "player": "kevin bieksa",
+    "Team": "van"
+  },
+  {
+    "player": "kevin klein",
+    "Team": "nsh"
+  },
+  {
+    "player": "kimmo timonen",
+    "Team": "phi"
+  },
+  {
+    "player": "kris letang",
+    "Team": "pit"
+  },
+  {
+    "player": "kris russell",
+    "Team": "cbj"
+  },
+  {
+    "player": "kyle brodziak",
+    "Team": "edm"
+  },
+  {
+    "player": "kyle chipchura",
+    "Team": "mtl"
+  },
+  {
+    "player": "kyle okposo",
+    "Team": "nyi"
+  },
+  {
+    "player": "kyle quincey",
+    "Team": "det"
+  },
+  {
+    "player": "kyle turris",
+    "Team": "phx"
+  },
+  {
+    "player": "kyle wellwood",
+    "Team": "tor"
+  },
+  {
+    "player": "ladislav smid",
+    "Team": "edm"
+  },
+  {
+    "player": "lauri tukonen",
+    "Team": "l.a"
+  },
+  {
+    "player": "lawrence nycholat",
+    "Team": "ott"
+  },
+  {
+    "player": "lee stempniak",
+    "Team": "stl"
+  },
+  {
+    "player": "loui eriksson",
+    "Team": "dal"
+  },
+  {
+    "player": "lubomir visnovsky",
+    "Team": "l.a"
+  },
+  {
+    "player": "lukas krajicek",
+    "Team": "van"
+  },
+  {
+    "player": "manny malhotra",
+    "Team": "cbj"
+  },
+  {
+    "player": "marc methot",
+    "Team": "cbj"
+  },
+  {
+    "player": "marc savard",
+    "Team": "bos"
+  },
+  {
+    "player": "marc staal",
+    "Team": "nyr"
+  },
+  {
+    "player": "marc-andre bergeron",
+    "Team": "ana, nyi"
+  },
+  {
+    "player": "marc-andre gragnani",
+    "Team": "buf"
+  },
+  {
+    "player": "marcel goc",
+    "Team": "s.j"
+  },
+  {
+    "player": "marek svatos",
+    "Team": "col"
+  },
+  {
+    "player": "marek zidlicky",
+    "Team": "nsh"
+  },
+  {
+    "player": "mark fistric",
+    "Team": "dal"
+  },
+  {
+    "player": "mark parrish",
+    "Team": "min"
+  },
+  {
+    "player": "mark streit",
+    "Team": "mtl"
+  },
+  {
+    "player": "mark stuart",
+    "Team": "bos"
+  },
+  {
+    "player": "martin erat",
+    "Team": "nsh"
+  },
+  {
+    "player": "martin hanzal",
+    "Team": "phx"
+  },
+  {
+    "player": "martin havlat",
+    "Team": "chi"
+  },
+  {
+    "player": "martin skoula",
+    "Team": "min"
+  },
+  {
+    "player": "martin st. louis",
+    "Team": "t.b"
+  },
+  {
+    "player": "mason raymond",
+    "Team": "van"
+  },
+  {
+    "player": "mathieu schneider",
+    "Team": "ana"
+  },
+  {
+    "player": "mats sundin",
+    "Team": "tor"
+  },
+  {
+    "player": "matt bradley",
+    "Team": "wsh"
+  },
+  {
+    "player": "matt cooke",
+    "Team": "van, wsh"
+  },
+  {
+    "player": "matt cullen",
+    "Team": "car"
+  },
+  {
+    "player": "matt d'agostini",
+    "Team": "mtl"
+  },
+  {
+    "player": "matt greene",
+    "Team": "edm"
+  },
+  {
+    "player": "matt hunwick",
+    "Team": "bos"
+  },
+  {
+    "player": "matt niskanen",
+    "Team": "dal"
+  },
+  {
+    "player": "matt pettinger",
+    "Team": "van, wsh"
+  },
+  {
+    "player": "matt smaby",
+    "Team": "t.b"
+  },
+  {
+    "player": "matt stajan",
+    "Team": "tor"
+  },
+  {
+    "player": "matthew lombardi",
+    "Team": "cgy"
+  },
+  {
+    "player": "mattias ohlund",
+    "Team": "van"
+  },
+  {
+    "player": "maxim lapierre",
+    "Team": "mtl"
+  },
+  {
+    "player": "michael nylander",
+    "Team": "wsh"
+  },
+  {
+    "player": "michael ryder",
+    "Team": "mtl"
+  },
+  {
+    "player": "michal handzus",
+    "Team": "l.a"
+  },
+  {
+    "player": "michel ouellet",
+    "Team": "t.b"
+  },
+  {
+    "player": "mikael samuelsson",
+    "Team": "det"
+  },
+  {
+    "player": "mike blunden",
+    "Team": "chi"
+  },
+  {
+    "player": "mike brown",
+    "Team": "van"
+  },
+  {
+    "player": "mike cammalleri",
+    "Team": "l.a"
+  },
+  {
+    "player": "mike commodore",
+    "Team": "car, ott"
+  },
+  {
+    "player": "mike fisher",
+    "Team": "ott"
+  },
+  {
+    "player": "mike green",
+    "Team": "wsh"
+  },
+  {
+    "player": "mike komisarek",
+    "Team": "mtl"
+  },
+  {
+    "player": "mike lundin",
+    "Team": "t.b"
+  },
+  {
+    "player": "mike modano",
+    "Team": "dal"
+  },
+  {
+    "player": "mike ribeiro",
+    "Team": "dal"
+  },
+  {
+    "player": "mike richards",
+    "Team": "phi"
+  },
+  {
+    "player": "mike rupp",
+    "Team": "n.j"
+  },
+  {
+    "player": "mike van ryn",
+    "Team": "fla"
+  },
+  {
+    "player": "mike weaver",
+    "Team": "van"
+  },
+  {
+    "player": "mike weber",
+    "Team": "buf"
+  },
+  {
+    "player": "mikhail grabovski",
+    "Team": "mtl"
+  },
+  {
+    "player": "mikko koivu",
+    "Team": "min"
+  },
+  {
+    "player": "milan jurcina",
+    "Team": "wsh"
+  },
+  {
+    "player": "milan lucic",
+    "Team": "bos"
+  },
+  {
+    "player": "milan michalek",
+    "Team": "s.j"
+  },
+  {
+    "player": "nate guenin",
+    "Team": "phi"
+  },
+  {
+    "player": "nathan horton",
+    "Team": "fla"
+  },
+  {
+    "player": "nick boynton",
+    "Team": "phx"
+  },
+  {
+    "player": "nick foligno",
+    "Team": "ott"
+  },
+  {
+    "player": "nick schultz",
+    "Team": "min"
+  },
+  {
+    "player": "nick tarnasky",
+    "Team": "t.b"
+  },
+  {
+    "player": "nicklas grossmann",
+    "Team": "dal"
+  },
+  {
+    "player": "niclas bergfors",
+    "Team": "n.j"
+  },
+  {
+    "player": "niclas wallin",
+    "Team": "car"
+  },
+  {
+    "player": "niklas hjalmarsson",
+    "Team": "chi"
+  },
+  {
+    "player": "niklas kronwall",
+    "Team": "det"
+  },
+  {
+    "player": "noah welch",
+    "Team": "fla"
+  },
+  {
+    "player": "ole-kristian tollefsen",
+    "Team": "cbj"
+  },
+  {
+    "player": "olli jokinen",
+    "Team": "fla"
+  },
+  {
+    "player": "pascal dupuis",
+    "Team": "atl, pit"
+  },
+  {
+    "player": "patrice bergeron",
+    "Team": "bos"
+  },
+  {
+    "player": "patrick eaves",
+    "Team": "car, ott"
+  },
+  {
+    "player": "patrick kane",
+    "Team": "chi"
+  },
+  {
+    "player": "patrick marleau",
+    "Team": "s.j"
+  },
+  {
+    "player": "patrick sharp",
+    "Team": "chi"
+  },
+  {
+    "player": "patrik elias",
+    "Team": "n.j"
+  },
+  {
+    "player": "paul gaustad",
+    "Team": "buf"
+  },
+  {
+    "player": "paul kariya",
+    "Team": "stl"
+  },
+  {
+    "player": "paul martin",
+    "Team": "n.j"
+  },
+  {
+    "player": "paul ranger",
+    "Team": "t.b"
+  },
+  {
+    "player": "paul stastny",
+    "Team": "col"
+  },
+  {
+    "player": "pavel datsyuk",
+    "Team": "det"
+  },
+  {
+    "player": "pavel kubina",
+    "Team": "tor"
+  },
+  {
+    "player": "peter forsberg",
+    "Team": "col"
+  },
+  {
+    "player": "peter harrold",
+    "Team": "l.a"
+  },
+  {
+    "player": "peter mueller",
+    "Team": "phx"
+  },
+  {
+    "player": "peter schaefer",
+    "Team": "bos"
+  },
+  {
+    "player": "petr prucha",
+    "Team": "nyr"
+  },
+  {
+    "player": "phil kessel",
+    "Team": "bos"
+  },
+  {
+    "player": "r.j. umberger",
+    "Team": "phi"
+  },
+  {
+    "player": "radim vrbata",
+    "Team": "phx"
+  },
+  {
+    "player": "raffi torres",
+    "Team": "edm"
+  },
+  {
+    "player": "ray whitney",
+    "Team": "car"
+  },
+  {
+    "player": "rene bourque",
+    "Team": "chi"
+  },
+  {
+    "player": "rick nash",
+    "Team": "cbj"
+  },
+  {
+    "player": "rob schremp",
+    "Team": "edm"
+  },
+  {
+    "player": "rob scuderi",
+    "Team": "pit"
+  },
+  {
+    "player": "robert lang",
+    "Team": "chi"
+  },
+  {
+    "player": "robyn regehr",
+    "Team": "cgy"
+  },
+  {
+    "player": "rod brind'amour",
+    "Team": "car"
+  },
+  {
+    "player": "ron hainsey",
+    "Team": "cbj"
+  },
+  {
+    "player": "rostislav klesla",
+    "Team": "cbj"
+  },
+  {
+    "player": "ruslan salei",
+    "Team": "col, fla"
+  },
+  {
+    "player": "ryan callahan",
+    "Team": "nyr"
+  },
+  {
+    "player": "ryan carter",
+    "Team": "ana"
+  },
+  {
+    "player": "ryan craig",
+    "Team": "t.b"
+  },
+  {
+    "player": "ryan getzlaf",
+    "Team": "ana"
+  },
+  {
+    "player": "ryan hollweg",
+    "Team": "nyr"
+  },
+  {
+    "player": "ryan kesler",
+    "Team": "van"
+  },
+  {
+    "player": "ryan parent",
+    "Team": "phi"
+  },
+  {
+    "player": "ryan smyth",
+    "Team": "col"
+  },
+  {
+    "player": "ryan suter",
+    "Team": "nsh"
+  },
+  {
+    "player": "ryan whitney",
+    "Team": "pit"
+  },
+  {
+    "player": "ryane clowe",
+    "Team": "s.j"
+  },
+  {
+    "player": "sam gagner",
+    "Team": "edm"
+  },
+  {
+    "player": "sami lepisto",
+    "Team": "wsh"
+  },
+  {
+    "player": "sami salo",
+    "Team": "van"
+  },
+  {
+    "player": "samuel pahlsson",
+    "Team": "ana"
+  },
+  {
+    "player": "sandis ozolinsh",
+    "Team": "s.j"
+  },
+  {
+    "player": "scott gomez",
+    "Team": "nyr"
+  },
+  {
+    "player": "scott hannan",
+    "Team": "col"
+  },
+  {
+    "player": "scott hartnell",
+    "Team": "phi"
+  },
+  {
+    "player": "scott niedermayer",
+    "Team": "ana"
+  },
+  {
+    "player": "scott walker",
+    "Team": "car"
+  },
+  {
+    "player": "scottie upshall",
+    "Team": "phi"
+  },
+  {
+    "player": "sean bergenheim",
+    "Team": "nyi"
+  },
+  {
+    "player": "sergei fedorov",
+    "Team": "cbj, wsh"
+  },
+  {
+    "player": "sergei gonchar",
+    "Team": "pit"
+  },
+  {
+    "player": "sergei kostitsyn",
+    "Team": "mtl"
+  },
+  {
+    "player": "shane doan",
+    "Team": "phx"
+  },
+  {
+    "player": "shane hnidy",
+    "Team": "ana, bos"
+  },
+  {
+    "player": "shane o'brien",
+    "Team": "t.b"
+  },
+  {
+    "player": "shaone morrisonn",
+    "Team": "wsh"
+  },
+  {
+    "player": "shawn bates",
+    "Team": "nyi"
+  },
+  {
+    "player": "shawn horcoff",
+    "Team": "edm"
+  },
+  {
+    "player": "shawn matthias",
+    "Team": "fla"
+  },
+  {
+    "player": "shawn thornton",
+    "Team": "bos"
+  },
+  {
+    "player": "shea weber",
+    "Team": "nsh"
+  },
+  {
+    "player": "sheldon souray",
+    "Team": "edm"
+  },
+  {
+    "player": "sidney crosby",
+    "Team": "pit"
+  },
+  {
+    "player": "simon gagne",
+    "Team": "phi"
+  },
+  {
+    "player": "stephane robidas",
+    "Team": "dal"
+  },
+  {
+    "player": "stephane veilleux",
+    "Team": "min"
+  },
+  {
+    "player": "stephen weiss",
+    "Team": "fla"
+  },
+  {
+    "player": "steve begin",
+    "Team": "mtl"
+  },
+  {
+    "player": "steve bernier",
+    "Team": "buf, s.j"
+  },
+  {
+    "player": "steve downie",
+    "Team": "phi"
+  },
+  {
+    "player": "steve ott",
+    "Team": "dal"
+  },
+  {
+    "player": "t.j. hensick",
+    "Team": "col"
+  },
+  {
+    "player": "tanner glass",
+    "Team": "fla"
+  },
+  {
+    "player": "teddy purcell",
+    "Team": "l.a"
+  },
+  {
+    "player": "teemu selanne",
+    "Team": "ana"
+  },
+  {
+    "player": "thomas vanek",
+    "Team": "buf"
+  },
+  {
+    "player": "tim connolly",
+    "Team": "buf"
+  },
+  {
+    "player": "tim gleason",
+    "Team": "car"
+  },
+  {
+    "player": "todd bertuzzi",
+    "Team": "ana"
+  },
+  {
+    "player": "todd fedoruk",
+    "Team": "dal, min"
+  },
+  {
+    "player": "tom gilbert",
+    "Team": "edm"
+  },
+  {
+    "player": "tom kostopoulos",
+    "Team": "mtl"
+  },
+  {
+    "player": "tom preissing",
+    "Team": "l.a"
+  },
+  {
+    "player": "tom sestito",
+    "Team": "cbj"
+  },
+  {
+    "player": "tomas kaberle",
+    "Team": "tor"
+  },
+  {
+    "player": "tomas kopecky",
+    "Team": "det"
+  },
+  {
+    "player": "tomas plekanec",
+    "Team": "mtl"
+  },
+  {
+    "player": "toni lydman",
+    "Team": "buf"
+  },
+  {
+    "player": "torrey mitchell",
+    "Team": "s.j"
+  },
+  {
+    "player": "travis moen",
+    "Team": "ana"
+  },
+  {
+    "player": "travis zajac",
+    "Team": "n.j"
+  },
+  {
+    "player": "trevor daley",
+    "Team": "dal"
+  },
+  {
+    "player": "troy brouwer",
+    "Team": "chi"
+  },
+  {
+    "player": "tuomo ruutu",
+    "Team": "car, chi"
+  },
+  {
+    "player": "tyler kennedy",
+    "Team": "pit"
+  },
+  {
+    "player": "valtteri filppula",
+    "Team": "det"
+  },
+  {
+    "player": "vernon fiddler",
+    "Team": "nsh"
+  },
+  {
+    "player": "vincent lecavalier",
+    "Team": "t.b"
+  },
+  {
+    "player": "wade redden",
+    "Team": "ott"
+  },
+  {
+    "player": "wayne primeau",
+    "Team": "cgy"
+  },
+  {
+    "player": "willie mitchell",
+    "Team": "van"
+  },
+  {
+    "player": "wojtek wolski",
+    "Team": "col"
+  },
+  {
+    "player": "zach parise",
+    "Team": "n.j"
+  },
+  {
+    "player": "zack stortini",
+    "Team": "edm"
+  },
+  {
+    "player": "zbynek michalek",
+    "Team": "phx"
+  },
+  {
+    "player": "zdeno chara",
+    "Team": "bos"
+  },
+  {
+    "player": "aaron johnson",
+    "Team": "chi"
+  },
+  {
+    "player": "aaron rome",
+    "Team": "cbj"
+  },
+  {
+    "player": "aaron ward",
+    "Team": "bos"
+  },
+  {
+    "player": "alex pietrangelo",
+    "Team": "stl"
+  },
+  {
+    "player": "alexandre bolduc",
+    "Team": "van"
+  },
+  {
+    "player": "alexandre picard",
+    "Team": "ott"
+  },
+  {
+    "player": "alexei semenov",
+    "Team": "s.j"
+  },
+  {
+    "player": "andrei kostitsyn",
+    "Team": "mtl"
+  },
+  {
+    "player": "andrew gordon",
+    "Team": "wsh"
+  },
+  {
+    "player": "andrew murray",
+    "Team": "cbj"
+  },
+  {
+    "player": "anton babchuk",
+    "Team": "car"
+  },
+  {
+    "player": "antti miettinen",
+    "Team": "min"
+  },
+  {
+    "player": "artem anisimov",
+    "Team": "nyr"
+  },
+  {
+    "player": "ben lovejoy",
+    "Team": "pit"
+  },
+  {
+    "player": "ben maxwell",
+    "Team": "mtl"
+  },
+  {
+    "player": "blake wheeler",
+    "Team": "bos"
+  },
+  {
+    "player": "bobby holik",
+    "Team": "n.j"
+  },
+  {
+    "player": "brad winchester",
+    "Team": "stl"
+  },
+  {
+    "player": "brandon sutter",
+    "Team": "car"
+  },
+  {
+    "player": "brendan bell",
+    "Team": "ott"
+  },
+  {
+    "player": "brendan mikkelson",
+    "Team": "ana"
+  },
+  {
+    "player": "brendan shanahan",
+    "Team": "n.j"
+  },
+  {
+    "player": "brent sopel",
+    "Team": "chi"
+  },
+  {
+    "player": "brett carson",
+    "Team": "car"
+  },
+  {
+    "player": "brett sutter",
+    "Team": "cgy"
+  },
+  {
+    "player": "brian rolston",
+    "Team": "n.j"
+  },
+  {
+    "player": "brian sutherby",
+    "Team": "ana, dal"
+  },
+  {
+    "player": "bruno gervais",
+    "Team": "nyi"
+  },
+  {
+    "player": "byron bitz",
+    "Team": "bos"
+  },
+  {
+    "player": "cal o'reilly",
+    "Team": "nsh"
+  },
+  {
+    "player": "chad larose",
+    "Team": "car"
+  },
+  {
+    "player": "chris chelios",
+    "Team": "det"
+  },
+  {
+    "player": "chris gratton",
+    "Team": "cbj, t.b"
+  },
+  {
+    "player": "chris porter",
+    "Team": "stl"
+  },
+  {
+    "player": "chris stewart",
+    "Team": "col"
+  },
+  {
+    "player": "chuck kobasew",
+    "Team": "bos"
+  },
+  {
+    "player": "cody mccormick",
+    "Team": "col"
+  },
+  {
+    "player": "cody mcleod",
+    "Team": "col"
+  },
+  {
+    "player": "colton gillies",
+    "Team": "min"
+  },
+  {
+    "player": "corey potter",
+    "Team": "nyr"
+  },
+  {
+    "player": "cory stillman",
+    "Team": "fla"
+  },
+  {
+    "player": "craig weller",
+    "Team": "min"
+  },
+  {
+    "player": "dan fritsche",
+    "Team": "min, nyr"
+  },
+  {
+    "player": "darcy hordichuk",
+    "Team": "van"
+  },
+  {
+    "player": "darroll powe",
+    "Team": "phi"
+  },
+  {
+    "player": "david hale",
+    "Team": "phx"
+  },
+  {
+    "player": "david schlemko",
+    "Team": "phx"
+  },
+  {
+    "player": "davis drewiske",
+    "Team": "l.a"
+  },
+  {
+    "player": "denis gauthier",
+    "Team": "l.a"
+  },
+  {
+    "player": "derek joslin",
+    "Team": "s.j"
+  },
+  {
+    "player": "donald brashear",
+    "Team": "wsh"
+  },
+  {
+    "player": "doug janik",
+    "Team": "dal, mtl"
+  },
+  {
+    "player": "doug weight",
+    "Team": "nyi"
+  },
+  {
+    "player": "drew doughty",
+    "Team": "l.a"
+  },
+  {
+    "player": "dustin jeffrey",
+    "Team": "pit"
+  },
+  {
+    "player": "eric godard",
+    "Team": "pit"
+  },
+  {
+    "player": "fabian brunnstrom",
+    "Team": "dal"
+  },
+  {
+    "player": "fredrik sjostrom",
+    "Team": "nyr"
+  },
+  {
+    "player": "gary roberts",
+    "Team": "t.b"
+  },
+  {
+    "player": "georges laraque",
+    "Team": "mtl"
+  },
+  {
+    "player": "glen metropolit",
+    "Team": "mtl, phi"
+  },
+  {
+    "player": "ivan vishnevskiy",
+    "Team": "dal"
+  },
+  {
+    "player": "jaime sifers",
+    "Team": "tor"
+  },
+  {
+    "player": "jakub voracek",
+    "Team": "cbj"
+  },
+  {
+    "player": "james neal",
+    "Team": "dal"
+  },
+  {
+    "player": "jamie lundmark",
+    "Team": "cgy"
+  },
+  {
+    "player": "jamie mcginn",
+    "Team": "s.j"
+  },
+  {
+    "player": "jarkko ruutu",
+    "Team": "ott"
+  },
+  {
+    "player": "jason garrison",
+    "Team": "fla"
+  },
+  {
+    "player": "jassen cullimore",
+    "Team": "fla"
+  },
+  {
+    "player": "jay beagle",
+    "Team": "wsh"
+  },
+  {
+    "player": "jean-francois jacques",
+    "Team": "edm"
+  },
+  {
+    "player": "jeff woywitka",
+    "Team": "stl"
+  },
+  {
+    "player": "jeremy colliton",
+    "Team": "nyi"
+  },
+  {
+    "player": "jeremy roenick",
+    "Team": "s.j"
+  },
+  {
+    "player": "jesse joensuu",
+    "Team": "nyi"
+  },
+  {
+    "player": "jody shelley",
+    "Team": "s.j"
+  },
+  {
+    "player": "joel rechlicz",
+    "Team": "nyi"
+  },
+  {
+    "player": "joey crabb",
+    "Team": "atl"
+  },
+  {
+    "player": "john scott",
+    "Team": "min"
+  },
+  {
+    "player": "jonathan ericsson",
+    "Team": "det"
+  },
+  {
+    "player": "josef melichar",
+    "Team": "car, t.b"
+  },
+  {
+    "player": "josh bailey",
+    "Team": "nyi"
+  },
+  {
+    "player": "josh gorges",
+    "Team": "mtl"
+  },
+  {
+    "player": "josh gratton",
+    "Team": "phi"
+  },
+  {
+    "player": "josh hennessy",
+    "Team": "ott"
+  },
+  {
+    "player": "kamil kreps",
+    "Team": "fla"
+  },
+  {
+    "player": "karl alzner",
+    "Team": "wsh"
+  },
+  {
+    "player": "kenndal mcardle",
+    "Team": "fla"
+  },
+  {
+    "player": "kevin porter",
+    "Team": "phx"
+  },
+  {
+    "player": "kris chucko",
+    "Team": "cgy"
+  },
+  {
+    "player": "kurt sauer",
+    "Team": "phx"
+  },
+  {
+    "player": "kurtis foster",
+    "Team": "min"
+  },
+  {
+    "player": "lauri korpikoski",
+    "Team": "nyr"
+  },
+  {
+    "player": "luca sbisa",
+    "Team": "phi"
+  },
+  {
+    "player": "lukas kaspar",
+    "Team": "s.j"
+  },
+  {
+    "player": "luke schenn",
+    "Team": "tor"
+  },
+  {
+    "player": "marc-antoine pouliot",
+    "Team": "edm"
+  },
+  {
+    "player": "mark giordano",
+    "Team": "cgy"
+  },
+  {
+    "player": "martins karsums",
+    "Team": "bos, t.b"
+  },
+  {
+    "player": "marty reasoner",
+    "Team": "atl"
+  },
+  {
+    "player": "matt carkner",
+    "Team": "ott"
+  },
+  {
+    "player": "matt moulson",
+    "Team": "l.a"
+  },
+  {
+    "player": "matt pelech",
+    "Team": "cgy"
+  },
+  {
+    "player": "max pacioretty",
+    "Team": "mtl"
+  },
+  {
+    "player": "michal repik",
+    "Team": "fla"
+  },
+  {
+    "player": "mikael backlund",
+    "Team": "cgy"
+  },
+  {
+    "player": "mike comrie",
+    "Team": "nyi, ott"
+  },
+  {
+    "player": "mike york",
+    "Team": "cbj"
+  },
+  {
+    "player": "mikkel boedker",
+    "Team": "phx"
+  },
+  {
+    "player": "nathan gerbe",
+    "Team": "buf"
+  },
+  {
+    "player": "niklas hagman",
+    "Team": "tor"
+  },
+  {
+    "player": "oscar moller",
+    "Team": "l.a"
+  },
+  {
+    "player": "patrick o'sullivan",
+    "Team": "edm, l.a"
+  },
+  {
+    "player": "patrick rissmiller",
+    "Team": "nyr"
+  },
+  {
+    "player": "patrik berglund",
+    "Team": "stl"
+  },
+  {
+    "player": "paul bissonnette",
+    "Team": "pit"
+  },
+  {
+    "player": "paul mara",
+    "Team": "nyr"
+  },
+  {
+    "player": "peter regin",
+    "Team": "ott"
+  },
+  {
+    "player": "petteri nokelainen",
+    "Team": "ana, bos"
+  },
+  {
+    "player": "pierre-marc bouchard",
+    "Team": "min"
+  },
+  {
+    "player": "radek martinek",
+    "Team": "nyi"
+  },
+  {
+    "player": "raymond sawada",
+    "Team": "dal"
+  },
+  {
+    "player": "rob blake",
+    "Team": "s.j"
+  },
+  {
+    "player": "robert nilsson",
+    "Team": "edm"
+  },
+  {
+    "player": "rostislav olesz",
+    "Team": "fla"
+  },
+  {
+    "player": "ryan jones",
+    "Team": "nsh"
+  },
+  {
+    "player": "ryan malone",
+    "Team": "t.b"
+  },
+  {
+    "player": "ryan o'byrne",
+    "Team": "mtl"
+  },
+  {
+    "player": "sean avery",
+    "Team": "dal, nyr"
+  },
+  {
+    "player": "stephane yelle",
+    "Team": "bos"
+  },
+  {
+    "player": "steve eminger",
+    "Team": "fla, phi, t.b"
+  },
+  {
+    "player": "steve montador",
+    "Team": "ana, bos"
+  },
+  {
+    "player": "steve sullivan",
+    "Team": "nsh"
+  },
+  {
+    "player": "steven stamkos",
+    "Team": "t.b"
+  },
+  {
+    "player": "t.j. oshie",
+    "Team": "stl"
+  },
+  {
+    "player": "taylor chorney",
+    "Team": "edm"
+  },
+  {
+    "player": "tim brent",
+    "Team": "chi"
+  },
+  {
+    "player": "tim kennedy",
+    "Team": "buf"
+  },
+  {
+    "player": "tomas fleischmann",
+    "Team": "wsh"
+  },
+  {
+    "player": "trent hunter",
+    "Team": "nyi"
+  },
+  {
+    "player": "trevor lewis",
+    "Team": "l.a"
+  },
+  {
+    "player": "trevor smith",
+    "Team": "nyi"
+  },
+  {
+    "player": "ty wishart",
+    "Team": "t.b"
+  },
+  {
+    "player": "viktor tikhonov",
+    "Team": "phx"
+  },
+  {
+    "player": "ville koistinen",
+    "Team": "nsh"
+  },
+  {
+    "player": "ville leino",
+    "Team": "det"
+  },
+  {
+    "player": "vladimir mihalik",
+    "Team": "t.b"
+  },
+  {
+    "player": "wade belak",
+    "Team": "fla, nsh"
+  },
+  {
+    "player": "wayne simmonds",
+    "Team": "l.a"
+  },
+  {
+    "player": "yan stastny",
+    "Team": "stl"
+  },
+  {
+    "player": "yannick weber",
+    "Team": "mtl"
+  },
+  {
+    "player": "zach bogosian",
+    "Team": "atl"
+  },
+  {
+    "player": "zach boychuk",
+    "Team": "car"
+  },
+  {
+    "player": "zack smith",
+    "Team": "ott"
+  },
+  {
+    "player": "adam mcquaid",
+    "Team": "bos"
+  },
+  {
+    "player": "adam pardy",
+    "Team": "cgy"
+  },
+  {
+    "player": "alec martinez",
+    "Team": "l.a"
+  },
+  {
+    "player": "alex plante",
+    "Team": "edm"
+  },
+  {
+    "player": "alexandre burrows",
+    "Team": "van"
+  },
+  {
+    "player": "anders eriksson",
+    "Team": "nyr, phx"
+  },
+  {
+    "player": "andrew macdonald",
+    "Team": "nyi"
+  },
+  {
+    "player": "bobby butler",
+    "Team": "ott"
+  },
+  {
+    "player": "bobby sanguinetti",
+    "Team": "nyr"
+  },
+  {
+    "player": "brad marchand",
+    "Team": "bos"
+  },
+  {
+    "player": "brad staubitz",
+    "Team": "s.j"
+  },
+  {
+    "player": "brandon prust",
+    "Team": "cgy, nyr"
+  },
+  {
+    "player": "brett festerling",
+    "Team": "ana"
+  },
+  {
+    "player": "casey wellman",
+    "Team": "min"
+  },
+  {
+    "player": "chris conner",
+    "Team": "pit"
+  },
+  {
+    "player": "clayton stoner",
+    "Team": "min"
+  },
+  {
+    "player": "cody almond",
+    "Team": "min"
+  },
+  {
+    "player": "colin mcdonald",
+    "Team": "edm"
+  },
+  {
+    "player": "colin wilson",
+    "Team": "nsh"
+  },
+  {
+    "player": "david desharnais",
+    "Team": "mtl"
+  },
+  {
+    "player": "derek dorsett",
+    "Team": "cbj"
+  },
+  {
+    "player": "derek meech",
+    "Team": "det"
+  },
+  {
+    "player": "derek smith",
+    "Team": "ott"
+  },
+  {
+    "player": "deryk engelland",
+    "Team": "pit"
+  },
+  {
+    "player": "dmitry kulikov",
+    "Team": "fla"
+  },
+  {
+    "player": "drayson bowman",
+    "Team": "car"
+  },
+  {
+    "player": "dustin kohn",
+    "Team": "nyi"
+  },
+  {
+    "player": "dylan reese",
+    "Team": "nyi"
+  },
+  {
+    "player": "eric tangradi",
+    "Team": "pit"
+  },
+  {
+    "player": "erik karlsson",
+    "Team": "ott"
+  },
+  {
+    "player": "evander kane",
+    "Team": "atl"
+  },
+  {
+    "player": "frazer mclaren",
+    "Team": "s.j"
+  },
+  {
+    "player": "grant clitsome",
+    "Team": "cbj"
+  },
+  {
+    "player": "jakub kindl",
+    "Team": "det"
+  },
+  {
+    "player": "james van riemsdyk",
+    "Team": "phi"
+  },
+  {
+    "player": "james wright",
+    "Team": "t.b"
+  },
+  {
+    "player": "jamie mcbain",
+    "Team": "car"
+  },
+  {
+    "player": "jared cowen",
+    "Team": "ott"
+  },
+  {
+    "player": "jason demers",
+    "Team": "s.j"
+  },
+  {
+    "player": "jay harrison",
+    "Team": "car"
+  },
+  {
+    "player": "jay rosehill",
+    "Team": "tor"
+  },
+  {
+    "player": "joel perrault",
+    "Team": "phx"
+  },
+  {
+    "player": "joel ward",
+    "Team": "nsh"
+  },
+  {
+    "player": "john carlson",
+    "Team": "wsh"
+  },
+  {
+    "player": "john mccarthy",
+    "Team": "s.j"
+  },
+  {
+    "player": "john mitchell",
+    "Team": "tor"
+  },
+  {
+    "player": "john tavares",
+    "Team": "nyi"
+  },
+  {
+    "player": "johnny boychuk",
+    "Team": "bos"
+  },
+  {
+    "player": "justin falk",
+    "Team": "min"
+  },
+  {
+    "player": "kaspars daugavins",
+    "Team": "ott"
+  },
+  {
+    "player": "keaton ellerby",
+    "Team": "fla"
+  },
+  {
+    "player": "kris versteeg",
+    "Team": "chi"
+  },
+  {
+    "player": "kyle cumiskey",
+    "Team": "col"
+  },
+  {
+    "player": "lars eller",
+    "Team": "stl"
+  },
+  {
+    "player": "logan couture",
+    "Team": "s.j"
+  },
+  {
+    "player": "mark fraser",
+    "Team": "n.j"
+  },
+  {
+    "player": "mark letestu",
+    "Team": "pit"
+  },
+  {
+    "player": "mark recchi",
+    "Team": "bos"
+  },
+  {
+    "player": "mathieu perreault",
+    "Team": "wsh"
+  },
+  {
+    "player": "matt beleskey",
+    "Team": "ana"
+  },
+  {
+    "player": "matt duchene",
+    "Team": "col"
+  },
+  {
+    "player": "matt ellis",
+    "Team": "buf"
+  },
+  {
+    "player": "matt halischuk",
+    "Team": "n.j"
+  },
+  {
+    "player": "matt hendricks",
+    "Team": "col"
+  },
+  {
+    "player": "matt lashoff",
+    "Team": "t.b"
+  },
+  {
+    "player": "matt walker",
+    "Team": "t.b"
+  },
+  {
+    "player": "matthew corrente",
+    "Team": "n.j"
+  },
+  {
+    "player": "michael del zotto",
+    "Team": "nyr"
+  },
+  {
+    "player": "michael grabner",
+    "Team": "van"
+  },
+  {
+    "player": "micheal haley",
+    "Team": "nyi"
+  },
+  {
+    "player": "mike santorelli",
+    "Team": "nsh"
+  },
+  {
+    "player": "nate prosser",
+    "Team": "min"
+  },
+  {
+    "player": "nate thompson",
+    "Team": "nyi, t.b"
+  },
+  {
+    "player": "nazem kadri",
+    "Team": "tor"
+  },
+  {
+    "player": "nick bonino",
+    "Team": "ana"
+  },
+  {
+    "player": "nick palmieri",
+    "Team": "n.j"
+  },
+  {
+    "player": "nick spaling",
+    "Team": "nsh"
+  },
+  {
+    "player": "nigel dawes",
+    "Team": "cgy"
+  },
+  {
+    "player": "nikita filatov",
+    "Team": "cbj"
+  },
+  {
+    "player": "oskars bartulis",
+    "Team": "phi"
+  },
+  {
+    "player": "p.k. subban",
+    "Team": "mtl"
+  },
+  {
+    "player": "patrick dwyer",
+    "Team": "car"
+  },
+  {
+    "player": "patrick kaleta",
+    "Team": "buf"
+  },
+  {
+    "player": "petr kalus",
+    "Team": "min"
+  },
+  {
+    "player": "pierre-luc letourneau-leblond",
+    "Team": "n.j"
+  },
+  {
+    "player": "rich peverley",
+    "Team": "atl"
+  },
+  {
+    "player": "rob niedermayer",
+    "Team": "n.j"
+  },
+  {
+    "player": "ryan o'marra",
+    "Team": "edm"
+  },
+  {
+    "player": "ryan o'reilly",
+    "Team": "col"
+  },
+  {
+    "player": "ryan stoa",
+    "Team": "col"
+  },
+  {
+    "player": "ryan stone",
+    "Team": "edm"
+  },
+  {
+    "player": "ryan wilson",
+    "Team": "col"
+  },
+  {
+    "player": "scott jackson",
+    "Team": "t.b"
+  },
+  {
+    "player": "tim jackman",
+    "Team": "nyi"
+  },
+  {
+    "player": "tim sestito",
+    "Team": "n.j"
+  },
+  {
+    "player": "tj galiardi",
+    "Team": "col"
+  },
+  {
+    "player": "tomas kana",
+    "Team": "cbj"
+  },
+  {
+    "player": "troy bodie",
+    "Team": "ana"
+  },
+  {
+    "player": "tyler bozak",
+    "Team": "tor"
+  },
+  {
+    "player": "tyler ennis",
+    "Team": "buf"
+  },
+  {
+    "player": "tyler myers",
+    "Team": "buf"
+  },
+  {
+    "player": "tyler sloan",
+    "Team": "wsh"
+  },
+  {
+    "player": "victor hedman",
+    "Team": "t.b"
+  },
+  {
+    "player": "viktor stalberg",
+    "Team": "tor"
+  },
+  {
+    "player": "zach hamill",
+    "Team": "bos"
+  },
+  {
+    "player": "aaron palushaj",
+    "Team": "mtl"
+  },
+  {
+    "player": "aaron volpatti",
+    "Team": "van"
+  },
+  {
+    "player": "alexander burmistrov",
+    "Team": "atl"
+  },
+  {
+    "player": "alexander urbom",
+    "Team": "n.j"
+  },
+  {
+    "player": "alexander vasyunov",
+    "Team": "n.j"
+  },
+  {
+    "player": "andrei loktionov",
+    "Team": "l.a"
+  },
+  {
+    "player": "anssi salmela",
+    "Team": "n.j"
+  },
+  {
+    "player": "ben holmstrom",
+    "Team": "phi"
+  },
+  {
+    "player": "ben smith",
+    "Team": "chi"
+  },
+  {
+    "player": "benn ferriero",
+    "Team": "s.j"
+  },
+  {
+    "player": "blake geoffrion",
+    "Team": "nsh"
+  },
+  {
+    "player": "brad mills",
+    "Team": "n.j"
+  },
+  {
+    "player": "brandon mcmillan",
+    "Team": "ana"
+  },
+  {
+    "player": "brandon pirri",
+    "Team": "chi"
+  },
+  {
+    "player": "brayden schenn",
+    "Team": "l.a"
+  },
+  {
+    "player": "brett maclean",
+    "Team": "phx"
+  },
+  {
+    "player": "brian strait",
+    "Team": "pit"
+  },
+  {
+    "player": "cam fowler",
+    "Team": "ana"
+  },
+  {
+    "player": "cameron gaunce",
+    "Team": "col"
+  },
+  {
+    "player": "carl gunnarsson",
+    "Team": "tor"
+  },
+  {
+    "player": "carl klingberg",
+    "Team": "atl"
+  },
+  {
+    "player": "chris butler",
+    "Team": "buf"
+  },
+  {
+    "player": "chris summers",
+    "Team": "phx"
+  },
+  {
+    "player": "chris vandevelde",
+    "Team": "edm"
+  },
+  {
+    "player": "christopher tanev",
+    "Team": "van"
+  },
+  {
+    "player": "cody franson",
+    "Team": "nsh"
+  },
+  {
+    "player": "cody hodgson",
+    "Team": "van"
+  },
+  {
+    "player": "colby cohen",
+    "Team": "col"
+  },
+  {
+    "player": "colin greening",
+    "Team": "ott"
+  },
+  {
+    "player": "colin stuart",
+    "Team": "buf"
+  },
+  {
+    "player": "colton sceviour",
+    "Team": "dal"
+  },
+  {
+    "player": "cory emmerton",
+    "Team": "det"
+  },
+  {
+    "player": "dale weise",
+    "Team": "nyr"
+  },
+  {
+    "player": "dan sexton",
+    "Team": "ana"
+  },
+  {
+    "player": "dana tyrell",
+    "Team": "t.b"
+  },
+  {
+    "player": "david liffiton",
+    "Team": "col"
+  },
+  {
+    "player": "derek stepan",
+    "Team": "nyr"
+  },
+  {
+    "player": "drew bagnall",
+    "Team": "min"
+  },
+  {
+    "player": "erik condra",
+    "Team": "ott"
+  },
+  {
+    "player": "evgeny grachev",
+    "Team": "nyr"
+  },
+  {
+    "player": "greg nemisz",
+    "Team": "cgy"
+  },
+  {
+    "player": "hugh jessiman",
+    "Team": "fla"
+  },
+  {
+    "player": "ian cole",
+    "Team": "stl"
+  },
+  {
+    "player": "jacob josefson",
+    "Team": "n.j"
+  },
+  {
+    "player": "jake muzzin",
+    "Team": "l.a"
+  },
+  {
+    "player": "jamie benn",
+    "Team": "dal"
+  },
+  {
+    "player": "jared spurgeon",
+    "Team": "min"
+  },
+  {
+    "player": "jeff petry",
+    "Team": "edm"
+  },
+  {
+    "player": "jeff skinner",
+    "Team": "car"
+  },
+  {
+    "player": "jeremy morin",
+    "Team": "chi"
+  },
+  {
+    "player": "jim o'brien",
+    "Team": "ott"
+  },
+  {
+    "player": "joe colborne",
+    "Team": "tor"
+  },
+  {
+    "player": "joe vitale",
+    "Team": "pit"
+  },
+  {
+    "player": "john moore",
+    "Team": "cbj"
+  },
+  {
+    "player": "jonathon blum",
+    "Team": "nsh"
+  },
+  {
+    "player": "jordan caron",
+    "Team": "bos"
+  },
+  {
+    "player": "jordan eberle",
+    "Team": "edm"
+  },
+  {
+    "player": "justin braun",
+    "Team": "s.j"
+  },
+  {
+    "player": "kevin shattenkirk",
+    "Team": "col, stl"
+  },
+  {
+    "player": "kevin westgarth",
+    "Team": "l.a"
+  },
+  {
+    "player": "korbinian holzer",
+    "Team": "tor"
+  },
+  {
+    "player": "krys barch",
+    "Team": "dal"
+  },
+  {
+    "player": "kyle clifford",
+    "Team": "l.a"
+  },
+  {
+    "player": "kyle palmieri",
+    "Team": "ana"
+  },
+  {
+    "player": "luke adam",
+    "Team": "buf"
+  },
+  {
+    "player": "marco scandella",
+    "Team": "min"
+  },
+  {
+    "player": "marcus johansson",
+    "Team": "wsh"
+  },
+  {
+    "player": "mark fayne",
+    "Team": "n.j"
+  },
+  {
+    "player": "mats zuccarello",
+    "Team": "nyr"
+  },
+  {
+    "player": "matt bartkowski",
+    "Team": "bos"
+  },
+  {
+    "player": "matt calvert",
+    "Team": "cbj"
+  },
+  {
+    "player": "matt frattin",
+    "Team": "tor"
+  },
+  {
+    "player": "matt kassian",
+    "Team": "min"
+  },
+  {
+    "player": "matt martin",
+    "Team": "nyi"
+  },
+  {
+    "player": "matt taormina",
+    "Team": "n.j"
+  },
+  {
+    "player": "mattias tedenby",
+    "Team": "n.j"
+  },
+  {
+    "player": "michael sauer",
+    "Team": "nyr"
+  },
+  {
+    "player": "mike moore",
+    "Team": "s.j"
+  },
+  {
+    "player": "nathan oystrick",
+    "Team": "stl"
+  },
+  {
+    "player": "nick holden",
+    "Team": "cbj"
+  },
+  {
+    "player": "nick leddy",
+    "Team": "chi"
+  },
+  {
+    "player": "nikita nikitin",
+    "Team": "stl"
+  },
+  {
+    "player": "nino niederreiter",
+    "Team": "nyi"
+  },
+  {
+    "player": "oliver ekman-larsson",
+    "Team": "phx"
+  },
+  {
+    "player": "patrick wiercioch",
+    "Team": "ott"
+  },
+  {
+    "player": "paul postma",
+    "Team": "atl"
+  },
+  {
+    "player": "philip larsen",
+    "Team": "dal"
+  },
+  {
+    "player": "philip mcrae",
+    "Team": "stl"
+  },
+  {
+    "player": "ryan mcdonagh",
+    "Team": "nyr"
+  },
+  {
+    "player": "ryan reaves",
+    "Team": "stl"
+  },
+  {
+    "player": "ryan white",
+    "Team": "mtl"
+  },
+  {
+    "player": "scott timmins",
+    "Team": "fla"
+  },
+  {
+    "player": "shawn belle",
+    "Team": "col, edm"
+  },
+  {
+    "player": "stefan meyer",
+    "Team": "cgy"
+  },
+  {
+    "player": "stephane da costa",
+    "Team": "ott"
+  },
+  {
+    "player": "stephen gionta",
+    "Team": "n.j"
+  },
+  {
+    "player": "steven kampfer",
+    "Team": "bos"
+  },
+  {
+    "player": "taylor hall",
+    "Team": "edm"
+  },
+  {
+    "player": "teemu hartikainen",
+    "Team": "edm"
+  },
+  {
+    "player": "tom pyatt",
+    "Team": "mtl"
+  },
+  {
+    "player": "tom wandell",
+    "Team": "dal"
+  },
+  {
+    "player": "tomas kubalik",
+    "Team": "cbj"
+  },
+  {
+    "player": "tomas tatar",
+    "Team": "det"
+  },
+  {
+    "player": "tomas vincour",
+    "Team": "dal"
+  },
+  {
+    "player": "tommy wingels",
+    "Team": "s.j"
+  },
+  {
+    "player": "travis hamonic",
+    "Team": "nyi"
+  },
+  {
+    "player": "tyler seguin",
+    "Team": "bos"
+  },
+  {
+    "player": "tyson strachan",
+    "Team": "stl"
+  },
+  {
+    "player": "victor oreskovich",
+    "Team": "van"
+  },
+  {
+    "player": "yann sauve",
+    "Team": "van"
+  },
+  {
+    "player": "zac dalpe",
+    "Team": "car"
+  },
+  {
+    "player": "aaron ness",
+    "Team": "nyi"
+  },
+  {
+    "player": "adam cracknell",
+    "Team": "stl"
+  },
+  {
+    "player": "adam henrique",
+    "Team": "n.j"
+  },
+  {
+    "player": "adam larsson",
+    "Team": "n.j"
+  },
+  {
+    "player": "akim aliu",
+    "Team": "cgy"
+  },
+  {
+    "player": "alexei emelin",
+    "Team": "mtl"
+  },
+  {
+    "player": "andre petersson",
+    "Team": "ott"
+  },
+  {
+    "player": "andrew desjardins",
+    "Team": "s.j"
+  },
+  {
+    "player": "andy miele",
+    "Team": "phx"
+  },
+  {
+    "player": "anton lander",
+    "Team": "edm"
+  },
+  {
+    "player": "bill sweatt",
+    "Team": "van"
+  },
+  {
+    "player": "bracken kearns",
+    "Team": "fla"
+  },
+  {
+    "player": "brad malone",
+    "Team": "col"
+  },
+  {
+    "player": "brandon bollig",
+    "Team": "chi"
+  },
+  {
+    "player": "brandon manning",
+    "Team": "phi"
+  },
+  {
+    "player": "brandon saad",
+    "Team": "chi"
+  },
+  {
+    "player": "brayden mcnabb",
+    "Team": "buf"
+  },
+  {
+    "player": "brendan smith",
+    "Team": "det"
+  },
+  {
+    "player": "brenden dillon",
+    "Team": "dal"
+  },
+  {
+    "player": "brett bulmer",
+    "Team": "min"
+  },
+  {
+    "player": "brett connolly",
+    "Team": "t.b"
+  },
+  {
+    "player": "calvin de haan",
+    "Team": "nyi"
+  },
+  {
+    "player": "cam atkinson",
+    "Team": "cbj"
+  },
+  {
+    "player": "carl hagelin",
+    "Team": "nyr"
+  },
+  {
+    "player": "carl sneep",
+    "Team": "pit"
+  },
+  {
+    "player": "carter ashton",
+    "Team": "tor"
+  },
+  {
+    "player": "carter camper",
+    "Team": "bos"
+  },
+  {
+    "player": "casey cizikas",
+    "Team": "nyi"
+  },
+  {
+    "player": "chris mueller",
+    "Team": "nsh"
+  },
+  {
+    "player": "cody goloubef",
+    "Team": "cbj"
+  },
+  {
+    "player": "colby robak",
+    "Team": "fla"
+  },
+  {
+    "player": "colten teubert",
+    "Team": "edm"
+  },
+  {
+    "player": "corey tropp",
+    "Team": "buf"
+  },
+  {
+    "player": "craig smith",
+    "Team": "nsh"
+  },
+  {
+    "player": "dalton prout",
+    "Team": "cbj"
+  },
+  {
+    "player": "david rundblad",
+    "Team": "ott, phx"
+  },
+  {
+    "player": "david savard",
+    "Team": "cbj"
+  },
+  {
+    "player": "david ullstrom",
+    "Team": "nyi"
+  },
+  {
+    "player": "devante smith-pelly",
+    "Team": "ana"
+  },
+  {
+    "player": "dmitry orlov",
+    "Team": "wsh"
+  },
+  {
+    "player": "dylan olsen",
+    "Team": "chi"
+  },
+  {
+    "player": "erik gudbranson",
+    "Team": "fla"
+  },
+  {
+    "player": "fr\u00e9d\u00e9ric st-denis",
+    "Team": "mtl"
+  },
+  {
+    "player": "gabriel bourque",
+    "Team": "nsh"
+  },
+  {
+    "player": "gabriel landeskog",
+    "Team": "col"
+  },
+  {
+    "player": "gustav nyquist",
+    "Team": "det"
+  },
+  {
+    "player": "harry zolnierczyk",
+    "Team": "phi"
+  },
+  {
+    "player": "j.t. brown",
+    "Team": "t.b"
+  },
+  {
+    "player": "jaden schwartz",
+    "Team": "stl"
+  },
+  {
+    "player": "jake gardiner",
+    "Team": "tor"
+  },
+  {
+    "player": "jason zucker",
+    "Team": "min"
+  },
+  {
+    "player": "jimmy hayes",
+    "Team": "chi"
+  },
+  {
+    "player": "joakim andersson",
+    "Team": "det"
+  },
+  {
+    "player": "joe finley",
+    "Team": "buf"
+  },
+  {
+    "player": "jordan nolan",
+    "Team": "l.a"
+  },
+  {
+    "player": "jordie benn",
+    "Team": "dal"
+  },
+  {
+    "player": "justin faulk",
+    "Team": "car"
+  },
+  {
+    "player": "kevin marshall",
+    "Team": "phi"
+  },
+  {
+    "player": "lane macdermid",
+    "Team": "bos"
+  },
+  {
+    "player": "louis leblanc",
+    "Team": "mtl"
+  },
+  {
+    "player": "marcus foligno",
+    "Team": "buf"
+  },
+  {
+    "player": "mark bell",
+    "Team": "ana"
+  },
+  {
+    "player": "mark borowiecki",
+    "Team": "ott"
+  },
+  {
+    "player": "mark scheifele",
+    "Team": "wpg"
+  },
+  {
+    "player": "mat clark",
+    "Team": "ana"
+  },
+  {
+    "player": "matt donovan",
+    "Team": "nyi"
+  },
+  {
+    "player": "matt read",
+    "Team": "phi"
+  },
+  {
+    "player": "mattias ekholm",
+    "Team": "nsh"
+  },
+  {
+    "player": "max sauve",
+    "Team": "bos"
+  },
+  {
+    "player": "michael stone",
+    "Team": "phx"
+  },
+  {
+    "player": "mika zibanejad",
+    "Team": "ott"
+  },
+  {
+    "player": "mike hoffman",
+    "Team": "ott"
+  },
+  {
+    "player": "patrice cormier",
+    "Team": "wpg"
+  },
+  {
+    "player": "patrick maroon",
+    "Team": "ana"
+  },
+  {
+    "player": "peter holland",
+    "Team": "ana"
+  },
+  {
+    "player": "raphael diaz",
+    "Team": "mtl"
+  },
+  {
+    "player": "reilly smith",
+    "Team": "dal"
+  },
+  {
+    "player": "riley nash",
+    "Team": "car"
+  },
+  {
+    "player": "riley sheahan",
+    "Team": "det"
+  },
+  {
+    "player": "robert bortuzzo",
+    "Team": "pit"
+  },
+  {
+    "player": "roman horak",
+    "Team": "cgy"
+  },
+  {
+    "player": "roman josi",
+    "Team": "nsh"
+  },
+  {
+    "player": "ryan ellis",
+    "Team": "nsh"
+  },
+  {
+    "player": "ryan garbutt",
+    "Team": "dal"
+  },
+  {
+    "player": "ryan johansen",
+    "Team": "cbj"
+  },
+  {
+    "player": "ryan nugent-hopkins",
+    "Team": "edm"
+  },
+  {
+    "player": "scott glennie",
+    "Team": "dal"
+  },
+  {
+    "player": "sean couturier",
+    "Team": "phi"
+  },
+  {
+    "player": "simon despres",
+    "Team": "pit"
+  },
+  {
+    "player": "slava voynov",
+    "Team": "l.a"
+  },
+  {
+    "player": "stefan elliott",
+    "Team": "col"
+  },
+  {
+    "player": "stu bickel",
+    "Team": "nyr"
+  },
+  {
+    "player": "sven baertschi",
+    "Team": "cgy"
+  },
+  {
+    "player": "tim erixon",
+    "Team": "nyr"
+  },
+  {
+    "player": "tomas kundratek",
+    "Team": "wsh"
+  },
+  {
+    "player": "torey krug",
+    "Team": "bos"
+  },
+  {
+    "player": "tyler cuma",
+    "Team": "min"
+  },
+  {
+    "player": "tyson barrie",
+    "Team": "col"
+  },
+  {
+    "player": "zac rinaldo",
+    "Team": "phi"
+  },
+  {
+    "player": "zack kassian",
+    "Team": "buf, van"
+  },
+  {
+    "player": "alex chiasson",
+    "Team": "dal"
+  },
+  {
+    "player": "alex galchenyuk",
+    "Team": "mtl"
+  },
+  {
+    "player": "alex killorn",
+    "Team": "t.b"
+  },
+  {
+    "player": "alex petrovic",
+    "Team": "fla"
+  },
+  {
+    "player": "anders lee",
+    "Team": "nyi"
+  },
+  {
+    "player": "andrej sustr",
+    "Team": "t.b"
+  },
+  {
+    "player": "andrew shaw",
+    "Team": "chi"
+  },
+  {
+    "player": "anthony peluso",
+    "Team": "wpg"
+  },
+  {
+    "player": "antoine roussel",
+    "Team": "dal"
+  },
+  {
+    "player": "austin watson",
+    "Team": "nsh"
+  },
+  {
+    "player": "beau bennett",
+    "Team": "pit"
+  },
+  {
+    "player": "ben hanowski",
+    "Team": "cgy"
+  },
+  {
+    "player": "ben street",
+    "Team": "cgy"
+  },
+  {
+    "player": "brandon mashinter",
+    "Team": "nyr"
+  },
+  {
+    "player": "brendan gallagher",
+    "Team": "mtl"
+  },
+  {
+    "player": "brett bellemore",
+    "Team": "car"
+  },
+  {
+    "player": "brian flynn",
+    "Team": "buf"
+  },
+  {
+    "player": "brian lashoff",
+    "Team": "det"
+  },
+  {
+    "player": "cameron schilling",
+    "Team": "wsh"
+  },
+  {
+    "player": "chad ruhwedel",
+    "Team": "buf"
+  },
+  {
+    "player": "charlie coyle",
+    "Team": "min"
+  },
+  {
+    "player": "chris brown",
+    "Team": "phx"
+  },
+  {
+    "player": "chris kreider",
+    "Team": "nyr"
+  },
+  {
+    "player": "chris terry",
+    "Team": "car"
+  },
+  {
+    "player": "christian thomas",
+    "Team": "nyr"
+  },
+  {
+    "player": "cody eakin",
+    "Team": "dal"
+  },
+  {
+    "player": "cory conacher",
+    "Team": "ott, t.b"
+  },
+  {
+    "player": "danny dekeyser",
+    "Team": "det"
+  },
+  {
+    "player": "dave dziurzynski",
+    "Team": "ott"
+  },
+  {
+    "player": "david van der gulik",
+    "Team": "col"
+  },
+  {
+    "player": "derek grant",
+    "Team": "ott"
+  },
+  {
+    "player": "dmitrij jaskin",
+    "Team": "stl"
+  },
+  {
+    "player": "dougie hamilton",
+    "Team": "bos"
+  },
+  {
+    "player": "drew leblanc",
+    "Team": "chi"
+  },
+  {
+    "player": "drew shore",
+    "Team": "fla"
+  },
+  {
+    "player": "dwight king",
+    "Team": "l.a"
+  },
+  {
+    "player": "eric gelinas",
+    "Team": "n.j"
+  },
+  {
+    "player": "eric gryba",
+    "Team": "ott"
+  },
+  {
+    "player": "eric selleck",
+    "Team": "fla"
+  },
+  {
+    "player": "filip forsberg",
+    "Team": "nsh"
+  },
+  {
+    "player": "frank corrado",
+    "Team": "van"
+  },
+  {
+    "player": "gabriel dumont",
+    "Team": "mtl"
+  },
+  {
+    "player": "greg pateryn",
+    "Team": "mtl"
+  },
+  {
+    "player": "j.t. miller",
+    "Team": "nyr"
+  },
+  {
+    "player": "jakob silfverberg",
+    "Team": "ott"
+  },
+  {
+    "player": "jamie oleksiak",
+    "Team": "dal"
+  },
+  {
+    "player": "jared staal",
+    "Team": "car"
+  },
+  {
+    "player": "jarred tinordi",
+    "Team": "mtl"
+  },
+  {
+    "player": "jason akeson",
+    "Team": "phi"
+  },
+  {
+    "player": "jean-gabriel pageau",
+    "Team": "ott"
+  },
+  {
+    "player": "johan larsson",
+    "Team": "min"
+  },
+  {
+    "player": "jonas brodin",
+    "Team": "min"
+  },
+  {
+    "player": "jonathan huberdeau",
+    "Team": "fla"
+  },
+  {
+    "player": "jonathan marchessault",
+    "Team": "cbj"
+  },
+  {
+    "player": "jordan schroeder",
+    "Team": "van"
+  },
+  {
+    "player": "justin schultz",
+    "Team": "edm"
+  },
+  {
+    "player": "keith aulie",
+    "Team": "t.b"
+  },
+  {
+    "player": "kevin henderson",
+    "Team": "nsh"
+  },
+  {
+    "player": "leo komarov",
+    "Team": "tor"
+  },
+  {
+    "player": "mark arcobello",
+    "Team": "edm"
+  },
+  {
+    "player": "mark barberio",
+    "Team": "t.b"
+  },
+  {
+    "player": "mark cundari",
+    "Team": "cgy"
+  },
+  {
+    "player": "mark pysyk",
+    "Team": "buf"
+  },
+  {
+    "player": "mark stone",
+    "Team": "ott"
+  },
+  {
+    "player": "matt fraser",
+    "Team": "dal"
+  },
+  {
+    "player": "matt irwin",
+    "Team": "s.j"
+  },
+  {
+    "player": "matt tennyson",
+    "Team": "s.j"
+  },
+  {
+    "player": "matthew konan",
+    "Team": "phi"
+  },
+  {
+    "player": "max reinhart",
+    "Team": "cgy"
+  },
+  {
+    "player": "michael kostka",
+    "Team": "tor"
+  },
+  {
+    "player": "michael sgarbossa",
+    "Team": "col"
+  },
+  {
+    "player": "michal jordan",
+    "Team": "car"
+  },
+  {
+    "player": "mikael granlund",
+    "Team": "min"
+  },
+  {
+    "player": "mike angelidis",
+    "Team": "t.b"
+  },
+  {
+    "player": "mikhail grigorenko",
+    "Team": "buf"
+  },
+  {
+    "player": "nail yakupov",
+    "Team": "edm"
+  },
+  {
+    "player": "nathan beaulieu",
+    "Team": "mtl"
+  },
+  {
+    "player": "nick bjugstad",
+    "Team": "fla"
+  },
+  {
+    "player": "nick drazenovic",
+    "Team": "cbj"
+  },
+  {
+    "player": "nick petrecki",
+    "Team": "s.j"
+  },
+  {
+    "player": "nicklas jensen",
+    "Team": "van"
+  },
+  {
+    "player": "oliver lauridsen",
+    "Team": "phi"
+  },
+  {
+    "player": "ondrej palat",
+    "Team": "t.b"
+  },
+  {
+    "player": "patrick bordeleau",
+    "Team": "col"
+  },
+  {
+    "player": "paul byron",
+    "Team": "cgy"
+  },
+  {
+    "player": "quinton howden",
+    "Team": "fla"
+  },
+  {
+    "player": "radko gudas",
+    "Team": "t.b"
+  },
+  {
+    "player": "rich clune",
+    "Team": "nsh"
+  },
+  {
+    "player": "rickard rakell",
+    "Team": "ana"
+  },
+  {
+    "player": "rob klinkhammer",
+    "Team": "phx"
+  },
+  {
+    "player": "ryan hamilton",
+    "Team": "tor"
+  },
+  {
+    "player": "ryan murphy",
+    "Team": "car"
+  },
+  {
+    "player": "ryan spooner",
+    "Team": "bos"
+  },
+  {
+    "player": "ryan stanton",
+    "Team": "chi"
+  },
+  {
+    "player": "sami vatanen",
+    "Team": "ana"
+  },
+  {
+    "player": "scott laughton",
+    "Team": "phi"
+  },
+  {
+    "player": "sean collins",
+    "Team": "cbj"
+  },
+  {
+    "player": "shawn lalonde",
+    "Team": "chi"
+  },
+  {
+    "player": "stefan matteau",
+    "Team": "n.j"
+  },
+  {
+    "player": "steve oleksy",
+    "Team": "wsh"
+  },
+  {
+    "player": "taylor beck",
+    "Team": "nsh"
+  },
+  {
+    "player": "thomas hickey",
+    "Team": "nyi"
+  },
+  {
+    "player": "tj brodie",
+    "Team": "cgy"
+  },
+  {
+    "player": "tye mcginn",
+    "Team": "phi"
+  },
+  {
+    "player": "tyler johnson",
+    "Team": "t.b"
+  },
+  {
+    "player": "tyler toffoli",
+    "Team": "l.a"
+  },
+  {
+    "player": "victor bartley",
+    "Team": "nsh"
+  },
+  {
+    "player": "vladimir tarasenko",
+    "Team": "stl"
+  },
+  {
+    "player": "zach redmond",
+    "Team": "wpg"
+  },
+  {
+    "player": "adam almquist",
+    "Team": "det"
+  },
+  {
+    "player": "adam payerl",
+    "Team": "pit"
+  },
+  {
+    "player": "aleksander barkov",
+    "Team": "fla"
+  },
+  {
+    "player": "alex grant",
+    "Team": "ana"
+  },
+  {
+    "player": "alexey marchenko",
+    "Team": "det"
+  },
+  {
+    "player": "andrew campbell",
+    "Team": "l.a"
+  },
+  {
+    "player": "ben chiarot",
+    "Team": "wpg"
+  },
+  {
+    "player": "bill arnold",
+    "Team": "cgy"
+  },
+  {
+    "player": "boone jenner",
+    "Team": "cbj"
+  },
+  {
+    "player": "brad hunt",
+    "Team": "edm"
+  },
+  {
+    "player": "brandon gormley",
+    "Team": "phx"
+  },
+  {
+    "player": "brett gallant",
+    "Team": "nyi"
+  },
+  {
+    "player": "brian dumoulin",
+    "Team": "pit"
+  },
+  {
+    "player": "brian gibbons",
+    "Team": "pit"
+  },
+  {
+    "player": "brock nelson",
+    "Team": "nyi"
+  },
+  {
+    "player": "bryce van brabant",
+    "Team": "cgy"
+  },
+  {
+    "player": "chad billins",
+    "Team": "cgy"
+  },
+  {
+    "player": "chris breen",
+    "Team": "cgy"
+  },
+  {
+    "player": "christian folin",
+    "Team": "min"
+  },
+  {
+    "player": "cody ceci",
+    "Team": "ott"
+  },
+  {
+    "player": "cody kunyk",
+    "Team": "t.b"
+  },
+  {
+    "player": "colton sissons",
+    "Team": "nsh"
+  },
+  {
+    "player": "connor carrick",
+    "Team": "wsh"
+  },
+  {
+    "player": "connor murphy",
+    "Team": "phx"
+  },
+  {
+    "player": "conor allen",
+    "Team": "nyr"
+  },
+  {
+    "player": "corban knight",
+    "Team": "cgy"
+  },
+  {
+    "player": "craig cunningham",
+    "Team": "bos"
+  },
+  {
+    "player": "darren archibald",
+    "Team": "van"
+  },
+  {
+    "player": "david broll",
+    "Team": "tor"
+  },
+  {
+    "player": "david warsofsky",
+    "Team": "bos"
+  },
+  {
+    "player": "dylan mcilrath",
+    "Team": "nyr"
+  },
+  {
+    "player": "elias lindholm",
+    "Team": "car"
+  },
+  {
+    "player": "eriah hayes",
+    "Team": "s.j"
+  },
+  {
+    "player": "eric o'dell",
+    "Team": "wpg"
+  },
+  {
+    "player": "erik haula",
+    "Team": "min"
+  },
+  {
+    "player": "evgeny kuznetsov",
+    "Team": "wsh"
+  },
+  {
+    "player": "freddie hamilton",
+    "Team": "s.j"
+  },
+  {
+    "player": "garrett wilson",
+    "Team": "fla"
+  },
+  {
+    "player": "greg mckegg",
+    "Team": "tor"
+  },
+  {
+    "player": "hampus lindholm",
+    "Team": "ana"
+  },
+  {
+    "player": "jacob trouba",
+    "Team": "wpg"
+  },
+  {
+    "player": "jake mccabe",
+    "Team": "buf"
+  },
+  {
+    "player": "jamie devane",
+    "Team": "tor"
+  },
+  {
+    "player": "jayson megna",
+    "Team": "pit"
+  },
+  {
+    "player": "jerry d'amigo",
+    "Team": "tor"
+  },
+  {
+    "player": "jesper fast",
+    "Team": "nyr"
+  },
+  {
+    "player": "joe piskula",
+    "Team": "nsh"
+  },
+  {
+    "player": "joe whitney",
+    "Team": "n.j"
+  },
+  {
+    "player": "john albert",
+    "Team": "wpg"
+  },
+  {
+    "player": "john persson",
+    "Team": "nyi"
+  },
+  {
+    "player": "johnny gaudreau",
+    "Team": "cgy"
+  },
+  {
+    "player": "jon merrill",
+    "Team": "n.j"
+  },
+  {
+    "player": "jonathan racine",
+    "Team": "fla"
+  },
+  {
+    "player": "jordan szwarz",
+    "Team": "phx"
+  },
+  {
+    "player": "josh leivo",
+    "Team": "tor"
+  },
+  {
+    "player": "julian melchiori",
+    "Team": "wpg"
+  },
+  {
+    "player": "julien brouillette",
+    "Team": "wsh"
+  },
+  {
+    "player": "justin florek",
+    "Team": "bos"
+  },
+  {
+    "player": "justin fontaine",
+    "Team": "min"
+  },
+  {
+    "player": "karl stollery",
+    "Team": "col"
+  },
+  {
+    "player": "kellan lain",
+    "Team": "van"
+  },
+  {
+    "player": "kenny agostino",
+    "Team": "cgy"
+  },
+  {
+    "player": "kevan miller",
+    "Team": "bos"
+  },
+  {
+    "player": "kevin connauton",
+    "Team": "dal"
+  },
+  {
+    "player": "kevin czuczman",
+    "Team": "nyi"
+  },
+  {
+    "player": "lance bouma",
+    "Team": "cgy"
+  },
+  {
+    "player": "landon ferraro",
+    "Team": "det"
+  },
+  {
+    "player": "linden vey",
+    "Team": "l.a"
+  },
+  {
+    "player": "lucas lessio",
+    "Team": "phx"
+  },
+  {
+    "player": "luke gazdic",
+    "Team": "edm"
+  },
+  {
+    "player": "luke glendening",
+    "Team": "det"
+  },
+  {
+    "player": "marc-andre cliche",
+    "Team": "col"
+  },
+  {
+    "player": "mark van guilder",
+    "Team": "nsh"
+  },
+  {
+    "player": "markus granlund",
+    "Team": "cgy"
+  },
+  {
+    "player": "martin marincin",
+    "Team": "edm"
+  },
+  {
+    "player": "matt carey",
+    "Team": "chi"
+  },
+  {
+    "player": "matt dumba",
+    "Team": "min"
+  },
+  {
+    "player": "matt lindblad",
+    "Team": "bos"
+  },
+  {
+    "player": "matt nieto",
+    "Team": "s.j"
+  },
+  {
+    "player": "michael chaput",
+    "Team": "cbj"
+  },
+  {
+    "player": "michael latta",
+    "Team": "wsh"
+  },
+  {
+    "player": "michael raffl",
+    "Team": "phi"
+  },
+  {
+    "player": "michael zalewski",
+    "Team": "van"
+  },
+  {
+    "player": "mike halmo",
+    "Team": "nyi"
+  },
+  {
+    "player": "mike sislo",
+    "Team": "n.j"
+  },
+  {
+    "player": "mitch callahan",
+    "Team": "det"
+  },
+  {
+    "player": "morgan rielly",
+    "Team": "tor"
+  },
+  {
+    "player": "nate schmidt",
+    "Team": "wsh"
+  },
+  {
+    "player": "nathan mackinnon",
+    "Team": "col"
+  },
+  {
+    "player": "nicolas deschamps",
+    "Team": "wsh"
+  },
+  {
+    "player": "nicolas deslauriers",
+    "Team": "buf"
+  },
+  {
+    "player": "nikita kucherov",
+    "Team": "t.b"
+  },
+  {
+    "player": "nikita zadorov",
+    "Team": "buf"
+  },
+  {
+    "player": "oscar klefbom",
+    "Team": "edm"
+  },
+  {
+    "player": "patrick holland",
+    "Team": "mtl"
+  },
+  {
+    "player": "patrick wey",
+    "Team": "wsh"
+  },
+  {
+    "player": "patrik nemeth",
+    "Team": "dal"
+  },
+  {
+    "player": "paul carey",
+    "Team": "col"
+  },
+  {
+    "player": "petter granberg",
+    "Team": "tor"
+  },
+  {
+    "player": "philip samuelsson",
+    "Team": "pit"
+  },
+  {
+    "player": "radek dvorak",
+    "Team": "car"
+  },
+  {
+    "player": "rasmus ristolainen",
+    "Team": "buf"
+  },
+  {
+    "player": "reid boucher",
+    "Team": "n.j"
+  },
+  {
+    "player": "ryan murray",
+    "Team": "cbj"
+  },
+  {
+    "player": "ryan sproul",
+    "Team": "det"
+  },
+  {
+    "player": "ryan strome",
+    "Team": "nyi"
+  },
+  {
+    "player": "scott mayfield",
+    "Team": "nyi"
+  },
+  {
+    "player": "sean monahan",
+    "Team": "cgy"
+  },
+  {
+    "player": "seth jones",
+    "Team": "nsh"
+  },
+  {
+    "player": "spencer abbott",
+    "Team": "tor"
+  },
+  {
+    "player": "steven pinizzotto",
+    "Team": "edm"
+  },
+  {
+    "player": "tanner pearson",
+    "Team": "l.a"
+  },
+  {
+    "player": "taylor fedun",
+    "Team": "edm"
+  },
+  {
+    "player": "teemu pulkkinen",
+    "Team": "det"
+  },
+  {
+    "player": "tom wilson",
+    "Team": "wsh"
+  },
+  {
+    "player": "tomas hertl",
+    "Team": "s.j"
+  },
+  {
+    "player": "tomas jurco",
+    "Team": "det"
+  },
+  {
+    "player": "travis morin",
+    "Team": "dal"
+  },
+  {
+    "player": "ty rattie",
+    "Team": "stl"
+  },
+  {
+    "player": "tyler pitlick",
+    "Team": "edm"
+  },
+  {
+    "player": "tyler wotherspoon",
+    "Team": "cgy"
+  },
+  {
+    "player": "valeri nichushkin",
+    "Team": "dal"
+  },
+  {
+    "player": "vincent trocheck",
+    "Team": "fla"
+  },
+  {
+    "player": "vladislav namestnikov",
+    "Team": "t.b"
+  },
+  {
+    "player": "will acton",
+    "Team": "edm"
+  },
+  {
+    "player": "xavier ouellet",
+    "Team": "det"
+  },
+  {
+    "player": "zach sill",
+    "Team": "pit"
+  },
+  {
+    "player": "zach trotman",
+    "Team": "bos"
+  },
+  {
+    "player": "zemgus girgensons",
+    "Team": "buf"
+  },
+  {
+    "player": "aaron ekblad",
+    "Team": "fla"
+  },
+  {
+    "player": "adam clendening",
+    "Team": "chi, van"
+  },
+  {
+    "player": "adam lowry",
+    "Team": "wpg"
+  },
+  {
+    "player": "alex biega",
+    "Team": "van"
+  },
+  {
+    "player": "alexander wennberg",
+    "Team": "cbj"
+  },
+  {
+    "player": "andrej nestrasil",
+    "Team": "car, det"
+  },
+  {
+    "player": "andrew agozzino",
+    "Team": "col"
+  },
+  {
+    "player": "andrew copp",
+    "Team": "wpg"
+  },
+  {
+    "player": "andrew macwilliam",
+    "Team": "tor"
+  },
+  {
+    "player": "andrew miller",
+    "Team": "edm"
+  },
+  {
+    "player": "andy andreoff",
+    "Team": "l.a"
+  },
+  {
+    "player": "anthony bitetto",
+    "Team": "nsh"
+  },
+  {
+    "player": "anthony duclair",
+    "Team": "nyr"
+  },
+  {
+    "player": "barclay goodrow",
+    "Team": "s.j"
+  },
+  {
+    "player": "bo horvat",
+    "Team": "van"
+  },
+  {
+    "player": "bobby farnham",
+    "Team": "pit"
+  },
+  {
+    "player": "bobby robins",
+    "Team": "bos"
+  },
+  {
+    "player": "bogdan yakimov",
+    "Team": "edm"
+  },
+  {
+    "player": "borna rendulic",
+    "Team": "col"
+  },
+  {
+    "player": "brandon davidson",
+    "Team": "edm"
+  },
+  {
+    "player": "brandon defazio",
+    "Team": "van"
+  },
+  {
+    "player": "brandon kozun",
+    "Team": "tor"
+  },
+  {
+    "player": "brendan ranford",
+    "Team": "dal"
+  },
+  {
+    "player": "brendan shinnimin",
+    "Team": "ari"
+  },
+  {
+    "player": "brendan woods",
+    "Team": "car"
+  },
+  {
+    "player": "brett kulak",
+    "Team": "cgy"
+  },
+  {
+    "player": "brett ritchie",
+    "Team": "dal"
+  },
+  {
+    "player": "brian ferlin",
+    "Team": "bos"
+  },
+  {
+    "player": "brody sutter",
+    "Team": "car"
+  },
+  {
+    "player": "bryan lerg",
+    "Team": "s.j"
+  },
+  {
+    "player": "bryan rust",
+    "Team": "pit"
+  },
+  {
+    "player": "casey bailey",
+    "Team": "tor"
+  },
+  {
+    "player": "chris tierney",
+    "Team": "s.j"
+  },
+  {
+    "player": "chris wagner",
+    "Team": "ana"
+  },
+  {
+    "player": "colin smith",
+    "Team": "col"
+  },
+  {
+    "player": "curtis hamilton",
+    "Team": "edm"
+  },
+  {
+    "player": "curtis lazar",
+    "Team": "ott"
+  },
+  {
+    "player": "curtis mckenzie",
+    "Team": "dal"
+  },
+  {
+    "player": "damon severson",
+    "Team": "n.j"
+  },
+  {
+    "player": "daniil tarasov",
+    "Team": "s.j"
+  },
+  {
+    "player": "danny biega",
+    "Team": "car"
+  },
+  {
+    "player": "darnell nurse",
+    "Team": "edm"
+  },
+  {
+    "player": "david musil",
+    "Team": "edm"
+  },
+  {
+    "player": "david pastrnak",
+    "Team": "bos"
+  },
+  {
+    "player": "david wolf",
+    "Team": "cgy"
+  },
+  {
+    "player": "dennis everberg",
+    "Team": "col"
+  },
+  {
+    "player": "derrick pouliot",
+    "Team": "pit"
+  },
+  {
+    "player": "dominik uher",
+    "Team": "pit"
+  },
+  {
+    "player": "duncan siemens",
+    "Team": "col"
+  },
+  {
+    "player": "emile poirier",
+    "Team": "cgy"
+  },
+  {
+    "player": "griffin reinhart",
+    "Team": "nyi"
+  },
+  {
+    "player": "henrik samuelsson",
+    "Team": "ari"
+  },
+  {
+    "player": "iiro pakarinen",
+    "Team": "edm"
+  },
+  {
+    "player": "jacob de la rose",
+    "Team": "mtl"
+  },
+  {
+    "player": "jesse blacker",
+    "Team": "ana"
+  },
+  {
+    "player": "jiri sekac",
+    "Team": "ana, mtl"
+  },
+  {
+    "player": "joe morrow",
+    "Team": "bos"
+  },
+  {
+    "player": "joel armia",
+    "Team": "buf"
+  },
+  {
+    "player": "joey hishon",
+    "Team": "col"
+  },
+  {
+    "player": "john klingberg",
+    "Team": "dal"
+  },
+  {
+    "player": "john ramage",
+    "Team": "cgy"
+  },
+  {
+    "player": "jonathan drouin",
+    "Team": "t.b"
+  },
+  {
+    "player": "jordan martinook",
+    "Team": "ari"
+  },
+  {
+    "player": "jordan oesterle",
+    "Team": "edm"
+  },
+  {
+    "player": "josh anderson",
+    "Team": "cbj"
+  },
+  {
+    "player": "josh jooris",
+    "Team": "cgy"
+  },
+  {
+    "player": "josh manson",
+    "Team": "ana"
+  },
+  {
+    "player": "justin hodgman",
+    "Team": "ari"
+  },
+  {
+    "player": "justin shugg",
+    "Team": "car"
+  },
+  {
+    "player": "jyrki jokipakka",
+    "Team": "dal"
+  },
+  {
+    "player": "kael mouillierat",
+    "Team": "nyi"
+  },
+  {
+    "player": "keegan lowe",
+    "Team": "car"
+  },
+  {
+    "player": "kerby rychel",
+    "Team": "cbj"
+  },
+  {
+    "player": "kevin fiala",
+    "Team": "nsh"
+  },
+  {
+    "player": "kevin hayes",
+    "Team": "nyr"
+  },
+  {
+    "player": "klas dahlbeck",
+    "Team": "ari, chi"
+  },
+  {
+    "player": "kyle baun",
+    "Team": "chi"
+  },
+  {
+    "player": "leon draisaitl",
+    "Team": "edm"
+  },
+  {
+    "player": "liam o'brien",
+    "Team": "wsh"
+  },
+  {
+    "player": "luke witkowski",
+    "Team": "t.b"
+  },
+  {
+    "player": "mark alt",
+    "Team": "phi"
+  },
+  {
+    "player": "marko dano",
+    "Team": "cbj"
+  },
+  {
+    "player": "matt puempel",
+    "Team": "ott"
+  },
+  {
+    "player": "max friberg",
+    "Team": "ana"
+  },
+  {
+    "player": "melker karlsson",
+    "Team": "s.j"
+  },
+  {
+    "player": "michael paliotta",
+    "Team": "chi"
+  },
+  {
+    "player": "micheal ferland",
+    "Team": "cgy"
+  },
+  {
+    "player": "mirco mueller",
+    "Team": "s.j"
+  },
+  {
+    "player": "nick cousins",
+    "Team": "phi"
+  },
+  {
+    "player": "nick shore",
+    "Team": "l.a"
+  },
+  {
+    "player": "nikita nesterov",
+    "Team": "t.b"
+  },
+  {
+    "player": "oscar lindberg",
+    "Team": "nyr"
+  },
+  {
+    "player": "patrick brown",
+    "Team": "car"
+  },
+  {
+    "player": "petr straka",
+    "Team": "phi"
+  },
+  {
+    "player": "petteri lindbohm",
+    "Team": "stl"
+  },
+  {
+    "player": "phillip danault",
+    "Team": "chi"
+  },
+  {
+    "player": "raman hrabarenka",
+    "Team": "n.j"
+  },
+  {
+    "player": "rasmus rissanen",
+    "Team": "car"
+  },
+  {
+    "player": "rocco grimaldi",
+    "Team": "fla"
+  },
+  {
+    "player": "ronalds kenins",
+    "Team": "van"
+  },
+  {
+    "player": "ryan bourque",
+    "Team": "nyr"
+  },
+  {
+    "player": "ryan hartman",
+    "Team": "chi"
+  },
+  {
+    "player": "sam bennett",
+    "Team": "cgy"
+  },
+  {
+    "player": "sam carrick",
+    "Team": "tor"
+  },
+  {
+    "player": "sam reinhart",
+    "Team": "buf"
+  },
+  {
+    "player": "scott harrington",
+    "Team": "pit"
+  },
+  {
+    "player": "scott wilson",
+    "Team": "pit"
+  },
+  {
+    "player": "seth griffith",
+    "Team": "bos"
+  },
+  {
+    "player": "seth helgeson",
+    "Team": "n.j"
+  },
+  {
+    "player": "shane prince",
+    "Team": "ott"
+  },
+  {
+    "player": "shayne gostisbehere",
+    "Team": "phi"
+  },
+  {
+    "player": "slater koekkoek",
+    "Team": "t.b"
+  },
+  {
+    "player": "stanislav galiev",
+    "Team": "wsh"
+  },
+  {
+    "player": "stefan noesen",
+    "Team": "ana"
+  },
+  {
+    "player": "stuart percy",
+    "Team": "tor"
+  },
+  {
+    "player": "sven andrighetto",
+    "Team": "mtl"
+  },
+  {
+    "player": "tim schaller",
+    "Team": "buf"
+  },
+  {
+    "player": "tobias rieder",
+    "Team": "ari"
+  },
+  {
+    "player": "trevor van riemsdyk",
+    "Team": "chi"
+  },
+  {
+    "player": "tyler gaudet",
+    "Team": "ari"
+  },
+  {
+    "player": "tyler graovac",
+    "Team": "min"
+  },
+  {
+    "player": "victor rask",
+    "Team": "car"
+  },
+  {
+    "player": "viktor arvidsson",
+    "Team": "nsh"
+  },
+  {
+    "player": "william karlsson",
+    "Team": "ana, cbj"
+  },
+  {
+    "player": "adam pelech",
+    "Team": "nyi"
+  },
+  {
+    "player": "alan quine",
+    "Team": "nyi"
+  },
+  {
+    "player": "alex friesen",
+    "Team": "van"
+  },
+  {
+    "player": "alexandre grenier",
+    "Team": "van"
+  },
+  {
+    "player": "andreas athanasiou",
+    "Team": "det"
+  },
+  {
+    "player": "andreas martinsen",
+    "Team": "col"
+  },
+  {
+    "player": "andrew bodnarchuk",
+    "Team": "cbj, col"
+  },
+  {
+    "player": "andrey pedan",
+    "Team": "van"
+  },
+  {
+    "player": "anthony mantha",
+    "Team": "det"
+  },
+  {
+    "player": "anton slepyshev",
+    "Team": "edm"
+  },
+  {
+    "player": "artemi panarin",
+    "Team": "chi"
+  },
+  {
+    "player": "ben harpur",
+    "Team": "ott"
+  },
+  {
+    "player": "ben hutton",
+    "Team": "van"
+  },
+  {
+    "player": "blake pietila",
+    "Team": "n.j"
+  },
+  {
+    "player": "brady skjei",
+    "Team": "nyr"
+  },
+  {
+    "player": "brandon tanev",
+    "Team": "wpg"
+  },
+  {
+    "player": "brendan gaunce",
+    "Team": "van"
+  },
+  {
+    "player": "brendan leipsic",
+    "Team": "tor"
+  },
+  {
+    "player": "brent regner",
+    "Team": "fla"
+  },
+  {
+    "player": "brett lernout",
+    "Team": "mtl"
+  },
+  {
+    "player": "brett pesce",
+    "Team": "car"
+  },
+  {
+    "player": "brian o'neill",
+    "Team": "n.j"
+  },
+  {
+    "player": "brock mcginn",
+    "Team": "car"
+  },
+  {
+    "player": "buddy robinson",
+    "Team": "ott"
+  },
+  {
+    "player": "byron froese",
+    "Team": "tor"
+  },
+  {
+    "player": "casey nelson",
+    "Team": "buf"
+  },
+  {
+    "player": "chandler stephenson",
+    "Team": "wsh"
+  },
+  {
+    "player": "charles hudon",
+    "Team": "mtl"
+  },
+  {
+    "player": "chase de leo",
+    "Team": "wpg"
+  },
+  {
+    "player": "chris bigras",
+    "Team": "col"
+  },
+  {
+    "player": "chris wideman",
+    "Team": "ott"
+  },
+  {
+    "player": "christoph bertschy",
+    "Team": "min"
+  },
+  {
+    "player": "cole schneider",
+    "Team": "buf"
+  },
+  {
+    "player": "colin miller",
+    "Team": "bos"
+  },
+  {
+    "player": "colton parayko",
+    "Team": "stl"
+  },
+  {
+    "player": "connor brickley",
+    "Team": "fla"
+  },
+  {
+    "player": "connor brown",
+    "Team": "tor"
+  },
+  {
+    "player": "connor mcdavid",
+    "Team": "edm"
+  },
+  {
+    "player": "conor sheary",
+    "Team": "pit"
+  },
+  {
+    "player": "daniel carr",
+    "Team": "mtl"
+  },
+  {
+    "player": "daniel catenacci",
+    "Team": "buf"
+  },
+  {
+    "player": "daniel sprong",
+    "Team": "pit"
+  },
+  {
+    "player": "darren dietz",
+    "Team": "mtl"
+  },
+  {
+    "player": "dean kukan",
+    "Team": "cbj"
+  },
+  {
+    "player": "dennis rasmussen",
+    "Team": "chi"
+  },
+  {
+    "player": "derek forbort",
+    "Team": "l.a"
+  },
+  {
+    "player": "derek ryan",
+    "Team": "car"
+  },
+  {
+    "player": "devin shore",
+    "Team": "dal"
+  },
+  {
+    "player": "dominik simon",
+    "Team": "pit"
+  },
+  {
+    "player": "dylan demelo",
+    "Team": "s.j"
+  },
+  {
+    "player": "dylan larkin",
+    "Team": "det"
+  },
+  {
+    "player": "erik gustafsson",
+    "Team": "chi"
+  },
+  {
+    "player": "esa lindell",
+    "Team": "dal"
+  },
+  {
+    "player": "evan rodrigues",
+    "Team": "buf"
+  },
+  {
+    "player": "frank vatrano",
+    "Team": "bos"
+  },
+  {
+    "player": "fredrik claesson",
+    "Team": "ott"
+  },
+  {
+    "player": "garnet hathaway",
+    "Team": "cgy"
+  },
+  {
+    "player": "gustav olofsson",
+    "Team": "min"
+  },
+  {
+    "player": "hudson fasching",
+    "Team": "buf"
+  },
+  {
+    "player": "hunter shinkaruk",
+    "Team": "cgy, van"
+  },
+  {
+    "player": "jaccob slavin",
+    "Team": "car"
+  },
+  {
+    "player": "jack eichel",
+    "Team": "buf"
+  },
+  {
+    "player": "jake virtanen",
+    "Team": "van"
+  },
+  {
+    "player": "jakub nakladal",
+    "Team": "cgy"
+  },
+  {
+    "player": "jared mccann",
+    "Team": "van"
+  },
+  {
+    "player": "jason dickinson",
+    "Team": "dal"
+  },
+  {
+    "player": "jc lipon",
+    "Team": "wpg"
+  },
+  {
+    "player": "joel edmundson",
+    "Team": "stl"
+  },
+  {
+    "player": "joel hanley",
+    "Team": "mtl"
+  },
+  {
+    "player": "joel vermin",
+    "Team": "t.b"
+  },
+  {
+    "player": "john mcfarland",
+    "Team": "fla"
+  },
+  {
+    "player": "joonas donskoi",
+    "Team": "s.j"
+  },
+  {
+    "player": "joonas kemppainen",
+    "Team": "bos"
+  },
+  {
+    "player": "jordan weal",
+    "Team": "l.a, phi"
+  },
+  {
+    "player": "joseph blandisi",
+    "Team": "n.j"
+  },
+  {
+    "player": "josh archibald",
+    "Team": "pit"
+  },
+  {
+    "player": "jujhar khaira",
+    "Team": "edm"
+  },
+  {
+    "player": "justin bailey",
+    "Team": "buf"
+  },
+  {
+    "player": "kasperi kapanen",
+    "Team": "tor"
+  },
+  {
+    "player": "kevin gravel",
+    "Team": "l.a"
+  },
+  {
+    "player": "kurtis gabriel",
+    "Team": "min"
+  },
+  {
+    "player": "kyle rau",
+    "Team": "fla"
+  },
+  {
+    "player": "laurent dauphin",
+    "Team": "ari"
+  },
+  {
+    "player": "logan shaw",
+    "Team": "fla"
+  },
+  {
+    "player": "mark mcneill",
+    "Team": "chi"
+  },
+  {
+    "player": "mattias janmark",
+    "Team": "dal"
+  },
+  {
+    "player": "max domi",
+    "Team": "ari"
+  },
+  {
+    "player": "max mccormick",
+    "Team": "ott"
+  },
+  {
+    "player": "michael keranen",
+    "Team": "min"
+  },
+  {
+    "player": "michael matheson",
+    "Team": "fla"
+  },
+  {
+    "player": "michael mccarron",
+    "Team": "mtl"
+  },
+  {
+    "player": "michael mersch",
+    "Team": "l.a"
+  },
+  {
+    "player": "mike reilly",
+    "Team": "min"
+  },
+  {
+    "player": "mikko rantanen",
+    "Team": "col"
+  },
+  {
+    "player": "miles wood",
+    "Team": "n.j"
+  },
+  {
+    "player": "morgan ellis",
+    "Team": "mtl"
+  },
+  {
+    "player": "nic dowd",
+    "Team": "l.a"
+  },
+  {
+    "player": "nick ritchie",
+    "Team": "ana"
+  },
+  {
+    "player": "nikita soshnikov",
+    "Team": "tor"
+  },
+  {
+    "player": "nikita tryamkin",
+    "Team": "van"
+  },
+  {
+    "player": "nikolaj ehlers",
+    "Team": "wpg"
+  },
+  {
+    "player": "nikolay goldobin",
+    "Team": "s.j"
+  },
+  {
+    "player": "noah hanifin",
+    "Team": "car"
+  },
+  {
+    "player": "noel acciari",
+    "Team": "bos"
+  },
+  {
+    "player": "oliver bjorkstrand",
+    "Team": "cbj"
+  },
+  {
+    "player": "oliver kylington",
+    "Team": "cgy"
+  },
+  {
+    "player": "oskar sundqvist",
+    "Team": "pit"
+  },
+  {
+    "player": "patrick sieloff",
+    "Team": "cgy"
+  },
+  {
+    "player": "paul thompson",
+    "Team": "n.j"
+  },
+  {
+    "player": "pavel zacha",
+    "Team": "n.j"
+  },
+  {
+    "player": "phillip di giuseppe",
+    "Team": "car"
+  },
+  {
+    "player": "radek faksa",
+    "Team": "dal"
+  },
+  {
+    "player": "rinat valiev",
+    "Team": "tor"
+  },
+  {
+    "player": "robby fabbri",
+    "Team": "stl"
+  },
+  {
+    "player": "ross johnston",
+    "Team": "nyi"
+  },
+  {
+    "player": "ryan carpenter",
+    "Team": "s.j"
+  },
+  {
+    "player": "ryan dzingel",
+    "Team": "ott"
+  },
+  {
+    "player": "ryan johnston",
+    "Team": "mtl"
+  },
+  {
+    "player": "ryan pulock",
+    "Team": "nyi"
+  },
+  {
+    "player": "scott kosmachuk",
+    "Team": "wpg"
+  },
+  {
+    "player": "sergei plotnikov",
+    "Team": "ari, pit"
+  },
+  {
+    "player": "sergey tolchinsky",
+    "Team": "car"
+  },
+  {
+    "player": "shea theodore",
+    "Team": "ana"
+  },
+  {
+    "player": "sonny milano",
+    "Team": "cbj"
+  },
+  {
+    "player": "stephen johns",
+    "Team": "dal"
+  },
+  {
+    "player": "steven santini",
+    "Team": "n.j"
+  },
+  {
+    "player": "tanner kero",
+    "Team": "chi"
+  },
+  {
+    "player": "taylor leier",
+    "Team": "phi"
+  },
+  {
+    "player": "tobias lindberg",
+    "Team": "tor"
+  },
+  {
+    "player": "tomas nosek",
+    "Team": "det"
+  },
+  {
+    "player": "tommy cross",
+    "Team": "bos"
+  },
+  {
+    "player": "trevor carrick",
+    "Team": "car"
+  },
+  {
+    "player": "turner elson",
+    "Team": "cgy"
+  },
+  {
+    "player": "tyler randell",
+    "Team": "bos"
+  },
+  {
+    "player": "viktor svedberg",
+    "Team": "chi"
+  },
+  {
+    "player": "vinnie hinostroza",
+    "Team": "chi"
+  },
+  {
+    "player": "vojtech mozik",
+    "Team": "n.j"
+  },
+  {
+    "player": "william nylander",
+    "Team": "tor"
+  },
+  {
+    "player": "yanni gourde",
+    "Team": "t.b"
+  },
+  {
+    "player": "zach hyman",
+    "Team": "tor"
+  },
+  {
+    "player": "adam erne",
+    "Team": "t.b"
+  },
+  {
+    "player": "adrian kempe",
+    "Team": "l.a"
+  },
+  {
+    "player": "alex tuch",
+    "Team": "min"
+  },
+  {
+    "player": "alexander nylander",
+    "Team": "buf"
+  },
+  {
+    "player": "alexandre carrier",
+    "Team": "nsh"
+  },
+  {
+    "player": "andreas englund",
+    "Team": "ott"
+  },
+  {
+    "player": "andrew poturalski",
+    "Team": "car"
+  },
+  {
+    "player": "anthony beauvillier",
+    "Team": "nyi"
+  },
+  {
+    "player": "anthony deangelo",
+    "Team": "ari"
+  },
+  {
+    "player": "anton blidh",
+    "Team": "bos"
+  },
+  {
+    "player": "anton lindholm",
+    "Team": "col"
+  },
+  {
+    "player": "artturi lehkonen",
+    "Team": "mtl"
+  },
+  {
+    "player": "austin czarnik",
+    "Team": "bos"
+  },
+  {
+    "player": "auston matthews",
+    "Team": "tor"
+  },
+  {
+    "player": "ben thomson",
+    "Team": "n.j"
+  },
+  {
+    "player": "blake coleman",
+    "Team": "n.j"
+  },
+  {
+    "player": "blake speers",
+    "Team": "n.j"
+  },
+  {
+    "player": "brady austin",
+    "Team": "buf"
+  },
+  {
+    "player": "brandon carlo",
+    "Team": "bos"
+  },
+  {
+    "player": "brandon montour",
+    "Team": "ana"
+  },
+  {
+    "player": "brayden point",
+    "Team": "t.b"
+  },
+  {
+    "player": "brendan guhle",
+    "Team": "buf"
+  },
+  {
+    "player": "brendan perlini",
+    "Team": "ari"
+  },
+  {
+    "player": "brock boeser",
+    "Team": "van"
+  },
+  {
+    "player": "c.j. smith",
+    "Team": "buf"
+  },
+  {
+    "player": "carter rowney",
+    "Team": "pit"
+  },
+  {
+    "player": "christian dvorak",
+    "Team": "ari"
+  },
+  {
+    "player": "christian fischer",
+    "Team": "ari"
+  },
+  {
+    "player": "clayton keller",
+    "Team": "ari"
+  },
+  {
+    "player": "connor jones",
+    "Team": "nyi"
+  },
+  {
+    "player": "cristoval nieves",
+    "Team": "nyr"
+  },
+  {
+    "player": "danton heinen",
+    "Team": "bos"
+  },
+  {
+    "player": "denis gurianov",
+    "Team": "dal"
+  },
+  {
+    "player": "denis malgin",
+    "Team": "fla"
+  },
+  {
+    "player": "dillon simpson",
+    "Team": "edm"
+  },
+  {
+    "player": "drake caggiula",
+    "Team": "edm"
+  },
+  {
+    "player": "dylan strome",
+    "Team": "ari"
+  },
+  {
+    "player": "erik burgdoerfer",
+    "Team": "buf"
+  },
+  {
+    "player": "evan mceneny",
+    "Team": "van"
+  },
+  {
+    "player": "evgeny svechnikov",
+    "Team": "det"
+  },
+  {
+    "player": "gabriel carlsson",
+    "Team": "cbj"
+  },
+  {
+    "player": "garrett mitchell",
+    "Team": "wsh"
+  },
+  {
+    "player": "gemel smith",
+    "Team": "dal"
+  },
+  {
+    "player": "griffen molino",
+    "Team": "van"
+  },
+  {
+    "player": "gustav forsling",
+    "Team": "chi"
+  },
+  {
+    "player": "ian mccoshen",
+    "Team": "fla"
+  },
+  {
+    "player": "ivan barbashev",
+    "Team": "stl"
+  },
+  {
+    "player": "ivan provorov",
+    "Team": "phi"
+  },
+  {
+    "player": "j.t. compher",
+    "Team": "col"
+  },
+  {
+    "player": "jack roslovic",
+    "Team": "wpg"
+  },
+  {
+    "player": "jacob larsson",
+    "Team": "ana"
+  },
+  {
+    "player": "jake dotchin",
+    "Team": "t.b"
+  },
+  {
+    "player": "jake guentzel",
+    "Team": "pit"
+  },
+  {
+    "player": "jakob chychrun",
+    "Team": "ari"
+  },
+  {
+    "player": "jakob forsbacka karlsson",
+    "Team": "bos"
+  },
+  {
+    "player": "jaycob megna",
+    "Team": "ana"
+  },
+  {
+    "player": "jimmy vesey",
+    "Team": "nyr"
+  },
+  {
+    "player": "joel eriksson ek",
+    "Team": "min"
+  },
+  {
+    "player": "john hayden",
+    "Team": "chi"
+  },
+  {
+    "player": "john quenneville",
+    "Team": "n.j"
+  },
+  {
+    "player": "jonny brodzinski",
+    "Team": "l.a"
+  },
+  {
+    "player": "jordan schmaltz",
+    "Team": "stl"
+  },
+  {
+    "player": "joseph cramarossa",
+    "Team": "ana, van"
+  },
+  {
+    "player": "joseph labate",
+    "Team": "van"
+  },
+  {
+    "player": "joshua ho-sang",
+    "Team": "nyi"
+  },
+  {
+    "player": "julius honka",
+    "Team": "dal"
+  },
+  {
+    "player": "justin dowling",
+    "Team": "dal"
+  },
+  {
+    "player": "kalle kossila",
+    "Team": "ana"
+  },
+  {
+    "player": "kevin labanc",
+    "Team": "s.j"
+  },
+  {
+    "player": "kevin rooney",
+    "Team": "n.j"
+  },
+  {
+    "player": "kyle connor",
+    "Team": "wpg"
+  },
+  {
+    "player": "lawson crouse",
+    "Team": "ari"
+  },
+  {
+    "player": "lucas wallmark",
+    "Team": "car"
+  },
+  {
+    "player": "lukas sedlak",
+    "Team": "cbj"
+  },
+  {
+    "player": "mackenzie weegar",
+    "Team": "fla"
+  },
+  {
+    "player": "mark jankowski",
+    "Team": "cgy"
+  },
+  {
+    "player": "markus nutivaara",
+    "Team": "cbj"
+  },
+  {
+    "player": "martin frk",
+    "Team": "car"
+  },
+  {
+    "player": "mathew barzal",
+    "Team": "nyi"
+  },
+  {
+    "player": "matt grzelcyk",
+    "Team": "bos"
+  },
+  {
+    "player": "matt lorito",
+    "Team": "det"
+  },
+  {
+    "player": "matthew benning",
+    "Team": "edm"
+  },
+  {
+    "player": "matthew peca",
+    "Team": "t.b"
+  },
+  {
+    "player": "matthew tkachuk",
+    "Team": "cgy"
+  },
+  {
+    "player": "michael kapla",
+    "Team": "n.j"
+  },
+  {
+    "player": "mikhail sergachev",
+    "Team": "mtl"
+  },
+  {
+    "player": "mitchell marner",
+    "Team": "tor"
+  },
+  {
+    "player": "nelson nogier",
+    "Team": "wpg"
+  },
+  {
+    "player": "nicholas baptiste",
+    "Team": "buf"
+  },
+  {
+    "player": "nick jensen",
+    "Team": "det"
+  },
+  {
+    "player": "nick lappin",
+    "Team": "n.j"
+  },
+  {
+    "player": "nick schmaltz",
+    "Team": "chi"
+  },
+  {
+    "player": "nicolas kerdiles",
+    "Team": "ana"
+  },
+  {
+    "player": "nikita scherbak",
+    "Team": "mtl"
+  },
+  {
+    "player": "nikita zaitsev",
+    "Team": "tor"
+  },
+  {
+    "player": "ondrej kase",
+    "Team": "ana"
+  },
+  {
+    "player": "patrick cannone",
+    "Team": "min"
+  },
+  {
+    "player": "patrik laine",
+    "Team": "wpg"
+  },
+  {
+    "player": "paul ladue",
+    "Team": "l.a"
+  },
+  {
+    "player": "pavel buchnevich",
+    "Team": "nyr"
+  },
+  {
+    "player": "rasmus andersson",
+    "Team": "cgy"
+  },
+  {
+    "player": "remi elie",
+    "Team": "dal"
+  },
+  {
+    "player": "riley barber",
+    "Team": "wsh"
+  },
+  {
+    "player": "rob o'gara",
+    "Team": "bos"
+  },
+  {
+    "player": "robbie russo",
+    "Team": "det"
+  },
+  {
+    "player": "roman lyubimov",
+    "Team": "phi"
+  },
+  {
+    "player": "samuel morin",
+    "Team": "phi"
+  },
+  {
+    "player": "sean kuraly",
+    "Team": "bos"
+  },
+  {
+    "player": "sean malone",
+    "Team": "buf"
+  },
+  {
+    "player": "sebastian aho",
+    "Team": "car"
+  },
+  {
+    "player": "shane harper",
+    "Team": "fla"
+  },
+  {
+    "player": "tanner richard",
+    "Team": "t.b"
+  },
+  {
+    "player": "thomas chabot",
+    "Team": "ott"
+  },
+  {
+    "player": "tim heed",
+    "Team": "s.j"
+  },
+  {
+    "player": "timo meier",
+    "Team": "s.j"
+  },
+  {
+    "player": "travis konecny",
+    "Team": "phi"
+  },
+  {
+    "player": "troy stecher",
+    "Team": "van"
+  },
+  {
+    "player": "tyler bertuzzi",
+    "Team": "det"
+  },
+  {
+    "player": "tyler motte",
+    "Team": "chi"
+  },
+  {
+    "player": "tyson jost",
+    "Team": "col"
+  },
+  {
+    "player": "valentin zykov",
+    "Team": "car"
+  },
+  {
+    "player": "vladislav kamenev",
+    "Team": "nsh"
+  },
+  {
+    "player": "wade megan",
+    "Team": "stl"
+  },
+  {
+    "player": "william carrier",
+    "Team": "buf"
+  },
+  {
+    "player": "yohann auvitu",
+    "Team": "n.j"
+  },
+  {
+    "player": "zack mitchell",
+    "Team": "min"
+  },
+  {
+    "player": "adam gaudette",
+    "Team": "van"
+  },
+  {
+    "player": "alex broadhurst",
+    "Team": "cbj"
+  },
+  {
+    "player": "alex debrincat",
+    "Team": "chi"
+  },
+  {
+    "player": "alex formenton",
+    "Team": "ott"
+  },
+  {
+    "player": "alex iafallo",
+    "Team": "l.a"
+  },
+  {
+    "player": "alexander kerfoot",
+    "Team": "col"
+  },
+  {
+    "player": "anders bjork",
+    "Team": "bos"
+  },
+  {
+    "player": "andreas borgman",
+    "Team": "tor"
+  },
+  {
+    "player": "andreas johnsson",
+    "Team": "tor"
+  },
+  {
+    "player": "andrei mironov",
+    "Team": "col"
+  },
+  {
+    "player": "andrew crescenzi",
+    "Team": "l.a"
+  },
+  {
+    "player": "andrew mangiapane",
+    "Team": "cgy"
+  },
+  {
+    "player": "andy welinski",
+    "Team": "ana"
+  },
+  {
+    "player": "anthony cirelli",
+    "Team": "t.b"
+  },
+  {
+    "player": "ashton sautner",
+    "Team": "van"
+  },
+  {
+    "player": "ben sexton",
+    "Team": "ott"
+  },
+  {
+    "player": "blake hillman",
+    "Team": "chi"
+  },
+  {
+    "player": "brendan lemieux",
+    "Team": "wpg"
+  },
+  {
+    "player": "carson soucy",
+    "Team": "min"
+  },
+  {
+    "player": "casey mittelstadt",
+    "Team": "buf"
+  },
+  {
+    "player": "charlie mcavoy",
+    "Team": "bos"
+  },
+  {
+    "player": "chase balisy",
+    "Team": "fla"
+  },
+  {
+    "player": "christian djoos",
+    "Team": "wsh"
+  },
+  {
+    "player": "christian jaros",
+    "Team": "ott"
+  },
+  {
+    "player": "christian wolanin",
+    "Team": "ott"
+  },
+  {
+    "player": "colby cave",
+    "Team": "bos"
+  },
+  {
+    "player": "curtis valk",
+    "Team": "fla"
+  },
+  {
+    "player": "dakota mermis",
+    "Team": "ari"
+  },
+  {
+    "player": "danick martel",
+    "Team": "phi"
+  },
+  {
+    "player": "daniel brickley",
+    "Team": "l.a"
+  },
+  {
+    "player": "dillon heatherington",
+    "Team": "dal"
+  },
+  {
+    "player": "dominic toninato",
+    "Team": "col"
+  },
+  {
+    "player": "dominic turgeon",
+    "Team": "det"
+  },
+  {
+    "player": "dryden hunt",
+    "Team": "fla"
+  },
+  {
+    "player": "dylan gambrell",
+    "Team": "s.j"
+  },
+  {
+    "player": "dylan sikura",
+    "Team": "chi"
+  },
+  {
+    "player": "eeli tolvanen",
+    "Team": "nsh"
+  },
+  {
+    "player": "eric robinson",
+    "Team": "cbj"
+  },
+  {
+    "player": "ethan bear",
+    "Team": "edm"
+  },
+  {
+    "player": "filip chlapik",
+    "Team": "ott"
+  },
+  {
+    "player": "filip chytil",
+    "Team": "nyr"
+  },
+  {
+    "player": "giovanni fiore",
+    "Team": "ana"
+  },
+  {
+    "player": "haydn fleury",
+    "Team": "car"
+  },
+  {
+    "player": "henrik haapala",
+    "Team": "fla"
+  },
+  {
+    "player": "jack rodewald",
+    "Team": "ott"
+  },
+  {
+    "player": "jake debrusk",
+    "Team": "bos"
+  },
+  {
+    "player": "jan rutta",
+    "Team": "chi"
+  },
+  {
+    "player": "janne kuokkanen",
+    "Team": "car"
+  },
+  {
+    "player": "jesper bratt",
+    "Team": "n.j"
+  },
+  {
+    "player": "joakim ryan",
+    "Team": "s.j"
+  },
+  {
+    "player": "joe hicketts",
+    "Team": "det"
+  },
+  {
+    "player": "john gilmour",
+    "Team": "nyr"
+  },
+  {
+    "player": "jordan greenway",
+    "Team": "min"
+  },
+  {
+    "player": "justin auger",
+    "Team": "l.a"
+  },
+  {
+    "player": "justin holl",
+    "Team": "tor"
+  },
+  {
+    "player": "justin kloos",
+    "Team": "min"
+  },
+  {
+    "player": "kailer yamamoto",
+    "Team": "edm"
+  },
+  {
+    "player": "kevin roy",
+    "Team": "ana"
+  },
+  {
+    "player": "kurtis macdermid",
+    "Team": "l.a"
+  },
+  {
+    "player": "kyle capobianco",
+    "Team": "ari"
+  },
+  {
+    "player": "kyle criscuolo",
+    "Team": "buf"
+  },
+  {
+    "player": "lias andersson",
+    "Team": "nyr"
+  },
+  {
+    "player": "logan brown",
+    "Team": "ott"
+  },
+  {
+    "player": "luke kunin",
+    "Team": "min"
+  },
+  {
+    "player": "madison bowey",
+    "Team": "wsh"
+  },
+  {
+    "player": "marcus pettersson",
+    "Team": "ana"
+  },
+  {
+    "player": "mario kempe",
+    "Team": "ari"
+  },
+  {
+    "player": "martin necas",
+    "Team": "car"
+  },
+  {
+    "player": "matthew highmore",
+    "Team": "chi"
+  },
+  {
+    "player": "maxim mamin",
+    "Team": "fla"
+  },
+  {
+    "player": "michael amadio",
+    "Team": "l.a"
+  },
+  {
+    "player": "michael dal colle",
+    "Team": "nyi"
+  },
+  {
+    "player": "mitch reinke",
+    "Team": "stl"
+  },
+  {
+    "player": "morgan klimchuk",
+    "Team": "cgy"
+  },
+  {
+    "player": "nathan walker",
+    "Team": "edm, wsh"
+  },
+  {
+    "player": "neal pionk",
+    "Team": "nyr"
+  },
+  {
+    "player": "nick seeler",
+    "Team": "min"
+  },
+  {
+    "player": "nico hischier",
+    "Team": "n.j"
+  },
+  {
+    "player": "nicolas roy",
+    "Team": "car"
+  },
+  {
+    "player": "noah juulsen",
+    "Team": "mtl"
+  },
+  {
+    "player": "nolan patrick",
+    "Team": "phi"
+  },
+  {
+    "player": "oscar fantenberg",
+    "Team": "l.a"
+  },
+  {
+    "player": "oskar lindblom",
+    "Team": "phi"
+  },
+  {
+    "player": "owen tippett",
+    "Team": "fla"
+  },
+  {
+    "player": "philip holm",
+    "Team": "van"
+  },
+  {
+    "player": "pierre-luc dubois",
+    "Team": "cbj"
+  },
+  {
+    "player": "roland mckeown",
+    "Team": "car"
+  },
+  {
+    "player": "ryan donato",
+    "Team": "bos"
+  },
+  {
+    "player": "sami niku",
+    "Team": "wpg"
+  },
+  {
+    "player": "samuel girard",
+    "Team": "col, nsh"
+  },
+  {
+    "player": "shane gersich",
+    "Team": "wsh"
+  },
+  {
+    "player": "spencer foo",
+    "Team": "cgy"
+  },
+  {
+    "player": "steven fogarty",
+    "Team": "nyr"
+  },
+  {
+    "player": "tage thompson",
+    "Team": "stl"
+  },
+  {
+    "player": "tanner fritz",
+    "Team": "nyi"
+  },
+  {
+    "player": "tomas hyka",
+    "Team": "vgk"
+  },
+  {
+    "player": "travis boyd",
+    "Team": "wsh"
+  },
+  {
+    "player": "travis dermott",
+    "Team": "tor"
+  },
+  {
+    "player": "travis sanheim",
+    "Team": "phi"
+  },
+  {
+    "player": "trevor murphy",
+    "Team": "ari"
+  },
+  {
+    "player": "troy terry",
+    "Team": "ana"
+  },
+  {
+    "player": "tucker poolman",
+    "Team": "wpg"
+  },
+  {
+    "player": "tyrell goulbourne",
+    "Team": "phi"
+  },
+  {
+    "player": "vadim shipachyov",
+    "Team": "vgk"
+  },
+  {
+    "player": "victor antipin",
+    "Team": "buf"
+  },
+  {
+    "player": "victor ejdsell",
+    "Team": "chi"
+  },
+  {
+    "player": "victor mete",
+    "Team": "mtl"
+  },
+  {
+    "player": "vince dunn",
+    "Team": "stl"
+  },
+  {
+    "player": "vinni lettieri",
+    "Team": "nyr"
+  },
+  {
+    "player": "warren foegele",
+    "Team": "car"
+  },
+  {
+    "player": "will butcher",
+    "Team": "n.j"
+  },
+  {
+    "player": "will o'neill",
+    "Team": "phi"
+  },
+  {
+    "player": "zach aston-reese",
+    "Team": "pit"
+  },
+  {
+    "player": "zach whitecloud",
+    "Team": "vgk"
+  },
+  {
+    "player": "adam johnson",
+    "Team": "pit"
+  },
+  {
+    "player": "alexandre fortin",
+    "Team": "chi"
+  },
+  {
+    "player": "alexandre texier",
+    "Team": "cbj"
+  },
+  {
+    "player": "andrei svechnikov",
+    "Team": "car"
+  },
+  {
+    "player": "anthony greco",
+    "Team": "fla"
+  },
+  {
+    "player": "anthony richard",
+    "Team": "nsh"
+  },
+  {
+    "player": "antti suomela",
+    "Team": "s.j"
+  },
+  {
+    "player": "austin wagner",
+    "Team": "l.a"
+  },
+  {
+    "player": "blake lizotte",
+    "Team": "l.a"
+  },
+  {
+    "player": "bogdan kiselevich",
+    "Team": "fla"
+  },
+  {
+    "player": "brady keeper",
+    "Team": "fla"
+  },
+  {
+    "player": "brady tkachuk",
+    "Team": "ott"
+  },
+  {
+    "player": "brandon gignac",
+    "Team": "n.j"
+  },
+  {
+    "player": "brett howden",
+    "Team": "nyr"
+  },
+  {
+    "player": "brett seney",
+    "Team": "n.j"
+  },
+  {
+    "player": "brogan rafferty",
+    "Team": "van"
+  },
+  {
+    "player": "caleb jones",
+    "Team": "edm"
+  },
+  {
+    "player": "christoffer ehn",
+    "Team": "det"
+  },
+  {
+    "player": "clark bishop",
+    "Team": "car"
+  },
+  {
+    "player": "colin blackwell",
+    "Team": "nsh"
+  },
+  {
+    "player": "colton white",
+    "Team": "n.j"
+  },
+  {
+    "player": "connor clifton",
+    "Team": "bos"
+  },
+  {
+    "player": "conor garland",
+    "Team": "ari"
+  },
+  {
+    "player": "cooper marody",
+    "Team": "edm"
+  },
+  {
+    "player": "danny o'regan",
+    "Team": "buf"
+  },
+  {
+    "player": "dante fabbro",
+    "Team": "nsh"
+  },
+  {
+    "player": "dennis cholowski",
+    "Team": "det"
+  },
+  {
+    "player": "dennis gilbert",
+    "Team": "chi"
+  },
+  {
+    "player": "devon toews",
+    "Team": "nyi"
+  },
+  {
+    "player": "dominik kahun",
+    "Team": "chi"
+  },
+  {
+    "player": "drake batherson",
+    "Team": "ott"
+  },
+  {
+    "player": "egor yakovlev",
+    "Team": "n.j"
+  },
+  {
+    "player": "elias pettersson",
+    "Team": "van"
+  },
+  {
+    "player": "erik cernak",
+    "Team": "t.b"
+  },
+  {
+    "player": "evan bouchard",
+    "Team": "edm"
+  },
+  {
+    "player": "filip hronek",
+    "Team": "det"
+  },
+  {
+    "player": "filip zadina",
+    "Team": "det"
+  },
+  {
+    "player": "gavin bayreuther",
+    "Team": "dal"
+  },
+  {
+    "player": "guillaume brisebois",
+    "Team": "van"
+  },
+  {
+    "player": "henri jokiharju",
+    "Team": "chi"
+  },
+  {
+    "player": "igor ozhiganov",
+    "Team": "tor"
+  },
+  {
+    "player": "ilya lyubushkin",
+    "Team": "ari"
+  },
+  {
+    "player": "jacob macdonald",
+    "Team": "fla"
+  },
+  {
+    "player": "jacob nilsson",
+    "Team": "chi"
+  },
+  {
+    "player": "jake bean",
+    "Team": "car"
+  },
+  {
+    "player": "jake chelios",
+    "Team": "det"
+  },
+  {
+    "player": "jakub zboril",
+    "Team": "bos"
+  },
+  {
+    "player": "jaret anderson-dolan",
+    "Team": "l.a"
+  },
+  {
+    "player": "jayce hawryluk",
+    "Team": "fla"
+  },
+  {
+    "player": "jesperi kotkaniemi",
+    "Team": "mtl"
+  },
+  {
+    "player": "jimmy schuldt",
+    "Team": "vgk"
+  },
+  {
+    "player": "joel l'esperance",
+    "Team": "dal"
+  },
+  {
+    "player": "joey anderson",
+    "Team": "n.j"
+  },
+  {
+    "player": "jonas siegenthaler",
+    "Team": "wsh"
+  },
+  {
+    "player": "jordan kyrou",
+    "Team": "stl"
+  },
+  {
+    "player": "joseph gambardella",
+    "Team": "edm"
+  },
+  {
+    "player": "josh currie",
+    "Team": "edm"
+  },
+  {
+    "player": "josh jacobs",
+    "Team": "n.j"
+  },
+  {
+    "player": "josh mahura",
+    "Team": "ana"
+  },
+  {
+    "player": "josh teves",
+    "Team": "van"
+  },
+  {
+    "player": "juho lammikko",
+    "Team": "fla"
+  },
+  {
+    "player": "juuso riikola",
+    "Team": "pit"
+  },
+  {
+    "player": "karson kuhlman",
+    "Team": "bos"
+  },
+  {
+    "player": "kevin stenlund",
+    "Team": "cbj"
+  },
+  {
+    "player": "kole sherwood",
+    "Team": "cbj"
+  },
+  {
+    "player": "kristian vesalainen",
+    "Team": "wpg"
+  },
+  {
+    "player": "lawrence pilut",
+    "Team": "buf"
+  },
+  {
+    "player": "libor sulak",
+    "Team": "det"
+  },
+  {
+    "player": "logan o'connor",
+    "Team": "col"
+  },
+  {
+    "player": "lukas radil",
+    "Team": "s.j"
+  },
+  {
+    "player": "luke johnson",
+    "Team": "chi"
+  },
+  {
+    "player": "mackenzie maceachern",
+    "Team": "stl"
+  },
+  {
+    "player": "mark friedman",
+    "Team": "phi"
+  },
+  {
+    "player": "mason appleton",
+    "Team": "wpg"
+  },
+  {
+    "player": "mathieu joseph",
+    "Team": "t.b"
+  },
+  {
+    "player": "matt luff",
+    "Team": "l.a"
+  },
+  {
+    "player": "matt roy",
+    "Team": "l.a"
+  },
+  {
+    "player": "max jones",
+    "Team": "ana"
+  },
+  {
+    "player": "max veronneau",
+    "Team": "ott"
+  },
+  {
+    "player": "maxime lajoie",
+    "Team": "ott"
+  },
+  {
+    "player": "michael bunting",
+    "Team": "ari"
+  },
+  {
+    "player": "michael mcleod",
+    "Team": "n.j"
+  },
+  {
+    "player": "michael rasmussen",
+    "Team": "det"
+  },
+  {
+    "player": "miro heiskanen",
+    "Team": "dal"
+  },
+  {
+    "player": "nathan bastian",
+    "Team": "n.j"
+  },
+  {
+    "player": "nico sturm",
+    "Team": "min"
+  },
+  {
+    "player": "patrick russell",
+    "Team": "edm"
+  },
+  {
+    "player": "philippe myers",
+    "Team": "phi"
+  },
+  {
+    "player": "quinn hughes",
+    "Team": "van"
+  },
+  {
+    "player": "radim simek",
+    "Team": "s.j"
+  },
+  {
+    "player": "rasmus dahlin",
+    "Team": "buf"
+  },
+  {
+    "player": "rem pitlick",
+    "Team": "nsh"
+  },
+  {
+    "player": "riley stillman",
+    "Team": "fla"
+  },
+  {
+    "player": "robert thomas",
+    "Team": "stl"
+  },
+  {
+    "player": "roope hintz",
+    "Team": "dal"
+  },
+  {
+    "player": "rourke chartier",
+    "Team": "s.j"
+  },
+  {
+    "player": "ryan graves",
+    "Team": "col"
+  },
+  {
+    "player": "ryan kuffner",
+    "Team": "det"
+  },
+  {
+    "player": "ryan lindgren",
+    "Team": "nyr"
+  },
+  {
+    "player": "ryan poehling",
+    "Team": "mtl"
+  },
+  {
+    "player": "saku maenalanen",
+    "Team": "car"
+  },
+  {
+    "player": "sam steel",
+    "Team": "ana"
+  },
+  {
+    "player": "sean walker",
+    "Team": "l.a"
+  },
+  {
+    "player": "sheldon dries",
+    "Team": "col"
+  },
+  {
+    "player": "sheldon rempal",
+    "Team": "l.a"
+  },
+  {
+    "player": "taro hirose",
+    "Team": "det"
+  },
+  {
+    "player": "teddy blueger",
+    "Team": "pit"
+  },
+  {
+    "player": "trent frederic",
+    "Team": "bos"
+  },
+  {
+    "player": "trevor moore",
+    "Team": "tor"
+  },
+  {
+    "player": "tyler lewington",
+    "Team": "wsh"
+  },
+  {
+    "player": "urho vaakanainen",
+    "Team": "bos"
+  },
+  {
+    "player": "victor olofsson",
+    "Team": "buf"
+  },
+  {
+    "player": "vitaly abramov",
+    "Team": "ott"
+  },
+  {
+    "player": "william borgen",
+    "Team": "buf"
+  },
+  {
+    "player": "zach senyshyn",
+    "Team": "bos"
+  },
+  {
+    "player": "zack macewen",
+    "Team": "van"
+  },
+  {
+    "player": "adam boqvist",
+    "Team": "chi"
+  },
+  {
+    "player": "adam brooks",
+    "Team": "tor"
+  },
+  {
+    "player": "adam fox",
+    "Team": "nyr"
+  },
+  {
+    "player": "aleksi saarela",
+    "Team": "fla"
+  },
+  {
+    "player": "alexander volkov",
+    "Team": "t.b"
+  },
+  {
+    "player": "alexander yelesin",
+    "Team": "cgy"
+  },
+  {
+    "player": "andrei chibisov",
+    "Team": "wpg"
+  },
+  {
+    "player": "andrew peeke",
+    "Team": "cbj"
+  },
+  {
+    "player": "anthony angello",
+    "Team": "pit"
+  },
+  {
+    "player": "anton wedin",
+    "Team": "chi"
+  },
+  {
+    "player": "austin poganski",
+    "Team": "stl"
+  },
+  {
+    "player": "barrett hayton",
+    "Team": "ari"
+  },
+  {
+    "player": "beck malenstyn",
+    "Team": "wsh"
+  },
+  {
+    "player": "brandon hagel",
+    "Team": "chi"
+  },
+  {
+    "player": "brennan menell",
+    "Team": "min"
+  },
+  {
+    "player": "cale fleury",
+    "Team": "mtl"
+  },
+  {
+    "player": "cale makar",
+    "Team": "col"
+  },
+  {
+    "player": "cameron hughes",
+    "Team": "bos"
+  },
+  {
+    "player": "carsen twarynski",
+    "Team": "phi"
+  },
+  {
+    "player": "carter verhaeghe",
+    "Team": "t.b"
+  },
+  {
+    "player": "cody glass",
+    "Team": "vgk"
+  },
+  {
+    "player": "cole bardreau",
+    "Team": "nyi"
+  },
+  {
+    "player": "connor bunnaman",
+    "Team": "phi"
+  },
+  {
+    "player": "conor timmins",
+    "Team": "col"
+  },
+  {
+    "player": "dalton smith",
+    "Team": "buf"
+  },
+  {
+    "player": "danil yurtaykin",
+    "Team": "s.j"
+  },
+  {
+    "player": "david gustafsson",
+    "Team": "wpg"
+  },
+  {
+    "player": "david kase",
+    "Team": "phi"
+  },
+  {
+    "player": "dmytro timashov",
+    "Team": "det, tor"
+  },
+  {
+    "player": "dominik kubalik",
+    "Team": "chi"
+  },
+  {
+    "player": "eetu luostarinen",
+    "Team": "car"
+  },
+  {
+    "player": "gabriel vilardi",
+    "Team": "l.a"
+  },
+  {
+    "player": "gage quinney",
+    "Team": "vgk"
+  },
+  {
+    "player": "gerald mayhew",
+    "Team": "min"
+  },
+  {
+    "player": "german rubtsov",
+    "Team": "phi"
+  },
+  {
+    "player": "ilya mikheyev",
+    "Team": "tor"
+  },
+  {
+    "player": "j.c. beaudin",
+    "Team": "ott"
+  },
+  {
+    "player": "jack hughes",
+    "Team": "n.j"
+  },
+  {
+    "player": "jack studnicka",
+    "Team": "bos"
+  },
+  {
+    "player": "jake bischoff",
+    "Team": "vgk"
+  },
+  {
+    "player": "jake evans",
+    "Team": "mtl"
+  },
+  {
+    "player": "jake walman",
+    "Team": "stl"
+  },
+  {
+    "player": "jakob lilja",
+    "Team": "cbj"
+  },
+  {
+    "player": "jansen harkins",
+    "Team": "wpg"
+  },
+  {
+    "player": "jason robertson",
+    "Team": "dal"
+  },
+  {
+    "player": "jesper boqvist",
+    "Team": "n.j"
+  },
+  {
+    "player": "joachim blichfeld",
+    "Team": "s.j"
+  },
+  {
+    "player": "joel farabee",
+    "Team": "phi"
+  },
+  {
+    "player": "joel kellman",
+    "Team": "s.j"
+  },
+  {
+    "player": "joel kiviranta",
+    "Team": "dal"
+  },
+  {
+    "player": "joel persson",
+    "Team": "edm"
+  },
+  {
+    "player": "john marino",
+    "Team": "pit"
+  },
+  {
+    "player": "jonathan davidsson",
+    "Team": "ott"
+  },
+  {
+    "player": "joona luoto",
+    "Team": "wpg"
+  },
+  {
+    "player": "jordan gross",
+    "Team": "ari"
+  },
+  {
+    "player": "julien gauthier",
+    "Team": "car, nyr"
+  },
+  {
+    "player": "kaapo kakko",
+    "Team": "nyr"
+  },
+  {
+    "player": "kale clague",
+    "Team": "l.a"
+  },
+  {
+    "player": "keegan kolesar",
+    "Team": "vgk"
+  },
+  {
+    "player": "kieffer bellows",
+    "Team": "nyi"
+  },
+  {
+    "player": "kirby dach",
+    "Team": "chi"
+  },
+  {
+    "player": "klim kostin",
+    "Team": "stl"
+  },
+  {
+    "player": "lean bergmann",
+    "Team": "s.j"
+  },
+  {
+    "player": "liam foudy",
+    "Team": "cbj"
+  },
+  {
+    "player": "lucas carlsson",
+    "Team": "chi"
+  },
+  {
+    "player": "lukas vejdemo",
+    "Team": "mtl"
+  },
+  {
+    "player": "mario ferraro",
+    "Team": "s.j"
+  },
+  {
+    "player": "martin kaut",
+    "Team": "col"
+  },
+  {
+    "player": "mason marchment",
+    "Team": "tor"
+  },
+  {
+    "player": "mathieu olivier",
+    "Team": "nsh"
+  },
+  {
+    "player": "maxim letunov",
+    "Team": "s.j"
+  },
+  {
+    "player": "mitchell stephens",
+    "Team": "t.b"
+  },
+  {
+    "player": "morgan frost",
+    "Team": "phi"
+  },
+  {
+    "player": "morgan geekie",
+    "Team": "car"
+  },
+  {
+    "player": "nick suzuki",
+    "Team": "mtl"
+  },
+  {
+    "player": "nicolas hague",
+    "Team": "vgk"
+  },
+  {
+    "player": "nikita gusev",
+    "Team": "n.j"
+  },
+  {
+    "player": "niko mikkola",
+    "Team": "stl"
+  },
+  {
+    "player": "nikolai prokhorkin",
+    "Team": "l.a"
+  },
+  {
+    "player": "noah dobson",
+    "Team": "nyi"
+  },
+  {
+    "player": "noah gregor",
+    "Team": "s.j"
+  },
+  {
+    "player": "oliver wahlstrom",
+    "Team": "nyi"
+  },
+  {
+    "player": "otto koivula",
+    "Team": "nyi"
+  },
+  {
+    "player": "otto leskinen",
+    "Team": "mtl"
+  },
+  {
+    "player": "pierre engvall",
+    "Team": "tor"
+  },
+  {
+    "player": "rasmus asplund",
+    "Team": "buf"
+  },
+  {
+    "player": "rasmus sandin",
+    "Team": "tor"
+  },
+  {
+    "player": "rhett gardner",
+    "Team": "dal"
+  },
+  {
+    "player": "ryan macinnis",
+    "Team": "cbj"
+  },
+  {
+    "player": "sam lafferty",
+    "Team": "pit"
+  },
+  {
+    "player": "scott sabourin",
+    "Team": "ott"
+  },
+  {
+    "player": "t.j. tynan",
+    "Team": "col"
+  },
+  {
+    "player": "tim gettinger",
+    "Team": "nyr"
+  },
+  {
+    "player": "timothy liljegren",
+    "Team": "tor"
+  },
+  {
+    "player": "tyler benson",
+    "Team": "edm"
+  },
+  {
+    "player": "vladislav gavrikov",
+    "Team": "cbj"
+  },
+  {
+    "player": "william lagesson",
+    "Team": "edm"
+  },
+  {
+    "player": "yakov trenin",
+    "Team": "nsh"
+  },
+  {
+    "player": "adam ruzicka",
+    "Team": "cgy"
+  },
+  {
+    "player": "alec regula",
+    "Team": "chi"
+  },
+  {
+    "player": "aleksi heponiemi",
+    "Team": "fla"
+  },
+  {
+    "player": "alex belzile",
+    "Team": "mtl"
+  },
+  {
+    "player": "alex newhook",
+    "Team": "col"
+  },
+  {
+    "player": "alexander barabanov",
+    "Team": "s.j, tor"
+  },
+  {
+    "player": "alexander chmelevski",
+    "Team": "s.j"
+  },
+  {
+    "player": "alexander romanov",
+    "Team": "mtl"
+  },
+  {
+    "player": "alexis lafreni\u00e8re",
+    "Team": "nyr"
+  },
+  {
+    "player": "artem zub",
+    "Team": "ott"
+  },
+  {
+    "player": "arthur kaliyev",
+    "Team": "l.a"
+  },
+  {
+    "player": "arttu ruotsalainen",
+    "Team": "buf"
+  },
+  {
+    "player": "austin strand",
+    "Team": "l.a"
+  },
+  {
+    "player": "ben thomas",
+    "Team": "t.b"
+  },
+  {
+    "player": "bowen byram",
+    "Team": "col"
+  },
+  {
+    "player": "brett murray",
+    "Team": "buf"
+  },
+  {
+    "player": "brinson pasichnuk",
+    "Team": "s.j"
+  },
+  {
+    "player": "cal foote",
+    "Team": "t.b"
+  },
+  {
+    "player": "calen addison",
+    "Team": "min"
+  },
+  {
+    "player": "cam york",
+    "Team": "phi"
+  },
+  {
+    "player": "cole caufield",
+    "Team": "mtl"
+  },
+  {
+    "player": "cole smith",
+    "Team": "nsh"
+  },
+  {
+    "player": "connor mackey",
+    "Team": "cgy"
+  },
+  {
+    "player": "connor mcmichael",
+    "Team": "wsh"
+  },
+  {
+    "player": "dakota joshua",
+    "Team": "stl"
+  },
+  {
+    "player": "daniel walcott",
+    "Team": "t.b"
+  },
+  {
+    "player": "david farrance",
+    "Team": "nsh"
+  },
+  {
+    "player": "drake rymsha",
+    "Team": "l.a"
+  },
+  {
+    "player": "drew o'connor",
+    "Team": "pit"
+  },
+  {
+    "player": "dylan coghlan",
+    "Team": "vgk"
+  },
+  {
+    "player": "dylan cozens",
+    "Team": "buf"
+  },
+  {
+    "player": "garrett pilon",
+    "Team": "wsh"
+  },
+  {
+    "player": "glenn gawdin",
+    "Team": "cgy"
+  },
+  {
+    "player": "grigori denisenko",
+    "Team": "fla"
+  },
+  {
+    "player": "ian mitchell",
+    "Team": "chi"
+  },
+  {
+    "player": "ivan chekhovich",
+    "Team": "s.j"
+  },
+  {
+    "player": "jack ahcan",
+    "Team": "bos"
+  },
+  {
+    "player": "jack rathbone",
+    "Team": "van"
+  },
+  {
+    "player": "jackson cates",
+    "Team": "phi"
+  },
+  {
+    "player": "jacob bernard-docker",
+    "Team": "ott"
+  },
+  {
+    "player": "jacob bryson",
+    "Team": "buf"
+  },
+  {
+    "player": "jalen chatfield",
+    "Team": "van"
+  },
+  {
+    "player": "jamie drysdale",
+    "Team": "ana"
+  },
+  {
+    "player": "jeffrey viel",
+    "Team": "s.j"
+  },
+  {
+    "player": "jeremy davies",
+    "Team": "nsh"
+  },
+  {
+    "player": "joey keane",
+    "Team": "car"
+  },
+  {
+    "player": "john leonard",
+    "Team": "s.j"
+  },
+  {
+    "player": "jonah gadjovich",
+    "Team": "van"
+  },
+  {
+    "player": "justin richards",
+    "Team": "nyr"
+  },
+  {
+    "player": "k'andre miller",
+    "Team": "nyr"
+  },
+  {
+    "player": "keaton middleton",
+    "Team": "col"
+  },
+  {
+    "player": "kevin bahl",
+    "Team": "n.j"
+  },
+  {
+    "player": "kirill kaprizov",
+    "Team": "min"
+  },
+  {
+    "player": "kole lind",
+    "Team": "van"
+  },
+  {
+    "player": "kyle burroughs",
+    "Team": "col"
+  },
+  {
+    "player": "lane pederson",
+    "Team": "ari"
+  },
+  {
+    "player": "logan stanley",
+    "Team": "wpg"
+  },
+  {
+    "player": "mackenzie entwistle",
+    "Team": "chi"
+  },
+  {
+    "player": "maksim sushko",
+    "Team": "phi"
+  },
+  {
+    "player": "marc michaelis",
+    "Team": "van"
+  },
+  {
+    "player": "marian studenic",
+    "Team": "n.j"
+  },
+  {
+    "player": "matt kiersted",
+    "Team": "fla"
+  },
+  {
+    "player": "matthew phillips",
+    "Team": "cgy"
+  },
+  {
+    "player": "mattias samuelsson",
+    "Team": "buf"
+  },
+  {
+    "player": "mike hardman",
+    "Team": "chi"
+  },
+  {
+    "player": "mikhail maltsev",
+    "Team": "n.j"
+  },
+  {
+    "player": "mikko lehtonen",
+    "Team": "cbj, tor"
+  },
+  {
+    "player": "morgan barron",
+    "Team": "nyr"
+  },
+  {
+    "player": "nicholas robertson",
+    "Team": "tor"
+  },
+  {
+    "player": "nicolas meloche",
+    "Team": "s.j"
+  },
+  {
+    "player": "nolan foote",
+    "Team": "n.j"
+  },
+  {
+    "player": "olle alsing",
+    "Team": "ott"
+  },
+  {
+    "player": "olli juolevi",
+    "Team": "van"
+  },
+  {
+    "player": "oskar steen",
+    "Team": "bos"
+  },
+  {
+    "player": "parker kelly",
+    "Team": "ott"
+  },
+  {
+    "player": "peyton krebs",
+    "Team": "vgk"
+  },
+  {
+    "player": "philipp kurashev",
+    "Team": "chi"
+  },
+  {
+    "player": "philippe maillet",
+    "Team": "wsh"
+  },
+  {
+    "player": "pierre-olivier joseph",
+    "Team": "pit"
+  },
+  {
+    "player": "pius suter",
+    "Team": "chi"
+  },
+  {
+    "player": "quinton byfield",
+    "Team": "l.a"
+  },
+  {
+    "player": "radim zohorna",
+    "Team": "pit"
+  },
+  {
+    "player": "rasmus kupari",
+    "Team": "l.a"
+  },
+  {
+    "player": "reese johnson",
+    "Team": "chi"
+  },
+  {
+    "player": "ross colton",
+    "Team": "t.b"
+  },
+  {
+    "player": "ryan mcleod",
+    "Team": "edm"
+  },
+  {
+    "player": "shane pinto",
+    "Team": "ott"
+  },
+  {
+    "player": "simon benoit",
+    "Team": "ana"
+  },
+  {
+    "player": "steven lorentz",
+    "Team": "car"
+  },
+  {
+    "player": "tanner jeannot",
+    "Team": "nsh"
+  },
+  {
+    "player": "tanner laczynski",
+    "Team": "phi"
+  },
+  {
+    "player": "tarmo reunanen",
+    "Team": "nyr"
+  },
+  {
+    "player": "tim st\u00fctzle",
+    "Team": "ott"
+  },
+  {
+    "player": "trevor zegras",
+    "Team": "ana"
+  },
+  {
+    "player": "ty dellandrea",
+    "Team": "dal"
+  },
+  {
+    "player": "ty smith",
+    "Team": "n.j"
+  },
+  {
+    "player": "tyce thompson",
+    "Team": "n.j"
+  },
+  {
+    "player": "vitali kravtsov",
+    "Team": "nyr"
+  },
+  {
+    "player": "wade allison",
+    "Team": "phi"
+  },
+  {
+    "player": "william lockwood",
+    "Team": "van"
+  },
+  {
+    "player": "wyatt kalynuk",
+    "Team": "chi"
+  },
+  {
+    "player": "yegor sharangovich",
+    "Team": "n.j"
+  },
+  {
+    "player": "adam beckman",
+    "Team": "min"
+  },
+  {
+    "player": "adam raska",
+    "Team": "s.j"
+  },
+  {
+    "player": "alex barr\u00e9-boulet",
+    "Team": "sea, t.b"
+  },
+  {
+    "player": "alex steeves",
+    "Team": "tor"
+  },
+  {
+    "player": "alex turcotte",
+    "Team": "l.a"
+  },
+  {
+    "player": "alex vlasic",
+    "Team": "chi"
+  },
+  {
+    "player": "alexander alexeyev",
+    "Team": "wsh"
+  },
+  {
+    "player": "alexander holtz",
+    "Team": "n.j"
+  },
+  {
+    "player": "aliaksei protas",
+    "Team": "wsh"
+  },
+  {
+    "player": "anton lundell",
+    "Team": "fla"
+  },
+  {
+    "player": "artemi kniazev",
+    "Team": "s.j"
+  },
+  {
+    "player": "ben mccartney",
+    "Team": "ari"
+  },
+  {
+    "player": "ben meyers",
+    "Team": "col"
+  },
+  {
+    "player": "benoit-olivier groulx",
+    "Team": "ana"
+  },
+  {
+    "player": "bobby brink",
+    "Team": "phi"
+  },
+  {
+    "player": "bokondji imama",
+    "Team": "ari"
+  },
+  {
+    "player": "boris katchouk",
+    "Team": "chi, t.b"
+  },
+  {
+    "player": "braden schneider",
+    "Team": "nyr"
+  },
+  {
+    "player": "brandon baddock",
+    "Team": "mtl"
+  },
+  {
+    "player": "brandon biro",
+    "Team": "buf"
+  },
+  {
+    "player": "brandon duhaime",
+    "Team": "min"
+  },
+  {
+    "player": "brayden pachal",
+    "Team": "vgk"
+  },
+  {
+    "player": "brayden tracey",
+    "Team": "ana"
+  },
+  {
+    "player": "brett leason",
+    "Team": "wsh"
+  },
+  {
+    "player": "bryce kindopp",
+    "Team": "ana"
+  },
+  {
+    "player": "cam dineen",
+    "Team": "ari"
+  },
+  {
+    "player": "cameron hillis",
+    "Team": "mtl"
+  },
+  {
+    "player": "carson meyer",
+    "Team": "cbj"
+  },
+  {
+    "player": "casey fitzgerald",
+    "Team": "buf"
+  },
+  {
+    "player": "chase pearson",
+    "Team": "det"
+  },
+  {
+    "player": "chase priskie",
+    "Team": "fla"
+  },
+  {
+    "player": "cole perfetti",
+    "Team": "wpg"
+  },
+  {
+    "player": "cole reinhardt",
+    "Team": "ott"
+  },
+  {
+    "player": "cole schwindt",
+    "Team": "fla"
+  },
+  {
+    "player": "cole sillinger",
+    "Team": "cbj"
+  },
+  {
+    "player": "connor dewar",
+    "Team": "min"
+  },
+  {
+    "player": "corey schueneman",
+    "Team": "mtl"
+  },
+  {
+    "player": "daniil miromanov",
+    "Team": "vgk"
+  },
+  {
+    "player": "darren raddysh",
+    "Team": "t.b"
+  },
+  {
+    "player": "dawson mercer",
+    "Team": "n.j"
+  },
+  {
+    "player": "declan chisholm",
+    "Team": "wpg"
+  },
+  {
+    "player": "dmitri samorukov",
+    "Team": "edm"
+  },
+  {
+    "player": "dylan samberg",
+    "Team": "wpg"
+  },
+  {
+    "player": "dysin mayo",
+    "Team": "ari"
+  },
+  {
+    "player": "egor sokolov",
+    "Team": "ott"
+  },
+  {
+    "player": "ethan prow",
+    "Team": "buf"
+  },
+  {
+    "player": "fabian zetterlund",
+    "Team": "n.j"
+  },
+  {
+    "player": "gabriel fortier",
+    "Team": "t.b"
+  },
+  {
+    "player": "grant hutton",
+    "Team": "nyi"
+  },
+  {
+    "player": "gregory hofmann",
+    "Team": "cbj"
+  },
+  {
+    "player": "hayden hodgson",
+    "Team": "phi"
+  },
+  {
+    "player": "hendrix lapierre",
+    "Team": "wsh"
+  },
+  {
+    "player": "hunter drew",
+    "Team": "ana"
+  },
+  {
+    "player": "isaac ratcliffe",
+    "Team": "phi"
+  },
+  {
+    "player": "isaak phillips",
+    "Team": "chi"
+  },
+  {
+    "player": "jack drury",
+    "Team": "car"
+  },
+  {
+    "player": "jack mcbain",
+    "Team": "ari"
+  },
+  {
+    "player": "jack quinn",
+    "Team": "buf"
+  },
+  {
+    "player": "jacob moverare",
+    "Team": "l.a"
+  },
+  {
+    "player": "jacob perreault",
+    "Team": "ana"
+  },
+  {
+    "player": "jacob peterson",
+    "Team": "dal"
+  },
+  {
+    "player": "jake christiansen",
+    "Team": "cbj"
+  },
+  {
+    "player": "jake leschyshyn",
+    "Team": "vgk"
+  },
+  {
+    "player": "jake neighbours",
+    "Team": "stl"
+  },
+  {
+    "player": "jakub galvas",
+    "Team": "chi"
+  },
+  {
+    "player": "jasper weatherby",
+    "Team": "s.j"
+  },
+  {
+    "player": "jayden halbgewachs",
+    "Team": "s.j"
+  },
+  {
+    "player": "jeff malott",
+    "Team": "wpg"
+  },
+  {
+    "player": "joe snively",
+    "Team": "wsh"
+  },
+  {
+    "player": "johnathan kovacevic",
+    "Team": "wpg"
+  },
+  {
+    "player": "jon lizotte",
+    "Team": "min"
+  },
+  {
+    "player": "jordan harris",
+    "Team": "mtl"
+  },
+  {
+    "player": "jordan spence",
+    "Team": "l.a"
+  },
+  {
+    "player": "josiah slavin",
+    "Team": "chi"
+  },
+  {
+    "player": "justin barron",
+    "Team": "col, mtl"
+  },
+  {
+    "player": "justin danforth",
+    "Team": "cbj"
+  },
+  {
+    "player": "kaedan korczak",
+    "Team": "vgk"
+  },
+  {
+    "player": "kent johnson",
+    "Team": "cbj"
+  },
+  {
+    "player": "kirill semyonov",
+    "Team": "tor"
+  },
+  {
+    "player": "kristian reichel",
+    "Team": "wpg"
+  },
+  {
+    "player": "kristians rubins",
+    "Team": "tor"
+  },
+  {
+    "player": "lassi thomson",
+    "Team": "ott"
+  },
+  {
+    "player": "linus sandin",
+    "Team": "phi"
+  },
+  {
+    "player": "lucas johansen",
+    "Team": "wsh"
+  },
+  {
+    "player": "lucas raymond",
+    "Team": "det"
+  },
+  {
+    "player": "lukas reichel",
+    "Team": "chi"
+  },
+  {
+    "player": "marc mclaughlin",
+    "Team": "bos"
+  },
+  {
+    "player": "marco rossi",
+    "Team": "min"
+  },
+  {
+    "player": "mark kastelic",
+    "Team": "ott"
+  },
+  {
+    "player": "mason geertsen",
+    "Team": "n.j"
+  },
+  {
+    "player": "mason mctavish",
+    "Team": "ana"
+  },
+  {
+    "player": "mason shaw",
+    "Team": "min"
+  },
+  {
+    "player": "matias maccelli",
+    "Team": "ari"
+  },
+  {
+    "player": "mattias norlinder",
+    "Team": "mtl"
+  },
+  {
+    "player": "max willman",
+    "Team": "phi"
+  },
+  {
+    "player": "michael carcone",
+    "Team": "ari"
+  },
+  {
+    "player": "michael eyssimont",
+    "Team": "wpg"
+  },
+  {
+    "player": "michael pezzetta",
+    "Team": "mtl"
+  },
+  {
+    "player": "mitchell chaffee",
+    "Team": "min"
+  },
+  {
+    "player": "moritz seider",
+    "Team": "det"
+  },
+  {
+    "player": "nathan smith",
+    "Team": "ari"
+  },
+  {
+    "player": "nicholas paul",
+    "Team": "ott, t.b"
+  },
+  {
+    "player": "nick blankenburg",
+    "Team": "cbj"
+  },
+  {
+    "player": "nick merkley",
+    "Team": "s.j"
+  },
+  {
+    "player": "nikita okhotiuk",
+    "Team": "n.j"
+  },
+  {
+    "player": "nils lundkvist",
+    "Team": "nyr"
+  },
+  {
+    "player": "noah cates",
+    "Team": "phi"
+  },
+  {
+    "player": "owen power",
+    "Team": "buf"
+  },
+  {
+    "player": "paul cotter",
+    "Team": "vgk"
+  },
+  {
+    "player": "pavel dorofeyev",
+    "Team": "vgk"
+  },
+  {
+    "player": "philip broberg",
+    "Team": "edm"
+  },
+  {
+    "player": "philip tomasino",
+    "Team": "nsh"
+  },
+  {
+    "player": "reilly walsh",
+    "Team": "n.j"
+  },
+  {
+    "player": "riley damiani",
+    "Team": "dal"
+  },
+  {
+    "player": "riley tufte",
+    "Team": "dal"
+  },
+  {
+    "player": "robin salo",
+    "Team": "nyi"
+  },
+  {
+    "player": "ronnie attard",
+    "Team": "phi"
+  },
+  {
+    "player": "ryan merkley",
+    "Team": "s.j"
+  },
+  {
+    "player": "sampo ranta",
+    "Team": "col"
+  },
+  {
+    "player": "samuel fagemo",
+    "Team": "l.a"
+  },
+  {
+    "player": "santeri hatakka",
+    "Team": "s.j"
+  },
+  {
+    "player": "scott perunovich",
+    "Team": "stl"
+  },
+  {
+    "player": "scott reedy",
+    "Team": "s.j"
+  },
+  {
+    "player": "sean day",
+    "Team": "t.b"
+  },
+  {
+    "player": "sean durzi",
+    "Team": "l.a"
+  },
+  {
+    "player": "seth jarvis",
+    "Team": "car"
+  },
+  {
+    "player": "taylor raddysh",
+    "Team": "chi, t.b"
+  },
+  {
+    "player": "thomas bordeleau",
+    "Team": "s.j"
+  },
+  {
+    "player": "thomas harley",
+    "Team": "dal"
+  },
+  {
+    "player": "thomas novak",
+    "Team": "nsh"
+  },
+  {
+    "player": "trey fix-wolansky",
+    "Team": "cbj"
+  },
+  {
+    "player": "valtteri puustinen",
+    "Team": "pit"
+  },
+  {
+    "player": "vasily podkolzin",
+    "Team": "van"
+  },
+  {
+    "player": "viktor lodin",
+    "Team": "ott"
+  },
+  {
+    "player": "vladimir tkachev",
+    "Team": "l.a"
+  },
+  {
+    "player": "vladislav kolyachonok",
+    "Team": "ari"
+  },
+  {
+    "player": "walker duehr",
+    "Team": "cgy"
+  },
+  {
+    "player": "william eklund",
+    "Team": "s.j"
+  },
+  {
+    "player": "yegor chinakhov",
+    "Team": "cbj"
+  },
+  {
+    "player": "adam ginning",
+    "Team": "phi"
+  },
+  {
+    "player": "aidan mcdonough",
+    "Team": "van"
+  },
+  {
+    "player": "akito hirose",
+    "Team": "van"
+  },
+  {
+    "player": "alexey toropchenko",
+    "Team": "stl"
+  },
+  {
+    "player": "andrei kuzmenko",
+    "Team": "van"
+  },
+  {
+    "player": "anton levtchi",
+    "Team": "fla"
+  },
+  {
+    "player": "arber xhekaj",
+    "Team": "mtl"
+  },
+  {
+    "player": "arnaud durandeau",
+    "Team": "nyi"
+  },
+  {
+    "player": "billy sweezey",
+    "Team": "cbj"
+  },
+  {
+    "player": "bobby mcmann",
+    "Team": "tor"
+  },
+  {
+    "player": "brandt clarke",
+    "Team": "l.a"
+  },
+  {
+    "player": "brock faber",
+    "Team": "min"
+  },
+  {
+    "player": "callahan burke",
+    "Team": "col"
+  },
+  {
+    "player": "cole guttman",
+    "Team": "chi"
+  },
+  {
+    "player": "cole koepke",
+    "Team": "t.b"
+  },
+  {
+    "player": "cole mcward",
+    "Team": "van"
+  },
+  {
+    "player": "damien giroux",
+    "Team": "min"
+  },
+  {
+    "player": "david gust",
+    "Team": "chi"
+  },
+  {
+    "player": "david jiricek",
+    "Team": "cbj"
+  },
+  {
+    "player": "drew helleson",
+    "Team": "ana"
+  },
+  {
+    "player": "dylan guenther",
+    "Team": "ari"
+  },
+  {
+    "player": "dylan holloway",
+    "Team": "edm"
+  },
+  {
+    "player": "egor afanasyev",
+    "Team": "nsh"
+  },
+  {
+    "player": "elliot desnoyers",
+    "Team": "phi"
+  },
+  {
+    "player": "filip roos",
+    "Team": "chi"
+  },
+  {
+    "player": "fredrik olofsson",
+    "Team": "dal"
+  },
+  {
+    "player": "henry thrun",
+    "Team": "s.j"
+  },
+  {
+    "player": "hugh mcging",
+    "Team": "stl"
+  },
+  {
+    "player": "hunter mckown",
+    "Team": "cbj"
+  },
+  {
+    "player": "j.j. moser",
+    "Team": "ari"
+  },
+  {
+    "player": "jackson lacombe",
+    "Team": "ana"
+  },
+  {
+    "player": "jacob lucchini",
+    "Team": "ott"
+  },
+  {
+    "player": "jake livingstone",
+    "Team": "nsh"
+  },
+  {
+    "player": "jake middleton",
+    "Team": "min"
+  },
+  {
+    "player": "jake sanderson",
+    "Team": "ott"
+  },
+  {
+    "player": "jakob pelletier",
+    "Team": "cgy"
+  },
+  {
+    "player": "jakub lauko",
+    "Team": "bos"
+  },
+  {
+    "player": "james hamblin",
+    "Team": "edm"
+  },
+  {
+    "player": "jean-luc foudy",
+    "Team": "col"
+  },
+  {
+    "player": "jonatan berggren",
+    "Team": "det"
+  },
+  {
+    "player": "jonathan gruden",
+    "Team": "pit"
+  },
+  {
+    "player": "joona koppanen",
+    "Team": "bos"
+  },
+  {
+    "player": "juraj slafkovsky",
+    "Team": "mtl"
+  },
+  {
+    "player": "justin kirkland",
+    "Team": "ana"
+  },
+  {
+    "player": "kaiden guhle",
+    "Team": "mtl"
+  },
+  {
+    "player": "kirill marchenko",
+    "Team": "cbj"
+  },
+  {
+    "player": "lukas rousek",
+    "Team": "buf"
+  },
+  {
+    "player": "luke evangelista",
+    "Team": "nsh"
+  },
+  {
+    "player": "luke hughes",
+    "Team": "n.j"
+  },
+  {
+    "player": "luke philp",
+    "Team": "chi"
+  },
+  {
+    "player": "mac hollowell",
+    "Team": "tor"
+  },
+  {
+    "player": "marco kasper",
+    "Team": "det"
+  },
+  {
+    "player": "marcus bjork",
+    "Team": "cbj"
+  },
+  {
+    "player": "matthew kessel",
+    "Team": "stl"
+  },
+  {
+    "player": "matthew knies",
+    "Team": "tor"
+  },
+  {
+    "player": "michael kesselring",
+    "Team": "ari"
+  },
+  {
+    "player": "milos kelemen",
+    "Team": "ari"
+  },
+  {
+    "player": "nick abruzzese",
+    "Team": "tor"
+  },
+  {
+    "player": "nick cicek",
+    "Team": "s.j"
+  },
+  {
+    "player": "nick desimone",
+    "Team": "cgy"
+  },
+  {
+    "player": "nick perbix",
+    "Team": "t.b"
+  },
+  {
+    "player": "nick swaney",
+    "Team": "min"
+  },
+  {
+    "player": "nikita alexandrov",
+    "Team": "stl"
+  },
+  {
+    "player": "nikita nesterenko",
+    "Team": "ana"
+  },
+  {
+    "player": "olle lycksell",
+    "Team": "phi"
+  },
+  {
+    "player": "oskar olausson",
+    "Team": "col"
+  },
+  {
+    "player": "owen beck",
+    "Team": "mtl"
+  },
+  {
+    "player": "parker wotherspoon",
+    "Team": "nyi"
+  },
+  {
+    "player": "pavol regenda",
+    "Team": "ana"
+  },
+  {
+    "player": "pontus holmberg",
+    "Team": "tor"
+  },
+  {
+    "player": "ridly greig",
+    "Team": "ott"
+  },
+  {
+    "player": "samuel bolduc",
+    "Team": "nyi"
+  },
+  {
+    "player": "samuel knazko",
+    "Team": "cbj"
+  },
+  {
+    "player": "sean farrell",
+    "Team": "mtl"
+  },
+  {
+    "player": "semyon der-arguchintsev",
+    "Team": "tor"
+  },
+  {
+    "player": "shane bowers",
+    "Team": "col"
+  },
+  {
+    "player": "shane wright",
+    "Team": "sea"
+  },
+  {
+    "player": "simon edvinsson",
+    "Team": "det"
+  },
+  {
+    "player": "spencer stastney",
+    "Team": "nsh"
+  },
+  {
+    "player": "stanislav svozil",
+    "Team": "cbj"
+  },
+  {
+    "player": "tim berni",
+    "Team": "cbj"
+  },
+  {
+    "player": "tristen robins",
+    "Team": "s.j"
+  },
+  {
+    "player": "tyler angle",
+    "Team": "cbj"
+  },
+  {
+    "player": "tyler kleven",
+    "Team": "ott"
+  },
+  {
+    "player": "tyler tucker",
+    "Team": "stl"
+  },
+  {
+    "player": "tyson foerster",
+    "Team": "phi"
+  },
+  {
+    "player": "vincent desharnais",
+    "Team": "edm"
+  },
+  {
+    "player": "vincent iorio",
+    "Team": "wsh"
+  },
+  {
+    "player": "will cuylle",
+    "Team": "nyr"
+  },
+  {
+    "player": "william dufour",
+    "Team": "nyi"
+  },
+  {
+    "player": "wyatt johnston",
+    "Team": "dal"
+  },
+  {
+    "player": "wyatt kaiser",
+    "Team": "chi"
+  },
+  {
+    "player": "adam fantilli",
+    "Team": "cbj"
+  },
+  {
+    "player": "adam klapka",
+    "Team": "cgy"
+  },
+  {
+    "player": "alex laferriere",
+    "Team": "l.a"
+  },
+  {
+    "player": "angus crookshank",
+    "Team": "ott"
+  },
+  {
+    "player": "arshdeep bains",
+    "Team": "van"
+  },
+  {
+    "player": "brendan brisson",
+    "Team": "vgk"
+  },
+  {
+    "player": "brennan othmann",
+    "Team": "nyr"
+  },
+  {
+    "player": "brian halonen",
+    "Team": "n.j"
+  },
+  {
+    "player": "connor bedard",
+    "Team": "chi"
+  },
+  {
+    "player": "connor zary",
+    "Team": "cgy"
+  },
+  {
+    "player": "daemon hunt",
+    "Team": "min"
+  },
+  {
+    "player": "dmitri voronkov",
+    "Team": "cbj"
+  },
+  {
+    "player": "emil heineman",
+    "Team": "mtl"
+  },
+  {
+    "player": "gage goncalves",
+    "Team": "t.b"
+  },
+  {
+    "player": "graeme clarke",
+    "Team": "n.j"
+  },
+  {
+    "player": "gustav lindstr\u00f6m",
+    "Team": "ana, mtl"
+  },
+  {
+    "player": "ilya solovyov",
+    "Team": "cgy"
+  },
+  {
+    "player": "ivan miroshnichenko",
+    "Team": "wsh"
+  },
+  {
+    "player": "jack thompson",
+    "Team": "t.b"
+  },
+  {
+    "player": "jani hakanp\u00e4\u00e4",
+    "Team": "dal"
+  },
+  {
+    "player": "jason polin",
+    "Team": "col"
+  },
+  {
+    "player": "jayden struble",
+    "Team": "mtl"
+  },
+  {
+    "player": "jesse yl\u00f6nen",
+    "Team": "mtl"
+  },
+  {
+    "player": "jiri kulich",
+    "Team": "buf"
+  },
+  {
+    "player": "jiri smejkal",
+    "Team": "ott"
+  },
+  {
+    "player": "john beecher",
+    "Team": "bos"
+  },
+  {
+    "player": "john ludvig",
+    "Team": "pit"
+  },
+  {
+    "player": "joshua roy",
+    "Team": "mtl"
+  },
+  {
+    "player": "justin brazeau",
+    "Team": "bos"
+  },
+  {
+    "player": "kevin korchinski",
+    "Team": "chi"
+  },
+  {
+    "player": "kyle maclean",
+    "Team": "nyi"
+  },
+  {
+    "player": "landon slaggert",
+    "Team": "chi"
+  },
+  {
+    "player": "leo carlsson",
+    "Team": "ana"
+  },
+  {
+    "player": "linus karlsson",
+    "Team": "van"
+  },
+  {
+    "player": "logan cooley",
+    "Team": "ari"
+  },
+  {
+    "player": "logan stankoven",
+    "Team": "dal"
+  },
+  {
+    "player": "louis crevier",
+    "Team": "chi"
+  },
+  {
+    "player": "lukas cormier",
+    "Team": "vgk"
+  },
+  {
+    "player": "mackie samoskevich",
+    "Team": "fla"
+  },
+  {
+    "player": "marat khusnutdinov",
+    "Team": "min"
+  },
+  {
+    "player": "marc del gaizo",
+    "Team": "nsh"
+  },
+  {
+    "player": "marc johnstone",
+    "Team": "pit"
+  },
+  {
+    "player": "marshall rifai",
+    "Team": "tor"
+  },
+  {
+    "player": "mason lohrei",
+    "Team": "bos"
+  },
+  {
+    "player": "mason morelli",
+    "Team": "vgk"
+  },
+  {
+    "player": "matt rempe",
+    "Team": "nyr"
+  },
+  {
+    "player": "matthew poitras",
+    "Team": "bos"
+  },
+  {
+    "player": "maxwell crozier",
+    "Team": "t.b"
+  },
+  {
+    "player": "nikolas matinpalo",
+    "Team": "ott"
+  },
+  {
+    "player": "olen zellweger",
+    "Team": "ana"
+  },
+  {
+    "player": "patrik koch",
+    "Team": "ari"
+  },
+  {
+    "player": "pavel mintyukov",
+    "Team": "ana"
+  },
+  {
+    "player": "philip kemp",
+    "Team": "edm"
+  },
+  {
+    "player": "raphael lavoie",
+    "Team": "edm"
+  },
+  {
+    "player": "ryan johnson",
+    "Team": "buf"
+  },
+  {
+    "player": "ryan shea",
+    "Team": "pit"
+  },
+  {
+    "player": "ryan winterton",
+    "Team": "sea"
+  },
+  {
+    "player": "ryker evans",
+    "Team": "sea"
+  },
+  {
+    "player": "sam malinski",
+    "Team": "col"
+  },
+  {
+    "player": "samuel laberge",
+    "Team": "n.j"
+  },
+  {
+    "player": "shakir mukhamadullin",
+    "Team": "s.j"
+  },
+  {
+    "player": "simon nemec",
+    "Team": "n.j"
+  },
+  {
+    "player": "tristan luneau",
+    "Team": "ana"
+  },
+  {
+    "player": "ty emberson",
+    "Team": "s.j"
+  },
+  {
+    "player": "tye kartye",
+    "Team": "sea"
+  },
+  {
+    "player": "uvis balinskis",
+    "Team": "fla"
+  },
+  {
+    "player": "zach benson",
+    "Team": "buf"
+  },
+  {
+    "player": "zach dean",
+    "Team": "stl"
+  },
+  {
+    "player": "zack ostapchuk",
+    "Team": "ott"
+  }
+]

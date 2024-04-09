@@ -1,0 +1,107 @@
+.search-component {
+  text-align: center;
+  position: relative;
+  margin-top: 20px;
+}
+
+.search-input {
+  width: 600px;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 5px;
+  /* border-radius: 10px;  */
+
+}
+
+.results-dropdown {
+  position: absolute;
+  width: 600px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  box-shadow: 0px 4px 8px #0000001a;
+  z-index: 100;
+}
+
+.results-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.results-list li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.results-list li:hover {
+  background-color: #f1f1f1;
+}
+
+.separator {
+  border: 0;
+  height: 2px;
+  background-color: rgb(26, 77, 196);
+}
+
+.App {
+  /* 确保App占满整个屏幕 */
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.background-blur {
+  /* 背景图片 */
+  background-image: url('assets/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  /* 应用模糊效果 */
+  filter: blur(8px);
+
+  /* 确保背景覆盖整个屏幕 */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; /* 确保背景位于内容之后 */
+}
+
+.content {
+  /* 保持内容清晰 */
+  position: relative;
+  z-index: 1;
+}
+
+
+/* App.css */
+.link-style {
+  text-decoration: none; /* Removes the underline from links */
+  color: black; /* Sets the initial link color */
+}
+
+.link-style:hover {
+  color: blue; /* Changes the color to blue when hovered */
+}
+
+.scrollable-div {
+  display: flex; /* 使用Flexbox */
+  justify-content: space-between; /* 子元素之间平均分布空间 */
+  align-items: stretch; /* 子元素拉伸以匹配容器高度 */
+  height: 100%; /* 确定容器的高度，也可以是具体的值，如600px */
+}
+
+.scrollable-div > div {
+  flex: 1; /* 子元素平均分配空间 */
+  display: flex; /* 也让子元素使用Flexbox，以便内容正确填充 */
+  flex-direction: column; /* 垂直布局 */
+  overflow-y: auto; /* 允许内容超出时滚动 */
+}
+.left-component {
+  margin-top: 100px; /* 或者 `padding-bottom: 200px;` 根据实际布局调整 */
+}
+
