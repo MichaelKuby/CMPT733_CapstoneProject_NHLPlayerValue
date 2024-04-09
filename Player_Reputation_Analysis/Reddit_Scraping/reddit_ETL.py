@@ -7,6 +7,7 @@ absolute_path = os.path.abspath(__file__)
 scripts_dir = os.path.dirname(absolute_path)
 scraper_script = os.path.join(scripts_dir, 'scraper_to_csv.py')
 mongo_script = os.path.join(scripts_dir, 'csv_to_mongoDB.py')
+sentiment_script = os.path.join(scripts_dir, 'sentiment_to_mongoDB.py')
 
 default_args = {
     'depends_on_past': False,
@@ -37,4 +38,10 @@ with DAG(
         
     )
 
-    t1 >> t2
+    t3 = BashOperator(
+        task_id='sentiment_to_mongoDB',
+        bash_command=f"python3 {sentiment_script}",
+        
+    )
+
+    t1 >> t2 >> t3

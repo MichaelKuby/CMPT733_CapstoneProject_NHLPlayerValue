@@ -84,7 +84,6 @@ def analyze_sentiment(df_reddit, df_player):
         .apply(lambda row: sentiment_analysis(row['combined_text'], row['mentioned_players']), axis=1)
     )
     df_sentiment_target_single.to_csv('sentiment_result_raw.csv', index=False)
-
     return df_sentiment_target_single
 
 def group_by_name(df):
@@ -98,11 +97,11 @@ def group_by_name(df):
 def main():
     client = connect_to_mongoDB()
 
-    # df_player = retrieve_player_data()
-    # df_reddit = retrieve_reddit_data(client)
-    # df_reddit = add_player_count(df_reddit, df_player)
-    # df_reddit = analyze_sentiment(df_reddit, df_player)
-    df_reddit = pd.read_csv('sentiment_result_raw.csv')
+    df_player = retrieve_player_data()
+    df_reddit = retrieve_reddit_data(client)
+    df_reddit = add_player_count(df_reddit, df_player)
+    df_reddit = analyze_sentiment(df_reddit, df_player)
+    # df_reddit = pd.read_csv('sentiment_result_raw.csv')
     df_reddit = group_by_name(df_reddit)
 
     records = df_reddit.to_dict('records')
