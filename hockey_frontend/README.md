@@ -14,11 +14,12 @@ First, clone this repository to your local machine:
 git clone https://github.com/MichaelKuby/CMPT733_CapstoneProject_NHLPlayerValue/
 cd hockey_frontend
 、、、
+
 Then, install the project dependencies:
 
-```bash
+、、、bash
 npm install
-```
+、、、
 
 、、、bash
 npm install @mui/material @emotion/react @emotion/styled
