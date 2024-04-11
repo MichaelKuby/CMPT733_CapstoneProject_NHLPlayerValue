@@ -21,13 +21,13 @@ Then, install the project dependencies:
 npm install
 ```
 
-、、、bash
+```bash
 npm install @mui/material @emotion/react @emotion/styled
-、、、
+```
 
-、、、bash
+```bash
 npm install echarts
-、、、
+```
 
 ## Libraries Used
 
