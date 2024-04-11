@@ -13,7 +13,7 @@ First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/MichaelKuby/CMPT733_CapstoneProject_NHLPlayerValue/
 cd hockey_frontend
-
+、、、
 Then, install the project dependencies:
 
 ```bash
