@@ -51,7 +51,9 @@
   height: 100vh;
   overflow: hidden;
 }
-
+.playerName {
+  margin-left: 20px; /* Adjust the value as needed */
+}
 .background-blur {
   /* 背景图片 */
   background-image: url('assets/background.jpg');
@@ -94,6 +96,8 @@
   align-items: stretch; /* 子元素拉伸以匹配容器高度 */
   height: 100%; /* 确定容器的高度，也可以是具体的值，如600px */
 }
+
+
 
 .scrollable-div > div {
   flex: 1; /* 子元素平均分配空间 */

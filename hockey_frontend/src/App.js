@@ -49,7 +49,7 @@ function App() {
           <Route path="/Home" element={<Home_new />} />
           <Route path="/players" element ={<EnhancedTable2/>}/>
           <Route path="/player/:playerName" element={<PlayerDetailWithGraph />} />
-          <Route path="/Statitics" element={<PlayersStats />} />
+          <Route path="/Statitics" element={<NutrientChart />} />
           <Route path="/teams/:teamName" element={<EnhancedTable />} />
         </Routes>
       </div>

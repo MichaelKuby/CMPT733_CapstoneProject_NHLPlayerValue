@@ -12,7 +12,23 @@ const MyChartComponent = () => {
     console.log(playerName); // 这应该打印出URL中的playerName
     // 基于playerName做一些事情
   }, [playerName]);
+  function convertToNumber(str) {
+    // 去除字符串中的逗号
+    const stringWithoutCommas = str.replace(/,/g, '');
+    // 将结果转换为数字
+    const number = Number(stringWithoutCommas);
+    // 返回转换后的数字
+    return number;
+  }
 
+  function convertToNumber2(str) {
+    // 去除字符串中的逗号
+    // const stringWithoutCommas = str.replace(/,/g, '');
+    // 将结果转换为数字
+    const number = Number(str);
+    // 返回转换后的数字
+    return number;
+  }
   const chartRef = useRef(null);
   const run = () => {
     const selectedPlayerData = playerData.players.filter(player => player.name == playerName);
@@ -20,18 +36,19 @@ const MyChartComponent = () => {
     if (selectedPlayerData.length > 0) {
       const player = selectedPlayerData[0]; // Assuming only one player matches
       const seriesData = [
+        
         {
-          name: 'Predicted Salary',
+          name: 'Actual Cap Hit',
           type: 'line',
-          data: player.years.map(year => [year.year, year.stats.AAV]),
+          data: player.years.map(year => [year.year, Number(year.stats.salary_cap_percetage)*Number(year.stats.salary_cap)]),
           showSymbol: true,
         },
         {
-          name: 'Actual Salary',
+          name: 'Predicted Cap Hit',
           type: 'line',
-          data: player.years.map(year => [year.year, year.stats.PRED]),
+          data: player.years.map(year => [year.year, convertToNumber(year.stats.PRED)]),
           showSymbol: true,
-        }
+        },
       ];
 
       const option = {
@@ -44,7 +61,7 @@ const MyChartComponent = () => {
         },
         yAxis: {
           type: 'value',
-          name: 'Salary'
+          name: 'Cap Hit'
         },
         series: seriesData
       };

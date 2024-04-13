@@ -9,7 +9,7 @@ import {
 } from 'echarts/components';
 import { CanvasRenderer } from 'echarts/renderers';
 import ReactECharts from 'echarts-for-react'; // Updated import
-import Nutrition from '../data/Nutrition.json'
+import Nutrition from '../data/nutrition.json'
 // Import necessary ECharts components
 echarts.use([
   TitleComponent,
@@ -23,7 +23,7 @@ echarts.use([
 const NutrientChart = () => {
   const [option, setOption] = useState({});
   const [selectedXAxis, setSelectedXAxis] = useState('TOI');
-  const [selectedYAxis, setSelectedYAxis] = useState('SALARY');
+  const [selectedYAxis, setSelectedYAxis] = useState('PREDICTED_CAP_HIT');
   const schema = [
     { name: 'name', index: 0 },
     { name: 'group', index: 1 },
@@ -39,8 +39,8 @@ const NutrientChart = () => {
     { name: 'SHOTS', index: 12 },
     { name: 'IXG', index: 13 },
     { name: 'ICF', index: 14 },
-    { name: 'IFF', index: 15 },
-    { name: 'SALARY', index: 16 },
+    { name: 'PREDICTED_CAP_HIT', index: 15 },
+    // { name: 'PREDICTED_CAP_HIT', index: 16 },
   ];
   useEffect(() => {
     
@@ -130,7 +130,7 @@ const NutrientChart = () => {
                 item[fieldIndices[selectedXAxis]], // 使用selectedXAxis作为字段索引
                 item[fieldIndices[selectedYAxis]], // 使用selectedYAxis作为字段索引
                 item[fieldIndices['group']],
-                item[fieldIndices['SALARY']],
+                item[fieldIndices['PREDICTED_CAP_HIT']],
             ]),
             
             animationThreshold: 5000,

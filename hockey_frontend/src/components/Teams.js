@@ -518,12 +518,12 @@ export default function EnhancedTable() {
                     <TableCell align="right">{row.season}</TableCell>
                     
                     <TableCell align="right">{row.POSITION}</TableCell>
-                    <TableCell align="right">{row.GP}</TableCell>
-                    <TableCell align="right">{row.TOI}</TableCell>
+                    <TableCell align="right">{Number(row.GP).toFixed(2)}</TableCell>
+                    <TableCell align="right">{Number(row.TOI).toFixed(2)}</TableCell>
                     <TableCell align="right">{row.IPP}</TableCell>
                     <TableCell align="right">{row.SALARY}</TableCell>
                    
-                    <TableCell align="right">{row.PERCENTAGE}</TableCell>
+                    <TableCell align="right">{Number(row.PERCENTAGE).toFixed(2)}</TableCell>
                     <TableCell align="right" style={{ fontSize: '32px' }}>
                       {countryFlags[row.countryCode] || '🇺🇳'}
                     </TableCell>

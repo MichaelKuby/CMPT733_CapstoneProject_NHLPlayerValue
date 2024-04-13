@@ -23,25 +23,69 @@ function PlayerStats() {
       setPlayerData(data.years);
     }
   }, [playerName]);
-
+  function convertToNumber(str) {
+    // 去除字符串中的逗号
+    const stringWithoutCommas = str.replace(/,/g, '');
+    // 将结果转换为数字
+    const number = Number(stringWithoutCommas);
+    // 返回转换后的数字
+    return number;
+  }
   return (
     <Box sx={{ width: '100%' }}>
-      <h1>{playerName}</h1>
+      <h1 className="playerName">  {playerName}</h1>
       <Paper sx={{ width: '100%', overflow: 'hidden' }}>
         <TableContainer sx={{ maxHeight: 440 }}>
           <Table stickyHeader aria-label="sticky table">
             <TableHead>
               <TableRow>
-                <TableCell>Year</TableCell>
-                <TableCell align="right">GP</TableCell>
-                <TableCell align="right">POSITION</TableCell>
-                <TableCell align="right">TOI</TableCell>
-                <TableCell align="right">IPP</TableCell>
-                <TableCell align="right">PRED/ACTUAL</TableCell>
-                <TableCell align="right">GOALS</TableCell>
-                <TableCell align="right">SHOTS</TableCell>
-                <TableCell align="right">TAKEAWAYS</TableCell>
-                <TableCell align="right">HITS</TableCell>
+              <TableCell>SEASON</TableCell>
+<TableCell align="right">TEAM</TableCell>
+{/* <TableCell align="right">NATIONALITY</TableCell> */}
+<TableCell align="right">AGE</TableCell>
+<TableCell align="right">POSITION</TableCell>
+<TableCell align="right">CAP HIT</TableCell>
+<TableCell align="right">SALARY</TableCell>
+<TableCell align="right">S.BONUS</TableCell>
+<TableCell align="right">P.BONUS</TableCell>
+<TableCell align="right">SALARY CAP</TableCell>
+<TableCell align="right">SALARY CAP PERCENTAGE</TableCell>
+<TableCell align="right">PRED_AAV</TableCell>
+{/* <TableCell align="right">PRED_SALARY_PERCENTAGE</TableCell> */}
+<TableCell align="right">PRED/ACTUAL</TableCell>
+<TableCell align="right">GP</TableCell>
+<TableCell align="right">GOALS/GP</TableCell>
+<TableCell align="right">TOTAL ASSISTS/GP</TableCell>
+<TableCell align="right">FIRST ASSISTS/GP</TableCell>
+<TableCell align="right">SECOND ASSISTS/GP</TableCell>
+<TableCell align="right">TOTAL POINTS/GP</TableCell>
+<TableCell align="right">SHOTS/GP</TableCell>
+<TableCell align="right">IXG/GP</TableCell>
+<TableCell align="right">ICF/GP</TableCell>
+<TableCell align="right">IFF/GP</TableCell>
+<TableCell align="right">ISCF/GP</TableCell>
+<TableCell align="right">IHDCF/GP</TableCell>
+<TableCell align="right">CF/GP</TableCell>
+<TableCell align="right">CA/GP</TableCell>
+<TableCell align="right">FF/GP</TableCell>
+<TableCell align="right">FA/GP</TableCell>
+<TableCell align="right">GF/GP</TableCell>
+<TableCell align="right">GA/GP</TableCell>
+<TableCell align="right">XGF/GP</TableCell>
+<TableCell align="right">XGA/GP</TableCell>
+<TableCell align="right">HDCF/GP</TableCell>
+<TableCell align="right">HDCA/GP</TableCell>
+<TableCell align="right">HDGF/GP</TableCell>
+<TableCell align="right">HDGA/GP</TableCell>
+<TableCell align="right">MDCF/GP</TableCell>
+<TableCell align="right">MDCA/GP</TableCell>
+<TableCell align="right">MDGF/GP</TableCell>
+<TableCell align="right">MDGA/GP</TableCell>
+<TableCell align="right">LDCF/GP</TableCell>
+<TableCell align="right">LDCA/GP</TableCell>
+<TableCell align="right">LDGF/GP</TableCell>
+<TableCell align="right">LDGA/GP</TableCell>
+
                 {/* 添加更多的列头 */}
               </TableRow>
             </TableHead>
@@ -51,44 +95,58 @@ function PlayerStats() {
                   key={yearData.year}
                   sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
                 >
-                  <TableCell component="th" scope="row">
-                    {yearData.year}
-                  </TableCell>
-                  <TableCell align="right">{yearData.stats.GP}</TableCell>
-                  <TableCell align="right">{yearData.stats.POSITION}</TableCell>
-                  <TableCell align="right">{yearData.stats.TOI}</TableCell>
-                  <TableCell align="right">{yearData.stats.IPP}</TableCell>
-                  <TableCell align="right">{yearData.stats.PERCENTAGE}</TableCell>
-                  <TableCell align="right">{yearData.stats.GOALS}</TableCell>
-                  <TableCell align="right">{yearData.stats.SHOTS}</TableCell>
-                  <TableCell align="right">{yearData.stats.TAKEAWAYS}</TableCell>
-                  <TableCell align="right">{yearData.stats.HITS}</TableCell>
+                  <TableCell align="right">{yearData["year"]}</TableCell>
+<TableCell align="right">{yearData.stats["TEAM"]}</TableCell>
+{/* <TableCell align="right" style={{ fontSize: '32px' }}>
+                      {countryFlags[yearData.stats["NATIONALITY"]] || '🇺🇳'}
+                    </TableCell> */}
+<TableCell align="right">{yearData.stats["AGE"]}</TableCell>
+<TableCell align="right">{yearData.stats["POSITION"]}</TableCell>
+<TableCell align="right">{yearData.stats["CAP HIT"]}</TableCell>
+<TableCell align="right">{Number(yearData.stats["SALARY"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["S.BONUS"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["P.BONUS"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["salary_cap"]).toFixed(0)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["salary_cap_percetage"]).toFixed(2)}</TableCell>
+<TableCell align="right">{convertToNumber(yearData.stats["PRED"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["PERCENTAGE"]).toFixed(2)}</TableCell>
+{/* <TableCell align="right">{((convertToNumber(yearData.stats["PRED"]).toFixed(2))/(Number(yearData.stats["SALARY"]))).toFixed(2)}</TableCell> */}
+<TableCell align="right">{Number(yearData.stats["GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["GOALS/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["TOTAL ASSISTS/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["FIRST ASSISTS/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["SECOND ASSISTS/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["TOTAL POINTS/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["SHOTS/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["IXG/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["ICF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["IFF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["ISCF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["IHDCF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["CF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["CA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["FF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["FA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["GF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["GA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["XGF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["XGA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["HDCF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["HDCA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["HDGF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["HDGA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["MDCF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["MDCA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["MDGF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["MDGA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["LDCF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["LDCA/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["LDGF/GP"]).toFixed(2)}</TableCell>
+<TableCell align="right">{Number(yearData.stats["LDGA/GP"]).toFixed(2)}</TableCell>
 
-                  {/* <TableCell
-                      component="th"
-                      id={labelId}
-                      scope="row"
-                      padding="none"
-                    >
-                      {yearData.stats.name}
-                    </TableCell>
-                    <TableCell align="right">{yearData.stats.season}</TableCell>
-                    
-                    <TableCell align="right">{yearData.stats.POSITION}</TableCell>
-                    <TableCell align="right">{yearData.stats.GP}</TableCell>
-                    <TableCell align="right">{yearData.stats.TOI}</TableCell>
-                    <TableCell align="right">{yearData.stats.IPP}</TableCell>
-                   
-                    <TableCell align="right">{yearData.stats.PERCENTAGE}</TableCell>
-                    <TableCell align="right" style={{ fontSize: '32px' }}>
-                      {countryFlags[yearData.stats.countryCode] || '🇺🇳'}
-                    </TableCell>
-                    <TableCell align="right">{yearData.stats.GOALS}</TableCell>
-                    <TableCell align="right">{yearData.stats.SHOTS}</TableCell>
-                    <TableCell align="right">{yearData.stats.TAKEAWAYS}</TableCell>
-                    
-                    <TableCell align="right">{yearData.stats.HITS}</TableCell> */}
-                  {/* 渲染更多的列数据 */}
+
+
+                  
                 </TableRow>
               ))}
             </TableBody>
